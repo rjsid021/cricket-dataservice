@@ -1,0 +1,2083 @@
+Player,Short Name,Bowling_type,Batting_type,BallByBall missing data,Aggregate missing data,Player_type,Speciality,Wicketkeeper,Team,Speciality_addon,Preferred Position,competition_name,season
+Ruturaj Gaikwad,RD Gaikwad,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,CSK,Pure_Batsman,Opener,IPL,2022
+Ambati Rayadu,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,CSK,Wk_batsman,4,IPL,2022
+Moeen Ali,MM Ali,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Batting_Allrounder,3,IPL,2022
+Ms Dhoni,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,CSK,Wk_batsman,6,IPL,2022
+Ravindra Jadeja,RA Jadeja,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Batting_Allrounder,6,IPL,2022
+Shivam Dube,S Dube,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Batting_Allrounder,5,IPL,2022
+Deepak Chahar,DL Chahar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Bowling_allrounder,8,IPL,2022
+Dwayne Bravo,DJ Bravo,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Bowling_allrounder,8,IPL,2022
+Robin Uthappa,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,CSK,Wk_batsman,3,IPL,2022
+Asif Km,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Tushar Deshpande,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Bowling_allrounder,8,IPL,2022
+Maheesh Theekshana,M Theekshana,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Jagadeesan N,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,CSK,Wk_batsman,Opener,IPL,2022
+Hari Nishanth,,,LEFT HAND BATSMAN,Y,,Domestic,Batsman,0,CSK,Pure_Batsman,Opener,IPL,2022
+Subhranshu Senapati,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,0,CSK,Pure_Batsman,Opener,IPL,2022
+Mukesh Choudhary,,LEFT ARM FAST,LEFT HAND BATSMAN,Y,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Simarjeet Singh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Rajvardhan Hangargekar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,CSK,Bowling_allrounder,8,IPL,2022
+Bhagath Varma,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,Y,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Prashant Solanki,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Chris Jordan,CJ Jordan,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Bowling_allrounder,8,IPL,2022
+Dwaine Pretorius,D Pretorius,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Bowling_allrounder,6,IPL,2022
+Devon Conway,DP Conway,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,CSK,Wk_batsman,Opener,IPL,2022
+Adam Milne,AF Milne,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Mitchell Santner,MJ Santner,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Bowling_allrounder,7,IPL,2022
+Rohit Sharma,RG Sharma,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,MI,Pure_Batsman,Opener,IPL,2022
+Ishan Kishan,Ishan Kishan,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,MI,Wk_batsman,Opener,IPL,2022
+Suryakumar Yadav,SA Yadav,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,MI,Pure_Batsman,4,IPL,2022
+Dewald Brevis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,Y,,Overseas,All_rounder,0,MI,Batting_Allrounder,3,IPL,2022
+Kieron Pollard,KA Pollard,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,MI,Batting_Allrounder,6,IPL,2022
+Jasprit Bumrah,JJ Bumrah,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Murugan Ashwin,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Basil Thampi,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Jaydev Unadkat,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Mayank Markande,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Sanjay Yadav,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,Y,,Domestic,All_rounder,0,MI,Bowling_allrounder,7,IPL,2022
+Ramandeep Singh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,MI,Batting_Allrounder,5,IPL,2022
+Aryan Juyal,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,1,MI,Wk_batsman,Opener,IPL,2022
+Arjun Tendulkar,,LEFT ARM FAST,LEFT HAND BATSMAN,Y,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Thakur Tilak Varma,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,Y,,Domestic,All_rounder,0,MI,Batting_Allrounder,3,IPL,2022
+Hrithik Shokeen,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,Y,Domestic,All_rounder,0,MI,Bowling_allrounder,8,IPL,2022
+Rahul Buddhi,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,Y,,Domestic,All_rounder,0,MI,Batting_Allrounder,5,IPL,2022
+Arshad Khan,,LEFT ARM FAST,LEFT HAND BATSMAN,Y,Y,Domestic,All_rounder,0,MI,Bowling_allrounder,7,IPL,2022
+Tymal Mills,TS Mills,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Jofra Archer,JC Archer,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,MI,Bowling_allrounder,8,IPL,2022
+Fabian Allen,FA Allen,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,MI,Bowling_allrounder,7,IPL,2022
+Daniel Sams,DR Sams,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,MI,Bowling_allrounder,7,IPL,2022
+Anmolpreet Singh,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,MI,Pure_Batsman,Opener,IPL,2022
+Tim David,TH David,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,MI,Batting_Allrounder,5,IPL,2022
+Riley Meredith,RP Meredith,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Axar Patel,AR Patel,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Bowling_allrounder,7,IPL,2022
+Anrich Nortje,A Nortje,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2022
+Ashwin Hebbar,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,0,DC,Pure_Batsman,Opener,IPL,2022
+Chetan Sakariya,C Sakariya,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2022
+David Warner,DA Warner,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,DC,Pure_Batsman,Opener,IPL,2022
+K S Bharat,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,DC,Wk_batsman,3,IPL,2022
+Kamalesh Nagarkoti,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Bowling_allrounder,8,IPL,2022
+Khaleel Ahmed,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2022
+Kuldeep Yadav,Kuldeep Yadav,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2022
+Lalit Yadav,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Bowling_allrounder,7,IPL,2022
+Lungi Ngidi,L Ngidi,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2022
+Mandeep Singh,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,3,IPL,2022
+Mitchell Marsh,MR Marsh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,DC,Batting_Allrounder,3,IPL,2022
+Mustafizur Rahman,Mustafizur Rahman,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2022
+Praveen Dubey,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Bowling_allrounder,8,IPL,2022
+Prithvi Shaw,PP Shaw,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,Opener,IPL,2022
+Ripal Patel,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Batting_Allrounder,5,IPL,2022
+Rishabh Pant,RR Pant,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,DC,Wk_batsman,5,IPL,2022
+Rovman Powell,R Powell,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,DC,Batting_Allrounder,5,IPL,2022
+Sarfaraz Khan,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,4,IPL,2022
+Shardul Thakur,SN Thakur,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Bowling_allrounder,7,IPL,2022
+Tim Seifert,TL Seifert,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,DC,Wk_batsman,Opener,IPL,2022
+Vicky Ostwal,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,Y,Y,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2022
+Yash Dhull,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,Y,Domestic,All_rounder,0,DC,Batting_Allrounder,3,IPL,2022
+Faf Du Plessis,F du Plessis,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,RCB,Pure_Batsman,Opener,IPL,2022
+Virat Kohli,V Kohli,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,RCB,Pure_Batsman,Opener,IPL,2022
+Glenn Maxwell,GJ Maxwell,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Batting_Allrounder,4,IPL,2022
+Anuj Rawat,,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,RCB,Wk_batsman,4,IPL,2022
+Dinesh Karthik,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,RCB,Wk_batsman,5,IPL,2022
+Shahbaz Ahmed,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Bowling_allrounder,7,IPL,2022
+Wanindu Hasaranga,PWH de Silva,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Bowling_allrounder,7,IPL,2022
+Harshal Patel,HV Patel,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Bowling_allrounder,8,IPL,2022
+Josh Hazlewood,JR Hazlewood,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2022
+Mohammed Siraj,Mohammed Siraj,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2022
+Akash Deep,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2022
+Suyash Prabhudessai,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,RCB,Batting_Allrounder,5,IPL,2022
+Luvnith Sisodia,,,LEFT HAND BATSMAN,Y,Y,Domestic,Batsman,1,RCB,Wk_batsman,Opener,IPL,2022
+Aneeshwar Gautam,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,Y,Y,Domestic,All_rounder,0,RCB,Bowling_allrounder,5,IPL,2022
+Jason Behrendorff,JP Behrendorff,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2022
+Karn Sharma,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Bowling_allrounder,7,IPL,2022
+David Willey,DJ Willey,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Bowling_allrounder,8,IPL,2022
+Siddarth Kaul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2022
+Chama Milind,,LEFT ARM FAST,LEFT HAND BATSMAN,Y,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2022
+Mahipal Lomror,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Batting_Allrounder,5,IPL,2022
+Sherfane Rutherford,SE Rutherford,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,RCB,Pure_Batsman,4,IPL,2022
+FH Allen,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,RCB,Wk_batsman,Opener,IPL,2022
+Venkatesh Iyer,VR Iyer,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KKR,Batting_Allrounder,Opener,IPL,2022
+Nitish Rana,N Rana,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KKR,Batting_Allrounder,3,IPL,2022
+Shreyas Iyer,SS Iyer,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,KKR,Pure_Batsman,3,IPL,2022
+Sheldon Jackson,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,1,KKR,Wk_batsman,Opener,IPL,2022
+Ajinkya Rahane,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,KKR,Pure_Batsman,Opener,IPL,2022
+Rinku Singh,,,LEFT HAND BATSMAN,,,Domestic,Batsman,0,KKR,Pure_Batsman,4,IPL,2022
+Andre Russell,AD Russell,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Batting_Allrounder,6,IPL,2022
+Sunil Narine,SP Narine,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Bowling_allrounder,Opener,IPL,2022
+Pat Cummins,PJ Cummins,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Bowling_allrounder,7,IPL,2022
+Shivam Mavi,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,KKR,Bowling_allrounder,8,IPL,2022
+Varun Chakravathi V,CV Varun,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2022
+Sam Billings,SW Billings,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,KKR,Wk_batsman,5,IPL,2022
+Anukul Roy,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KKR,Bowling_allrounder,7,IPL,2022
+Rasikh Salam,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2022
+Abhijeet Tomar,,,RIGHT HAND BATSMAN,Y,Y,Domestic,Batsman,0,KKR,Pure_Batsman,Opener,IPL,2022
+Pratham Singh,,,LEFT HAND BATSMAN,Y,,Domestic,Batsman,0,KKR,Pure_Batsman,4,IPL,2022
+Aman Khan,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,0,KKR,Pure_Batsman,Opener,IPL,2022
+Ramesh Kumar,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,Y,Y,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2022
+Ashok Sharma,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,Y,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2022
+Tim Southee,TG Southee,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2022
+Aaron Finch,AJ Finch,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,KKR,Pure_Batsman,Opener,IPL,2022
+Mohammad Nabi,Mohammad Nabi,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Bowling_allrounder,7,IPL,2022
+Umesh Yadav,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2022
+Indrajith B,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,Y,Domestic,All_rounder,0,KKR,Batting_Allrounder,3,IPL,2022
+C Karunaratne,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Bowling_allrounder,7,IPL,2022
+Abhishek Sharma,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Batting_Allrounder,Opener,IPL,2022
+Rahul Tripathi,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,SRH,Pure_Batsman,Opener,IPL,2022
+Kane Williamson,KS Williamson,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,SRH,Pure_Batsman,3,IPL,2022
+Nicholas Pooran,N Pooran,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,SRH,Wk_batsman,4,IPL,2022
+Aiden Markram,AK Markram,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SRH,Batting_Allrounder,3,IPL,2022
+Priyam Garg,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,SRH,Pure_Batsman,3,IPL,2022
+Abdul Samad,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Batting_Allrounder,6,IPL,2022
+Washington Sundar,Washington Sundar,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Batting_Allrounder,4,IPL,2022
+Marco Jansen,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SRH,Bowling_allrounder,7,IPL,2022
+Bhuvneshwar Kumar,B Kumar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Bowling_allrounder,8,IPL,2022
+Jagadeesha Suchith,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Bowling_allrounder,8,IPL,2022
+Shreyas Gopal,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2022
+Kartik Tyagi,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2022
+T Natarajan,T Natarajan,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2022
+Umran Malik,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2022
+Saurabh Dubey,,LEFT ARM FAST,RIGHT HAND BATSMAN,Y,Y,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2022
+Shashank Singh,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,0,SRH,Pure_Batsman,4,IPL,2022
+Sean Abbott,SA Abbott,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SRH,Bowling_allrounder,7,IPL,2022
+R Samarth,,,RIGHT HAND BATSMAN,Y,Y,Domestic,Batsman,0,SRH,Pure_Batsman,3,IPL,2022
+Romario Shepherd,R Shepherd,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SRH,Bowling_allrounder,6,IPL,2022
+Vishnu Vinod,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,1,SRH,Wk_batsman,5,IPL,2022
+Glenn Phillips,GD Phillips,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,SRH,Wk_batsman,Opener,IPL,2022
+FazalHaq Farooqi,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2022
+Shikhar Dhawan,S Dhawan,,LEFT HAND BATSMAN,,,Domestic,Batsman,0,KXIP,Pure_Batsman,Opener,IPL,2022
+Mayank Agarwal,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,KXIP,Pure_Batsman,Opener,IPL,2022
+Jonny Bairstow,JM Bairstow,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,KXIP,Wk_batsman,3,IPL,2022
+Liam Livingstone,LS Livingstone,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Batting_Allrounder,4,IPL,2022
+Jitesh Sharma,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,1,KXIP,Wk_batsman,5,IPL,2022
+Simran Singh,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,KXIP,Wk_batsman,Opener,IPL,2022
+Odean Smith,OF Smith,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Bowling_allrounder,7,IPL,2022
+Shahrukh Khan M,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,KXIP,Batting_Allrounder,6,IPL,2022
+Harpreet Brar,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KXIP,Bowling_allrounder,8,IPL,2022
+Kagiso Rabada,K Rabada,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Bowling_allrounder,8,IPL,2022
+Rahul Chahar,RD Chahar,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Arshdeep Singh,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Ishan Porel,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Sandeep Sharma,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Sandeep Sharma,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Atharva Taide,,,LEFT HAND BATSMAN,Y,,Domestic,Batsman,0,KXIP,Pure_Batsman,Opener,IPL,2022
+Vaibhav Gopal Arora,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Ansh Patel,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Rajangad Bawa,,RIGHT ARM FAST,LEFT HAND BATSMAN,Y,Y,Domestic,All_rounder,0,KXIP,Batting_Allrounder,4,IPL,2022
+Benny Howell,BAC Howell,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Bowling_allrounder,7,IPL,2022
+Rishi Dhawan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,KXIP,Bowling_allrounder,7,IPL,2022
+Bhanuka Rajapaksa,PBB Rajapaksa,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,KXIP,Pure_Batsman,4,IPL,2022
+Baltej Singh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Writtick Chatterjee,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,KXIP,Batting_Allrounder,4,IPL,2022
+Nathan Ellis,NT Ellis,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2022
+Prerak Mankad,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,KXIP,Batting_Allrounder,5,IPL,2022
+Devdutt Padikkal,D Padikkal,,LEFT HAND BATSMAN,,,Domestic,Batsman,0,RR,Pure_Batsman,Opener,IPL,2022
+Yashasvi Jaiswal,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Batting_Allrounder,Opener,IPL,2022
+Sanju Samson,SV Samson,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,RR,Wk_batsman,3,IPL,2022
+Jos Buttler,JC Buttler,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,RR,Wk_batsman,Opener,IPL,2022
+Shimron Hetmyer,SO Hetmyer,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,RR,Pure_Batsman,5,IPL,2022
+Riyan Parag,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Batting_Allrounder,5,IPL,2022
+R Ashwin,R Ashwin,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Bowling_allrounder,8,IPL,2022
+Trent Boult,TA Boult,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Yuzvendra Chahal,YS Chahal,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Prasidh Krishna,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Kc Cariappa,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Navdeep Saini,NA Saini,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Tejas Baroka,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,Y,Y,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Anunay Singh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Kuldeep Sen,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Dhruv Jurel,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,1,RR,Pure_Batsman,Opener,IPL,2022
+Kuldip Yadav,,LEFT ARM FAST,LEFT HAND BATSMAN,Y,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Shubham Garhwal,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,Y,Y,Domestic,All_rounder,0,RR,Bowling_allrounder,8,IPL,2022
+Nathan Coulter Nile,NM Coulter-Nile,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RR,Bowling_allrounder,7,IPL,2022
+Rassie Van Der Dussen,HE van der Dussen,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,RR,Wk_batsman,5,IPL,2022
+James Neesham,JDS Neesham,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,RR,Bowling_allrounder,5,IPL,2022
+Daryl Mitchell,DJ Mitchell,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RR,Batting_Allrounder,Opener,IPL,2022
+Karun Nair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Batting_Allrounder,3,IPL,2022
+Obed Mccoy,OC McCoy,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2022
+Kl Rahul,KL Rahul,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,LKSG,Wk_batsman,Opener,IPL,2022
+Quinton De Kock,Q de Kock,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,LKSG,Wk_batsman,Opener,IPL,2022
+Manish Pandey,MK Pandey,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,LKSG,Pure_Batsman,4,IPL,2022
+Deepak Hooda,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Batting_Allrounder,5,IPL,2022
+Marcus Stoinis,MP Stoinis,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,LKSG,Batting_Allrounder,5,IPL,2022
+Krunal Pandya,KH Pandya,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Bowling_allrounder,6,IPL,2022
+Jason Holder,JO Holder,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,LKSG,Bowling_allrounder,6,IPL,2022
+Ravi Bishnoi,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Avesh Khan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Mark Wood,MA Wood,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Dushmantha Chameera,PVD Chameera,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Ankit Rajpoot,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Shahbaz Nadeem,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Manan Vohra,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,LKSG,Pure_Batsman,Opener,IPL,2022
+Mohsin Khan,,LEFT ARM FAST,LEFT HAND BATSMAN,Y,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Ayush Badoni,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,LKSG,Batting_Allrounder,3,IPL,2022
+Karan Sharma,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,,Domestic,All_rounder,0,LKSG,Batting_Allrounder,Opener,IPL,2022
+Mayank Yadav,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,Y,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2022
+Kyle Mayers,KR Mayers,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,LKSG,Pure_Batsman,Opener,IPL,2022
+Krishnappa Gowtham,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Bowling_allrounder,8,IPL,2022
+Evin Lewis,E Lewis,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,LKSG,Pure_Batsman,Opener,IPL,2022
+Abhinav Manohar,,,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,0,GT,Pure_Batsman,5,IPL,2022
+Alzarri Joseph,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,GT,Bowling_allrounder,8,IPL,2022
+Darshan Nalkande,,RIGHT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2022
+David Miller,DA Miller,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,GT,Pure_Batsman,4,IPL,2022
+Dominic Drakes,DC Drakes,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,GT,Bowling_allrounder,8,IPL,2022
+Gurkeerat Mann Singh,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,GT,Pure_Batsman,3,IPL,2022
+Hardik Pandya,HH Pandya,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Batting_Allrounder,6,IPL,2022
+Jayant Yadav,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Bowling_allrounder,8,IPL,2022
+Lockie Ferguson,LH Ferguson,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2022
+Matthew Wade,MS Wade,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,GT,Wk_batsman,6,IPL,2022
+Mohammed Shami,Mohammed Shami,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2022
+Noor Ahmad,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,GT,Bowling_allrounder,8,IPL,2022
+Pradeep Sangwan,,LEFT ARM FAST,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2022
+Rahmanullah Gurbaz,,,RIGHT HAND BATSMAN,Y,Y,Overseas,Batsman,1,GT,Wk_batsman,Opener,IPL,2022
+Rahul Tewatia,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Bowling_allrounder,7,IPL,2022
+Rashid Khan,Rashid Khan,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,GT,Bowling_allrounder,Lower Order,IPL,2022
+Sai Kishore R,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,Y,,Domestic,All_rounder,0,GT,Bowling_allrounder,8,IPL,2022
+Sai Sudharsan B,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,Y,,Domestic,All_rounder,0,GT,Batting_Allrounder,Opener,IPL,2022
+Shubman Gill,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,GT,Pure_Batsman,Opener,IPL,2022
+Varun Aaron,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2022
+Vijay Shankar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Batting_Allrounder,4,IPL,2022
+Wriddhiman Saha,,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,GT,Wk_batsman,Opener,IPL,2022
+Yash Dayal,,LEFT ARM FAST,LEFT HAND BATSMAN,Y,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2022
+Rajat Patidar,Rajat Patidar,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,,Domestic,Batsman,0,RCB,Pure_Batsman,3,IPL,2022
+Kumar Kartikeya Singh,Kumar Kartikeya,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,Y,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2022
+Tristan Stubbs,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,MI,Wk_batsman,6,IPL,2022
+Harshit Rana,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2022
+Andrew Tye,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,LKSG,Bowling_allrounder,Lower Order,IPL,2022
+Matheesha Pathirana,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2022
+Mujeeb Ur Rahman,Mujeeb Ur Rahman,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,AFGH,Pure_Bowler,Lower Order,T20,
+Mohammad Nabi,Mohammad Nabi,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AFGH,Bowling_allrounder,6,T20,
+Naveen Ul Haq,Naveen-ul-Haq,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,AFGH,Pure_Bowler,Lower Order,T20,
+FazalHaq Farooqi,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,AFGH,Pure_Bowler,Lower Order,T20,
+Rahmanullah Gurbaz,,,RIGHT HAND BATSMAN,Y,Y,Overseas,Batsman,1,AFGH,Wk_batsman,Opener,T20,
+Rashid Khan,Rashid Khan,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AFGH,Bowling_allrounder,7,T20,
+Mohammad Saleem,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,AFGH,Pure_Bowler,Lower Order,T20,
+Darwish Rasooli,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,AFGH,Pure_Batsman,4,T20,
+Usman Ghani,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,AFGH,Pure_Batsman,Opener,T20,
+Fareed Ahmad,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,AFGH,Pure_Bowler,Lower Order,T20,
+Najibullah Zadran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,AFGH,Batting_Allrounder,5,T20,
+Qais Ahmad,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,AFGH,Pure_Bowler,Lower Order,T20,
+Hazrat Zazai,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,Batsman,0,AFGH,Pure_Batsman,Opener,T20,
+Azmatullah Omarzai,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AFGH,Bowling_allrounder,Lower Order,T20,
+Ibrahim Zadran,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,AFGH,Batting_Allrounder,3,T20,
+Tim David,TH David,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AUST,Batting_Allrounder,5,T20,
+David Warner,DA Warner,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,AUST,Pure_Batsman,Opener,T20,
+Mitchell Marsh,MR Marsh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AUST,Batting_Allrounder,3,T20,
+Glenn Maxwell,GJ Maxwell,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AUST,Batting_Allrounder,4,T20,
+Josh Hazlewood,JR Hazlewood,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,AUST,Pure_Bowler,Lower Order,T20,
+Pat Cummins,PJ Cummins,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AUST,Bowling_allrounder,7,T20,
+Aaron Finch,AJ Finch,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,AUST,Pure_Batsman,Opener,T20,
+Marcus Stoinis,MP Stoinis,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,AUST,Batting_Allrounder,5,T20,
+Matthew Wade,MS Wade,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,AUST,Wk_batsman,6,T20,
+Ashton Agar,AC Agar,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,AUST,Bowling_allrounder,Lower Order,T20,
+Kane Richardson,KW Richardson,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,AUST,Pure_Bowler,Lower Order,T20,
+Mitchell Starc,MA Starc,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,AUST,Pure_Bowler,Lower Order,T20,
+Adam Zampa,A Zampa,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,AUST,Pure_Bowler,Lower Order,T20,
+Josh Inglis,JP Inglis,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,AUST,Wk_batsman,7,T20,
+Steven Smith,SPD Smith,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,AUST,Pure_Batsman,3,T20,
+Moeen Ali,MM Ali,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Batting_Allrounder,6,T20,
+Chris Jordan,CJ Jordan,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Bowling_allrounder,Lower Order,T20,
+David Willey,DJ Willey,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Bowling_allrounder,Lower Order,T20,
+Liam Livingstone,LS Livingstone,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Batting_Allrounder,4,T20,
+Jos Buttler,JC Buttler,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,ENGL,Wk_batsman,Opener,T20,
+Mark Wood,MA Wood,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,ENGL,Pure_Bowler,Lower Order,T20,
+Chris Woakes,CR Woakes,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Bowling_allrounder,7,T20,
+RJW Topley,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,ENGL,Pure_Bowler,Lower Order,T20,
+Philip Salt,PD Salt,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,ENGL,Pure_Batsman,Opener,T20,
+Dawid Malan,DJ Malan,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Batting_Allrounder,3,T20,
+HC Brook,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,ENGL,Pure_Batsman,5,T20,
+Alex Hales,AD Hales,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,ENGL,Pure_Batsman,Opener,T20,
+Ben Stokes,BA Stokes,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Batting_Allrounder,4,T20,
+Adil Rashid,AU Rashid,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,ENGL,Pure_Bowler,Lower Order,T20,
+Sam Curran,SM Curran,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ENGL,Bowling_allrounder,7,T20,
+Devon Conway,DP Conway,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,NZ,Wk_batsman,Opener,T20,
+Adam Milne,AF Milne,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NZ,Pure_Bowler,Lower Order,T20,
+Mitchell Santner,MJ Santner,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,NZ,Bowling_allrounder,7,T20,
+FH Allen,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,NZ,Wk_batsman,Opener,T20,
+Tim Southee,TG Southee,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NZ,Pure_Bowler,Lower Order,T20,
+Kane Williamson,KS Williamson,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,NZ,Pure_Batsman,3,T20,
+Glenn Phillips,GD Phillips,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,NZ,Wk_batsman,4,T20,
+Trent Boult,TA Boult,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NZ,Pure_Bowler,Lower Order,T20,
+James Neesham,JDS Neesham,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,NZ,Bowling_allrounder,6,T20,
+Daryl Mitchell,DJ Mitchell,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,NZ,Batting_Allrounder,Opener,T20,
+Lockie Ferguson,LH Ferguson,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NZ,Pure_Bowler,Lower Order,T20,
+Ish Sodhi,IS Sodhi,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NZ,Pure_Bowler,Lower Order,T20,
+Martin Guptill,MJ Guptill,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,NZ,Batting_Allrounder,Opener,T20,
+MG Bracewell,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,NZ,Batting_Allrounder,7,T20,
+MS Chapman,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,NZ,Batting_Allrounder,5,T20,
+Mustafizur Rahman,Mustafizur Rahman,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,BANG,Pure_Bowler,Lower Order,T20,
+Yasir Ali Chowdhury,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,BANG,Batting_Allrounder,6,T20,
+Soumya Sarkar,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,BANG,Batting_Allrounder,Opener,T20,
+Nasum Ahmed,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,Bowler,0,BANG,Pure_Bowler,Lower Order,T20,
+Shoriful Islam,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,BANG,Pure_Bowler,Lower Order,T20,
+Mehedi Hasan Miraz,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,BANG,Bowling_allrounder,7,T20,
+Hasan Mahmud,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,BANG,Pure_Bowler,Lower Order,T20,
+Shakib Al Hasan,Shakib Al Hasan,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,BANG,Batting_Allrounder,4,T20,
+Taskin Ahmed,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,BANG,Pure_Bowler,Lower Order,T20,
+Nurul Hasan,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,BANG,Wk_batsman,6,T20,
+Nazmul Hossain Shanto,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,0,BANG,Pure_Batsman,Opener,T20,
+Mosaddek Hossain,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,BANG,Batting_Allrounder,6,T20,
+Litton Das,Liton Das,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,BANG,Wk_batsman,3,T20,
+Ebadat Hossain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,BANG,Pure_Bowler,Lower Order,T20,
+Afif Hossain,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,BANG,Batting_Allrounder,5,T20,
+Arshdeep Singh,Arshdeep Singh,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,INDI,Pure_Bowler,Lower Order,T20,
+R Ashwin,R Ashwin,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,INDI,Bowling_allrounder,8,T20,
+Mohammed Shami,Mohammed Shami,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,INDI,Pure_Bowler,Lower Order,T20,
+Rohit Sharma,RG Sharma,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,INDI,Pure_Batsman,Opener,T20,
+Suryakumar Yadav,SA Yadav,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,INDI,Pure_Batsman,4,T20,
+Axar Patel,AR Patel,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,INDI,Bowling_allrounder,7,T20,
+Rishabh Pant,RR Pant,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,INDI,Wk_batsman,5,T20,
+Virat Kohli,V Kohli,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,INDI,Pure_Batsman,3,T20,
+Harshal Patel,HV Patel,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,INDI,Bowling_allrounder,Lower Order,T20,
+Bhuvneshwar Kumar,B Kumar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,INDI,Bowling_allrounder,Lower Order,T20,
+Yuzvendra Chahal,YS Chahal,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,INDI,Pure_Bowler,Lower Order,T20,
+Kl Rahul,KL Rahul,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,INDI,Wk_batsman,Opener,T20,
+Hardik Pandya,HH Pandya,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,INDI,Batting_Allrounder,6,T20,
+Dinesh Karthik,KD Karthik,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,INDI,Pure_Batsman,6,T20,
+Deepak Hooda,DJ Hooda,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,INDI,Batting_Allrounder,5,T20,
+Babar Azam,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,PAKI,Pure_Batsman,Opener,T20,
+Asif Ali,Asif Ali,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,1,PAKI,Batting_Allrounder,6,T20,
+Shadab Khan,Shadab Khan,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,PAKI,Bowling_allrounder,7,T20,
+Haider Ali,Haider Ali,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,PAKI,Pure_Batsman,4,T20,
+Iftikhar Ahmed,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,PAKI,Pure_Batsman,4,T20,
+Khushdil Shah,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,Batsman,0,PAKI,Pure_Batsman,5,T20,
+Mohammad Hasnain,Mohammad Hasnain,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,PAKI,Pure_Bowler,Lower Order,T20,
+Mohammad Nawaz (3),,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,PAKI,Bowling_allrounder,7,T20,
+Mohammad Rizwan,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,PAKI,Wk_batsman,Opener,T20,
+Mohammad Wasim,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,PAKI,Bowling_allrounder,Lower Order,T20,
+Naseem Shah,Naseem Shah,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,PAKI,Pure_Bowler,Lower Order,T20,
+Shaheen Shah Afridi,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,PAKI,Pure_Bowler,Lower Order,T20,
+Shan Masood,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Batsman,0,PAKI,Pure_Batsman,3,T20,
+Fakhar Zaman,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,Batsman,0,PAKI,Pure_Batsman,3,T20,
+Haris Rauf,Haris Rauf,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,PAKI,Pure_Bowler,Lower Order,T20,
+Anrich Nortje,A Nortje,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SA,Pure_Bowler,Lower Order,T20,
+Lungi Ngidi,L Ngidi,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SA,Pure_Bowler,Lower Order,T20,
+Aiden Markram,AK Markram,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SA,Batting_Allrounder,4,T20,
+Kagiso Rabada,K Rabada,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,SA,Bowling_allrounder,8,T20,
+Quinton De Kock,Q de Kock,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,SA,Wk_batsman,Opener,T20,
+David Miller,DA Miller,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,SA,Pure_Batsman,5,T20,
+Wayne Parnell,WD Parnell,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,SA,Bowling_allrounder,7,T20,
+Tabraiz Shamsi,T Shamsi,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SA,Pure_Bowler,Lower Order,T20,
+KA Maharaj,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SA,Pure_Bowler,8,T20,
+T Bavuma,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,SA,Pure_Batsman,Opener,T20,
+Rilee Rossouw,RR Rossouw,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,0,SA,Pure_Batsman,3,T20,
+RR Hendricks,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,SA,Pure_Batsman,Opener,T20,
+Heinrich Klaasen,H Klaasen,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,SA,Pure_Batsman,5,T20,
+Tristan Stubbs,T Stubbs,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,SA,Pure_Batsman,6,T20,
+Marco Jansen,M Jansen,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SA,Bowling_allrounder,Lower Order,T20,
+CN Ackermann,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,NETH,Batting_Allrounder,4,T20,
+Shariz Ahmad,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,Bowler,0,NETH,Pure_Bowler,Lower Order,T20,
+LV van Beek,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NETH,Pure_Bowler,Lower Order,T20,
+Tom Cooper,TLW Cooper,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,NETH,Pure_Batsman,5,T20,
+BD Glover,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NETH,Pure_Bowler,Lower Order,T20,
+T van der Gugten,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NETH,Pure_Bowler,Lower Order,T20,
+FJ Klaassen,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NETH,Pure_Bowler,Lower Order,T20,
+BFW de Leede,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,NETH,Batting_Allrounder,3,T20,
+Paul Van Meekeren,PA van Meekeren,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,NETH,Pure_Bowler,Lower Order,T20,
+Roelof Van Der Merwe,RE van der Merwe,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,NETH,Batting_Allrounder,7,T20,
+SJ Myburgh,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,0,NETH,Pure_Batsman,Opener,T20,
+MP ODowd,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,NETH,Pure_Batsman,Opener,T20,
+Vikramjit Singh,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Batsman,0,NETH,Pure_Batsman,Opener,T20,
+TJG Pringle,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,NETH,Bowling_allrounder,7,T20,
+SA Edwards,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,NETH,Wk_batsman,6,T20,
+MD Shanaka,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SL,Bowling_allrounder,6,T20,
+CAK Rajitha,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SL,Pure_Bowler,Lower Order,T20,
+DM de Silva,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SL,Batting_Allrounder,3,T20,
+C Karunaratne,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SL,Bowling_allrounder,Lower Order,T20,
+KIC Asalanka,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,SL,Batting_Allrounder,4,T20,
+Wanindu Hasaranga,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SL,Bowling_allrounder,7,T20,
+KNA Bandara,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,SL,Pure_Batsman,7,T20,
+CBRLS Kumara,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,SL,Pure_Bowler,Lower Order,T20,
+Pramod Madushan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SL,Pure_Bowler,Lower Order,T20,
+BKG Mendis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,SL,Pure_Batsman,Opener,T20,
+P Nissanka,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,SL,Batsman,Opener,T20,
+Bhanuka Rajapaksa,PBB Rajapaksa,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Batsman,0,SL,Pure_Batsman,5,T20,
+Maheesh Theekshana,M Theekshana,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SL,Pure_Bowler,Lower Order,T20,
+JDF Vandersay,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SL,Pure_Bowler,Lower Order,T20,
+B Fernando,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SL,Pure_Bowler,Lower Order,T20,
+A Balbirnie,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,IREL,Pure_Batsman,Opener,T20,
+PR Stirling,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,IREL,Batting_Allrounder,Opener,T20,
+MR Adair,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,IREL,Bowling_allrounder,Lower Order,T20,
+C Campher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,IREL,Batting_Allrounder,5,T20,
+GJ Delany,,,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,IREL,Batting_Allrounder,7,T20,
+GH Dockrell,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,IREL,Batting_Allrounder,6,T20,
+Stephen Doheny,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,IREL,Pure_Batsman,Opener,T20,
+F Hand,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,IREL,Bowling_allrounder,,T20,
+J Little,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,IREL,Pure_Bowler,Lower Order,T20,
+BJ McCarthy,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,IREL,Pure_Bowler,Lower Order,T20,
+C Olphert,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,IREL,Pure_Bowler,,T20,
+Simi Singh,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,IREL,Bowling_allrounder,Lower Order,T20,
+HT Tector,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,IREL,Pure_Batsman,4,T20,
+L Tucker,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,IREL,Wk_batsman,3,T20,
+GI Hume,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,IREL,Pure_Bowler,Lower Order,T20,
+CR Ervine,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,0,ZIMB,Pure_Batsman,Opener,T20,
+RP Burl,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ZIMB,Batting_Allrounder,7,T20,
+RW Chakabva,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,ZIMB,Wk_batsman,Opener,T20,
+TL Chatara,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,ZIMB,Pure_Bowler,Lower Order,T20,
+B Evans,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,ZIMB,Bowling_allrounder,Lower Order,T20,
+LM Jongwe,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,ZIMB,Pure_Bowler,Lower Order,T20,
+C Madande,,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,ZIMB,Wk_batsman,6,T20,
+W Madhevere,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,ZIMB,Batting_Allrounder,3,T20,
+WP Masakadza,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,Bowler,0,ZIMB,Pure_Bowler,Lower Order,T20,
+T Munyonga,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,ZIMB,Batting_Allrounder,Lower Order,T20,
+B Muzarabani,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,ZIMB,Pure_Bowler,Lower Order,T20,
+R Ngarava,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,ZIMB,Pure_Bowler,Lower Order,T20,
+M Shumba,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ZIMB,Batting_Allrounder,6,T20,
+SC Williams,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,ZIMB,Batting_Allrounder,4,T20,
+Sikandar Raza,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,ZIMB,Batting_Allrounder,5,T20,
+Ms Dhoni,MS Dhoni,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,CSK,Wk_Batsman,5,IPL,2023
+Moeen Ali,MM Ali,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Batting_Allrounder,3,IPL,2023
+Bhagath Varma,K Bhagath Varma,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Bowling_Allrounder,Lower Order,IPL,2023
+Deepak Chahar,DL Chahar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,CSK,Pure_Bowler,7,IPL,2023
+Devon Conway,DP Conway,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Batsman,1,CSK,Wk_Batsman,Openers,IPL,2023
+Tushar Deshpande,TU Deshpande,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Shivam Dube,S Dube,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Allrounder,5,IPL,2023
+Ruturaj Gaikwad,RD Gaikwad,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,CSK,Pure_Batsman,Openers,IPL,2023
+Rajvardhan Hangargekar,RS Hangargekar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Bowling_Allrounder,Lower Order,IPL,2023
+Ravindra Jadeja,RA Jadeja,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Allrounder,6,IPL,2023
+Kyle Jamieson,KA Jamieson,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,CSK,Pure_Bowler,7,IPL,2023
+Ajay Mandal,Ajay Mandal,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Bowling_Allrounder,6,IPL,2023
+Mukesh Choudhary,Mukesh Choudhary,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Matheesha Pathirana,M Pathirana,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Dwaine Pretorius,D Pretorius,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Bowling_Allrounder,6,IPL,2023
+Ajinkya Rahane,AM Rahane,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,CSK,Pure_Batsman,Openers,IPL,2023
+Shaik Rasheed,SK Rasheed,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,CSK,Pure_Batsman,6,IPL,2023
+S K Rasheed,SK Rasheed,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,CSK,Pure_Batsman,6,IPL,2023
+Ambati Rayadu,AT Rayudu,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,CSK,Pure_Batsman,4,IPL,2023
+Mitchell Santner,MJ Santner,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Bowling_Allrounder,7,IPL,2023
+Subhranshu Senapati,Subhransu Senapati,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,CSK,Pure_Batsman,3,IPL,2023
+Simarjeet Singh,Simarjeet Singh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Nishant Sindhu,N Sindhu,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,CSK,Allrounder,5,IPL,2023
+Prashant Solanki,PH Solanki,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Ben Stokes,BA Stokes,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,CSK,Allrounder,4,IPL,2023
+Maheesh Theekshana,M Theekshana,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Rishabh Pant,RR Pant,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,DC,Wk_Batsman,4,IPL,2023
+Khaleel Ahmed,KK Ahmed,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Aman Khan,Aman Hakim Khan,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,7,IPL,2023
+Aman Hakim Khan,Aman Hakim Khan,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,7,IPL,2023
+Yash Dhull,YV Dhull,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,3,IPL,2023
+Praveen Dubey,P Dubey,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,6,IPL,2023
+Sarfaraz Khan,SN Khan,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,6,IPL,2023
+Kuldeep Yadav,Kuldeep Yadav,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Lalit Yadav,Lalit Yadav,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Allrounder,6,IPL,2023
+Mitchell Marsh,MR Marsh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,DC,Allrounder,3,IPL,2023
+Mukesh Kumar,Mukesh Kumar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Mustafizur Rahman,Mustafizur Rahman,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Kamalesh Nagarkoti,KL Nagarkoti,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Lungi Ngidi,L Ngidi,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Anrich Nortje,A Nortje,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Vicky Ostwal,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Manish Pandey,MK Pandey,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,3,IPL,2023
+Ripal Patel,RV Patel,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,6,IPL,2023
+Axar Patel,AR Patel,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,DC,Bowling_Allrounder,7,IPL,2023
+Rovman Powell,R Powell,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,DC,Pure_Batsman,6,IPL,2023
+Rilee Rossouw,RR Rossouw,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,0,DC,Pure_Batsman,4,IPL,2023
+Chetan Sakariya,C Sakariya,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Philip Salt,PD Salt,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,DC,Wk_Batsman,Openers,IPL,2023
+Ishant Sharma,I Sharma,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,DC,Pure_Bowler,Lower Order,IPL,2023
+Prithvi Shaw,PP Shaw,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,DC,Pure_Batsman,Openers,IPL,2023
+David Warner,DA Warner,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,0,DC,Pure_Batsman,Openers,IPL,2023
+Hardik Pandya,HH Pandya,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Allrounder,5,IPL,2023
+K S Bharat,KS Bharat,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,GT,Wk_Batsman,Openers,IPL,2023
+Alzarri Joseph,AS Joseph,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Josh Little,J Little,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Abhinav Manohar,A Manohar,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Batting_Allrounder,5,IPL,2023
+David Miller,DA Miller,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,0,GT,Pure_Batsman,5,IPL,2023
+Mohammed Shami,Mohammed Shami,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Darshan Nalkande,DG Nalkande,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Noor Ahmad,Noor Ahmad,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Urvil Patel,Urvil Patel,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,GT,Wk_Batsman,Openers,IPL,2023
+Rashid Khan,Rashid Khan,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,GT,Bowling_Allrounder,Lower Order,IPL,2023
+Wriddhiman Saha,WP Saha,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,GT,Wk_Batsman,Openers,IPL,2023
+Sai Kishore R,R Sai Kishore,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,3,IPL,2023
+Sai Sudharsan B,B Sai Sudharsan,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,Batsman,0,GT,Pure_Batsman,3,IPL,2023
+Pradeep Sangwan,PJ Sangwan,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Vijay Shankar,V Shankar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Allrounder,4,IPL,2023
+Mohit Sharma,MM Sharma,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Shivam Mavi,Shivam Mavi,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Shubman Gill,Shubman Gill,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,GT,Pure_Batsman,Openers,IPL,2023
+Odean Smith,OF Smith,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,GT,Bowling_Allrounder,7,IPL,2023
+Rahul Tewatia,R Tewatia,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,GT,Bowling_Allrounder,6,IPL,2023
+Matthew Wade,MS Wade,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Batsman,1,GT,Wk_Batsman,Openers,IPL,2023
+Kane Williamson,KS Williamson,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,GT,Pure_Batsman,3,IPL,2023
+Jayant Yadav,J Yadav,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Yash Dayal,Yash Dayal,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,GT,Pure_Bowler,Lower Order,IPL,2023
+Shreyas Iyer,SS Iyer,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,KKR,Pure_Batsman,3,IPL,2023
+Vaibhav Gopal Arora,VG Arora,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Lockie Ferguson,LH Ferguson,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Harshit Rana,Harshit Rana,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Venkatesh Iyer,VR Iyer,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KKR,Allrounder,Openers,IPL,2023
+Jagadeesan N,N Jagadeesan,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,KKR,Pure_Batsman,Openers,IPL,2023
+Kulwant Khejroliya,K Khejroliya,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Litton Das,Liton Das,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,KKR,Wk_Batsman,Openers,IPL,2023
+Mandeep Singh,Mandeep Singh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,KKR,Allrounder,Openers,IPL,2023
+Sunil Narine,SP Narine,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Bowling_Allrounder,Openers,IPL,2023
+Rahmanullah Gurbaz,Rahmanullah Gurbaz,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,KKR,Wk_Batsman,Openers,IPL,2023
+Nitish Rana,N Rana,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,Batsman,0,KKR,Pure_Batsman,4,IPL,2023
+Anukul Roy,AS Roy,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KKR,Allrounder,6,IPL,2023
+Andre Russell,AD Russell,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Allrounder,6,IPL,2023
+Shakib Al Hasan,Shakib Al Hasan,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Allrounder,4,IPL,2023
+Rinku Singh,RK Singh,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,Batsman,0,KKR,Pure_Batsman,5,IPL,2023
+Tim Southee,TG Southee,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Suyash Sharma,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Shardul Thakur,SN Thakur,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Varun Chakravathi V,CV Varun,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+David Wiese,D Wiese,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KKR,Allrounder,7,IPL,2023
+Umesh Yadav,UT Yadav,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KKR,Pure_Bowler,Lower Order,IPL,2023
+Kl Rahul,KL Rahul,,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,LKSG,Pure_Batsman,Openers,IPL,2023
+Avesh Khan,Avesh Khan,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Ayush Badoni,A Badoni,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,LKSG,Pure_Batsman,6,IPL,2023
+Quinton De Kock,Q de Kock,,LEFT HAND BATSMAN,,,Overseas,Batsman,1,LKSG,Wk_Batsman,Openers,IPL,2023
+Krishnappa Gowtham,K Gowtham,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Bowling_Allrounder,7,IPL,2023
+Deepak Hooda,DJ Hooda,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Allrounder,5,IPL,2023
+Prerak Mankad,PN Mankad,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Allrounder,4,IPL,2023
+Kyle Mayers,KR Mayers,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,LKSG,Batting_Allrounder,Openers,IPL,2023
+Amit Mishra,A Mishra,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Mohsin Khan,Mohsin Khan,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Naveen Ul Haq,Naveen-ul-Haq,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Krunal Pandya,KH Pandya,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Allrounder,7,IPL,2023
+Nicholas Pooran,N Pooran,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,Batsman,1,LKSG,Wk_Batsman,5,IPL,2023
+Ravi Bishnoi,Ravi Bishnoi,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Daniel Sams,DR Sams,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,LKSG,Allrounder,7,IPL,2023
+Karan Sharma,KS Sharma,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Allrounder,Openers,IPL,2023
+Romario Shepherd,R Shepherd,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,LKSG,Bowling_Allrounder,7,IPL,2023
+Marcus Stoinis,MP Stoinis,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,LKSG,Batting_Allrounder,5,IPL,2023
+Swapnil Singh,Swapnil Singh,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,6,IPL,2023
+Jaydev Unadkat,JD Unadkat,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Manan Vohra,M Vohra,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,LKSG,Pure_Batsman,Openers,IPL,2023
+Mark Wood,MA Wood,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Mayank Yadav,MP Yadav,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Yash Thakur,Yash Thakur,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,Lower Order,IPL,2023
+Yudhvir Singh,Yudhvir Singh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,Pure_Bowler,6,IPL,2023
+Rohit Sharma,RG Sharma,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,MI,Pure_Batsman,Openers,IPL,2023
+Jofra Archer,JC Archer,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Arshad Khan,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Jason Behrendorff,JP Behrendorff,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Dewald Brevis,D Brevis,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,MI,Batting_Allrounder,Openers,IPL,2023
+Jasprit Bumrah,JJ Bumrah,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Piyush Chawla,PP Chawla,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,MI,Bowling_Allrounder,Lower Order,IPL,2023
+Tim David,TH David,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,MI,Pure_Batsman,6,IPL,2023
+Raghav Goyal,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Cameron Green,C Green,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,MI,Batting_Allrounder,Openers,IPL,2023
+Ishan Kishan,Ishan Kishan,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,MI,Wk_Batsman,Openers,IPL,2023
+Duan Jansen,D Jansen,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,Pure_Bowler,7,IPL,2023
+Kumar Kartikeya Singh,K Kartikeya,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Akash Madhwal,Akash Madhwal,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Shams Mulani,SZ Mulani,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,MI,Allrounder,Lower Order,IPL,2023
+Ramandeep Singh,Ramandeep Singh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,MI,Pure_Batsman,5,IPL,2023
+Jhye Richardson,JA Richardson,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Hrithik Shokeen,HR Shokeen,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,6,IPL,2023
+Tristan Stubbs,T Stubbs,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,MI,Wk_Batsman,5,IPL,2023
+Arjun Tendulkar,Arjun Tendulkar,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,MI,Pure_Bowler,3,IPL,2023
+Thakur Tilak Varma,Tilak Varma,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,MI,Batting_Allrounder,3,IPL,2023
+Vishnu Vinod,Vishnu Vinod,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,MI,Wk_Batsman,Openers,IPL,2023
+Nehal Wadhera,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,MI,Batting_Allrounder,5,IPL,2023
+Suryakumar Yadav,SA Yadav,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,MI,Pure_Batsman,4,IPL,2023
+Shikhar Dhawan,S Dhawan,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,Batsman,0,KXIP,Pure_Batsman,Openers,IPL,2023
+Arshdeep Singh,Arshdeep Singh,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2023
+Jonny Bairstow,JM Bairstow,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,KXIP,Wk_Batsman,Openers,IPL,2023
+Baltej Singh,Baltej Singh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2023
+Rajangad Bawa,RA Bawa,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KXIP,Allrounder,5,IPL,2023
+Rahul Chahar,RD Chahar,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2023
+Sam Curran,SM Curran,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Allrounder,7,IPL,2023
+Rishi Dhawan,R Dhawan,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,KXIP,Allrounder,Lower Order,IPL,2023
+Nathan Ellis,NT Ellis,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2023
+Harpreet Brar,Harpreet Brar,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,7,IPL,2023
+Harpreet Singh,Harpreet Singh,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Batsman,0,KXIP,Pure_Batsman,3,IPL,2023
+Vidwath Kaverappa,V Kaverappa,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2023
+Liam Livingstone,LS Livingstone,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Batting_Allrounder,Openers,IPL,2023
+Mohit Rathee,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,KXIP,Batting_Allrounder,5,IPL,2023
+Simran Singh,P Simran Singh,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,KXIP,Wk_Batsman,Openers,IPL,2023
+Kagiso Rabada,K Rabada,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,KXIP,Pure_Bowler,Lower Order,IPL,2023
+Bhanuka Rajapaksa,PBB Rajapaksa,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Batsman,0,KXIP,Pure_Batsman,3,IPL,2023
+Shahrukh Khan M,M Shahrukh Khan,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,KXIP,Pure_Batsman,6,IPL,2023
+Jitesh Sharma,JM Sharma,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,KXIP,Wk_Batsman,Openers,IPL,2023
+Shivam Singh,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,KXIP,Batting_Allrounder,5,IPL,2023
+Sikandar Raza,Sikandar Raza,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Batting_Allrounder,5,IPL,2023
+Atharva Taide,Atharva Taide,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,KXIP,Batting_Allrounder,Openers,IPL,2023
+Sanju Samson,SV Samson,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,RR,Wk_Batsman,3,IPL,2023
+Abdul Basith,Abdul Basith,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Batting_Allrounder,5,IPL,2023
+Murugan Ashwin,M Ashwin,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+R Ashwin,R Ashwin,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Bowling_Allrounder,Lower Order,IPL,2023
+Asif Km,KM Asif,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Trent Boult,TA Boult,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Jos Buttler,JC Buttler,,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,RR,Wk_Batsman,Openers,IPL,2023
+Kc Cariappa,KC Cariappa,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Yuzvendra Chahal,YS Chahal,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Donovan Ferreira,D Ferreira,,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RR,Allrounder,6,IPL,2023
+Shimron Hetmyer,SO Hetmyer,,LEFT HAND BATSMAN,,,Overseas,Batsman,0,RR,Pure_Batsman,5,IPL,2023
+Jason Holder,JO Holder,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RR,Bowling_Allrounder,7,IPL,2023
+Yashasvi Jaiswal,YBK Jaiswal,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,Batsman,0,RR,Pure_Batsman,Openers,IPL,2023
+Dhruv Jurel,Dhruv Jurel,,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,RR,Wk_Batsman,6,IPL,2023
+Obed Mccoy,OC McCoy,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Devdutt Padikkal,D Padikkal,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,Batsman,0,RR,Pure_Batsman,Openers,IPL,2023
+Riyan Parag,R Parag,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,RR,Pure_Batsman,6,IPL,2023
+Prasidh Krishna,M Prasidh Krishna,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Kunal Singh Rathore,KS Rathore,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,RR,Wk_Batsman,5,IPL,2023
+Joe Root,JE Root,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,RR,Pure_Batsman,3,IPL,2023
+Navdeep Saini,Navdeep Saini,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Kuldeep Sen,KR Sen,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Akash Vasisht,Akash Vasisht,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Allrounder,5,IPL,2023
+Kuldip Yadav,K Yadav,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Adam Zampa,A Zampa,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Faf Du Plessis,F du Plessis,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,RCB,Pure_Batsman,Openers,IPL,2023
+Akash Deep,Akash Deep,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Bowling_Allrounder,Lower Order,IPL,2023
+Finn Allen,FH Allen,,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,RCB,Pure_Batsman,Openers,IPL,2023
+Anuj Rawat,Anuj Rawat,,LEFT HAND BATSMAN,,,Domestic,Batsman,1,RCB,Wk_Batsman,Openers,IPL,2023
+Avinash Singh,,,,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+Manoj Bhandage,MS Bhandage,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Allrounder,6,IPL,2023
+Wanindu Hasaranga,PWH de Silva,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Allrounder,7,IPL,2023
+Josh Hazlewood,JR Hazlewood,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+Will Jacks,WG Jacks,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,RCB,Pure_Batsman,Openers,IPL,2023
+Dinesh Karthik,KD Karthik,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,RCB,Wk_Batsman,4,IPL,2023
+Siddarth Kaul,S Kaul,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+Virat Kohli,V Kohli,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,RCB,Pure_Batsman,3,IPL,2023
+Mahipal Lomror,MK Lomror,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Allrounder,4,IPL,2023
+Glenn Maxwell,GJ Maxwell,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Batting_Allrounder,4,IPL,2023
+Mohammed Siraj,Mohammed Siraj,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+Harshal Patel,HV Patel,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+Rajat Patidar,RM Patidar,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,RCB,Pure_Batsman,3,IPL,2023
+Suyash Prabhudessai,SS Prabhudessai,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Batting_Allrounder,5,IPL,2023
+Rajan Kumar,Rajan Kumar,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+Shahbaz Ahmed,Shahbaz Ahmed,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Allrounder,6,IPL,2023
+Himanshu Sharma,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+Karn Sharma,KV Sharma,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,Bowler,0,RCB,Pure_Bowler,7,IPL,2023
+Sonu Yadav,Sonu Yadav,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Allrounder,5,IPL,2023
+Reece Topley,RJW Topley,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,RCB,Pure_Bowler,Lower Order,IPL,2023
+David Willey,DJ Willey,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Bowling_Allrounder,3,IPL,2023
+Abdul Samad,Abdul Samad,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,SRH,Pure_Batsman,6,IPL,2023
+Abhishek Sharma,Abhishek Sharma,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Allrounder,Openers,IPL,2023
+Mayank Agarwal,MA Agarwal,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,SRH,Pure_Batsman,Openers,IPL,2023
+Anmolpreet Singh,Anmolpreet Singh,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,SRH,Pure_Batsman,3,IPL,2023
+Harry Brook,HC Brook,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,SRH,Pure_Batsman,5,IPL,2023
+Mayank Dagar,Mayank Dagar,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+FazalHaq Farooqi,Fazalhaq Farooqi,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Akeal Hosein,AJ Hosein,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Marco Jansen,M Jansen,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,SRH,Bowling_Allrounder,Lower Order,IPL,2023
+Kartik Tyagi,Kartik Tyagi,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Heinrich Klaasen,H Klaasen,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,SRH,Wk_Batsman,4,IPL,2023
+Bhuvneshwar Kumar,B Kumar,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Mayank Markande,M Markande,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Aiden Markram,AK Markram,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,0,SRH,Pure_Batsman,4,IPL,2023
+T Natarajan,T Natarajan,LEFT ARM FAST,LEFT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Nitish Kumar Reddy,Nithish Kumar Reddy,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Batting_Allrounder,3,IPL,2023
+Glenn Phillips,GD Phillips,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,Batsman,1,SRH,Wk_Batsman,4,IPL,2023
+Adil Rashid,AU Rashid,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Sanvir Singh,Sanvir Singh,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Allrounder,5,IPL,2023
+Rahul Tripathi,RA Tripathi,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,SRH,Pure_Batsman,Openers,IPL,2023
+Umran Malik,Umran Malik,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Vivrant Sharma,Vivrant Sharma,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Batting_Allrounder,Openers,IPL,2023
+Samarth Vyas,Samarth Vyas,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,0,SRH,Pure_Batsman,3,IPL,2023
+Washington Sundar,Washington Sundar,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,SRH,Bowling_Allrounder,Lower Order,IPL,2023
+Upendra Yadav,Upendra Yadav,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,Batsman,1,SRH,Wk_Batsman,Openers,IPL,2023
+K Bhagath Varma,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,Y,Y,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Nishant sindhu,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,N,N,Domestic,All_rounder,,CSK,Bowling_allrounder,7,IPL,2023
+Joshua Little,,LEFT ARM FAST,RIGHT HAND BATSMAN,N,N,Overseas,Bowler,,GT,Pure_Bowler,Lower Order,IPL,2023
+Prabhsimran Singh,,,RIGHT HAND BATSMAN,N,N,Domestic,Batsman,,KXIP,Wk_batsman,4,IPL,2023
+Harpreet Bhatia,,RIGHT ARM FAST,LEFT HAND BATSMAN,N,N,Domestic,Batsman,,KXIP,Batting_Allrounder,6,IPL,2023
+Swapnil singh,,LEFT ARM FAST,RIGHT HAND BATSMAN,N,N,Domestic,All_rounder,,LKSG,Bowling_allrounder,7,IPL,2023
+Asif Km ,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Akash Vashisht,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,N,N,Domestic,All_rounder,,RR,Batting_Allrounder,7,IPL,2023
+Kunal Rathore,,,LEFT HAND BATSMAN,N,N,Domestic,Batsman,,RR,Wk_batsman,4,IPL,2023
+Fazalhaq Farooqi,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,SRH,Pure_Bowler,Lower Order,IPL,2023
+Upendra Singh Yadav,,,RIGHT HAND BATSMAN,N,N,Domestic,Batsman,,SRH,Wk_batsman,6,IPL,2023
+Matthew Short,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,KXIP,Batting_Allrounder,3,IPL,2023
+Sandeep Sharma,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,RR,Pure_Bowler,Lower Order,IPL,2023
+Vyshak Vijay Kumar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Bowling_allrounder,Lower Order,IPL,2023
+Riley Meredith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,Pure_Bowler,Lower Order,IPL,2023
+Swapnil K Singh,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,LKSG,Bowling_allrounder,Lower Order,IPL,2023
+Sandeep Warrier,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,MI,,Lower Order,IPL,2023
+Akash Singh,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,CSK,,Lower Order,IPL,2023
+Abdul Bazith P A,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RR,Bowling_allrounder,Lower Order,IPL,2023
+Akash P Vashisht,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,All_rounder,0,RR,,7,IPL,2023
+Donavon Ferreira,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,RR,Wk_Batsman,6,IPL,2023
+Sonu Yadav R,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,All_rounder,0,RCB,Bowling_allrounder,Lower Order,IPL,2023
+Jason Roy,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,KKR,Pure_Batsman,Openers,IPL,2023
+Michael Bracewell,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Batting_Allrounder,5,IPL,2023
+Wayne Parnell,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,All_rounder,0,RCB,Bowling_allrounder,Lower Order,IPL,2023
+Sisanda Magala,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,CSK,Pure_Bowler,Lower Order,IPL,2023
+Abishek Porel,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,1,DC,Wk_Batsman,6,IPL,2023
+Dasun Shanaka,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,All_rounder,0,GT,Batting_Allrounder,5,IPL,2023
+Gurnoor Brar,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,KXIP,,Lower Order,IPL,2023
+Arpit Guleria,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,Bowler,0,LKSG,,Lower Order,IPL,2023
+Kedar Jadhav,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,RCB,,6,IPL,2023
+Priyam Garg,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,DC,,3,IPL,2023
+Chris Jordan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,Bowler,0,MI,,Lower Order,IPL,2023
+Matthew Gilkes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2021
+Tom Abell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Sam Whiteman,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2021
+Haris Rauf,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2021
+Ahmed Daniyal,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2021
+Chris Jordan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2021
+Hayden Kerr,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Riley Meredith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2021
+Jonathan Wells,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2021
+Glenn Maxwell,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2021
+Daniel Sams,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2021
+Benjamin Manenti,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Reece Topley,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2021
+Daniel Christian,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2021
+Arjun Nair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,THUN,,,BBL,2021
+Jack Wood,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Saqib Mahmood,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2021
+James Pattinson,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2021
+Ian Cockbain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Alex Carey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Ronan McDonald,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Mohammad Hasnain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2021
+Matthew Wade,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2021
+Qais Ahmad,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+David Moody,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2021
+Jack Prestwidge,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2021
+Unmukt Chand,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,REN,,,BBL,2021
+Hilton Cartwright,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2021
+Cameron Bancroft,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2021
+Laurie Evans,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2021
+Wes Agar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Usman Khawaja,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2021
+Ashton Turner,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2021
+Nathan Ellis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2021
+Mickey Edwards,,RIGHT ARM FAST MEDIUM,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Mitchell Owen,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2021
+Patrick Dooley,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Chris Sabburg,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2021
+Ashton Agar,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,SCOR,,,BBL,2021
+Xavier Crone,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Peter Handscomb,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2021
+Zahir Khan,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2021
+Harry Conway,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2021
+Jonathan Merlo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2021
+Sam Billings,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2021
+Matthew Kuhnemann,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Steve O Keefe,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2021
+Nathan Lyon,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Shaun Marsh,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2021
+Matthew Short,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2021
+Will Prestwidge,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Jake Carder,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2021
+Ben Dwarshuis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2021
+Jordan Thompson,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2021
+Nathan Coulter Nile,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2021
+Peter Nevill,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2021
+Jake Weatherald,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Josh Kann,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2021
+Will Sanders,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2021
+Michael Neser,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Nicholas Bertus,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2021
+Joe Clarke,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2021
+Jason Sangha,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,THUN,,,BBL,2021
+Max Bryant,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2021
+Josh Lalor,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2021
+Sandeep Lamichane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,HUR,,,BBL,2021
+Brendan Doggett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2021
+Chris Lynn,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2021
+Joe Burns,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2021
+Daniel Worrall,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2021
+Lachlan Pfeffer,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2021
+Xavier Bartlett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Travis Dean,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2021
+Samuel Elliott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Scott Boland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2021
+Sam Harper,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2021
+Cameron Gannon,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Caleb Jewell,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2021
+Todd Murphy,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2021
+Marnus Labuschagne,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Travis Head,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2021
+James Bazley,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2021
+Ryan Gibson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Jack Wildermuth,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Liam Scott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Andre Russell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Tom Lammonby,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2021
+Jack Clayton,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2021
+D Arcy Short,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2021
+Ben Mcdermott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2021
+Thomas Rogers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2021
+Daniel Hughes,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2021
+Thomas Kelly,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2021
+Henry Hunt,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2021
+Aaron Finch,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2021
+Alex Ross,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2021
+Beau Webster,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2021
+Nick Larkin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2021
+Nic Maddinson,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2021
+Fakhar Zaman,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2021
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2021
+Nathan McSweeney,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Mohammad Nabi,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2021
+Wil Parker,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2021
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Tanveer Sangha,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,THUN,,,BBL,2021
+Adam Zampa,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Jay Lenton,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SIX,,,BBL,2021
+Shadab Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,SIX,,,BBL,2021
+Lloyd Pope,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Mitchell Swepson,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Patrick Rowe,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2021
+Nick Hobson,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2021
+Brody Couch,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2021
+Liam Guthrie,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Ben Duckett,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2021
+Matthew Kelly,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2021
+Jason Behrendorff,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2021
+Ben Cutting,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2021
+Alex Hales,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2021
+Sam Heazlett,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Nathan Mcandrew,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2021
+Aaron Hardie,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2021
+Mackenzie Harvey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2021
+Jhye Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2021
+Justin Avendano,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2021
+Jimmy Peirson,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2021
+Clint Hinchliffe,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2021
+Zak Evans,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2021
+Sean Abbott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Jackson Bird,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Tom Cooper,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2021
+Oliver Davies,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2021
+Marcus Stoinis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2021
+James Vince,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2021
+Peter Hatzoglou,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2021
+Thomas Rogers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2021
+George Garton,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2021
+Daniel Drew,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2021
+Charlie Wakim,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2021
+Cameron Boyce,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2021
+Will Sutherland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2021
+Sam Rainbird,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Joel Paris,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2021
+Andrew Tye,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2021
+Kurtis Patterson,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2021
+Matt Renshaw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2021
+Jake Fraser-McGurk,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2021
+Jordan Cox,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2021
+Harry Nielsen,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2021
+Tom OConnell,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Henry Thornton,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2021
+Josh Philippe,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SIX,,,BBL,2021
+Moises Henriques,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2021
+Steven McGiffin,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Tom Curran,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2021
+Tymal Mills,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2021
+Josh Inglis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2021
+Mark Steketee,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Jake Lehmann,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Mujeeb Ur Rahman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2021
+Gurinder Sandhu,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,BOWLER,0,THUN,,,BBL,2021
+Mitchell Marsh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2021
+James Seymour,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2021
+Kane Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2021
+Syed Faridoun,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2021
+Jack Edwards,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2021
+Harry Brook,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2021
+Baxter Holt,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2021
+David Grant,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2021
+Lance Morris,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2021
+Jordan Silk,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2021
+Peter Siddle,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2021
+Tim David,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2021
+Matthew Gilkes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2019
+Sam Whiteman,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2019
+Haris Rauf,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2019
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2019
+Chris Jordan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2019
+Hayden Kerr,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2019
+Riley Meredith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2019
+Jonathan Wells,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2019
+Samit Patel,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,REN,,,BBL,2019
+Glenn Maxwell,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2019
+Daniel Sams,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2019
+Benjamin Manenti,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2019
+Daniel Christian,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Arjun Nair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,THUN,,,BBL,2019
+James Pattinson,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2019
+Alex Carey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Matthew Wade,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2019
+Qais Ahmad,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2019
+Jake Doran,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2019
+Liam Bowe,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2019
+Ben Dunk,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2019
+Jack Prestwidge,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2019
+Hilton Cartwright,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2019
+Cameron Bancroft,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2019
+Wes Agar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Usman Khawaja,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2019
+Marcus Harris,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2019
+Ashton Turner,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2019
+Nathan Ellis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2019
+Ashton Agar,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,SCOR,,,BBL,2019
+Billy Stanlake,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2019
+Tom Banton,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2019
+Ab De Villiers,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2019
+Simon Milenko,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2019
+Peter Handscomb,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2019
+Zahir Khan,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2019
+Harry Conway,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2019
+Jonathan Merlo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2019
+Joe Mennie,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2019
+Steve O Keefe,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2019
+Nathan Lyon,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2019
+Shaun Marsh,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2019
+George Bailey,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2019
+Matthew Short,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2019
+Clive Rose,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2019
+Brayden Stepien,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2019
+Ben Dwarshuis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2019
+Nathan Coulter Nile,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2019
+Richard Gleeson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Jake Weatherald,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Michael Neser,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Cameron Valente,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Max Bryant,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2019
+Josh Lalor,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2019
+Sandeep Lamichane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,STARS,,,BBL,2019
+Liam O Conner,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Brendan Doggett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2019
+Jonathan Cook,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2019
+Chris Lynn,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2019
+Joe Burns,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2019
+Daniel Worrall,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2019
+Jaron Morgan,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2019
+Scott Boland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2019
+Sam Harper,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2019
+Caleb Jewell,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2019
+Chris Morris,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2019
+James Faulkner,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2019
+Marnus Labuschagne,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2019
+Travis Head,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2019
+Tom Andrews,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2019
+Dilbar Hussain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,STARS,,,BBL,2019
+Jack Wildermuth,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Cameron White,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+D Arcy Short,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2019
+Ben Mcdermott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2019
+Thomas Rogers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2019
+Daniel Hughes,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2019
+Aaron Finch,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2019
+Alex Ross,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2019
+Beau Webster,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Nick Larkin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2019
+Nic Maddinson,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2019
+Nathan McSweeney,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Mohammad Nabi,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Callum Ferguson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2019
+David Miller,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2019
+Adam Zampa,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2019
+Jay Lenton,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2019
+Andrew Fekete,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2019
+Morne Morkel,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2019
+Seb Gotch,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2019
+Lloyd Pope,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2019
+Jackson Coleman,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2019
+Philip Salt,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2019
+Mitchell Swepson,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2019
+Matthew Kelly,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2019
+Ben Cutting,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2019
+Alex Hales,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2019
+Sam Heazlett,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2019
+Nathan Mcandrew,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2019
+Chris Tremain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2019
+Jhye Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2019
+Justin Avendano,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2019
+Jimmy Peirson,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2019
+Clint Hinchliffe,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2019
+Liam Livingstone,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2019
+Zak Evans,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Sean Abbott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2019
+Jackson Bird,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2019
+Tom Cooper,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2019
+Marcus Stoinis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2019
+James Vince,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2019
+Harry Gurney,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2019
+Cameron Boyce,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2019
+Cameron Green,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2019
+Will Sutherland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2019
+Joel Paris,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2019
+Kurtis Patterson,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2019
+Matt Renshaw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2019
+Harry Nielsen,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2019
+Dale Steyn,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2019
+Josh Philippe,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SIX,,,BBL,2019
+Moises Henriques,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2019
+Tom Curran,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2019
+Josh Inglis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2019
+Mark Steketee,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2019
+Ben Laughlin,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2019
+Macalister B Wright,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2019
+Mujeeb Ur Rahman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2019
+Gurinder Sandhu,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,BOWLER,0,THUN,,,BBL,2019
+Mitchell Marsh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2019
+Steven Smith,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2019
+Kane Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2019
+Josh Hazlewood,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2019
+Jack Edwards,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2019
+Lance Morris,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2019
+Jordan Silk,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2019
+Peter Siddle,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2019
+Tim David,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2019
+Matthew Gilkes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2022
+FazalHaq Farooqi,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2022
+Sam Whiteman,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2022
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2022
+Chris Jordan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2022
+Hayden Kerr,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2022
+Riley Meredith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2022
+Jonathan Wells,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2022
+Naveen Ul Haq,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2022
+Daniel Sams,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2022
+Benjamin Manenti,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2022
+Daniel Christian,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2022
+Alex Carey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2022
+Ross Whitely,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2022
+Matthew Wade,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2022
+Asif Ali,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2022
+David Moody,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2022
+Trent Boult,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2022
+Hilton Cartwright,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2022
+Usman Qadir,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2022
+Cameron Bancroft,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2022
+Wes Agar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2022
+Usman Khawaja,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2022
+Marcus Harris,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2022
+Ashton Turner,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2022
+Nathan Ellis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2022
+Mitchell Owen,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2022
+Patrick Dooley,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2022
+Matt Critchley,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Ashton Agar,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,SCOR,,,BBL,2022
+Liam Hatcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2022
+Peter Handscomb,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2022
+Harry Conway,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2022
+Sam Billings,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2022
+Corey Rocchiccioli,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Matthew Kuhnemann,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2022
+Steve O Keefe,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2022
+Nathan Lyon,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2022
+Shaun Marsh,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2022
+Matthew Short,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2022
+Ben Dwarshuis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2022
+Nathan Coulter Nile,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2022
+Jake Weatherald,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2022
+Michael Neser,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2022
+Zak Crawley,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2022
+Joe Clarke,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2022
+Jason Sangha,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,THUN,,,BBL,2022
+Sam Hain,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2022
+Max Bryant,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2022
+Stevie Eskinazi,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2022
+Brendan Doggett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2022
+Faf Du Plessis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2022
+Chris Lynn,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2022
+Joe Burns,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2022
+Spencer Johnson,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2022
+Xavier Bartlett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2022
+Tim Paine,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2022
+Sam Harper,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2022
+Caleb Jewell,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2022
+Todd Murphy,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2022
+Luke Wood,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2022
+Marnus Labuschagne,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2022
+Travis Head,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2022
+Tom Andrews,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2022
+Faheem Ashraf,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2022
+James Bazley,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2022
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2022
+Ryan Gibson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2022
+Andre Russell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2022
+D Arcy Short,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2022
+Ben Mcdermott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2022
+Thomas Rogers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Adam Lyth,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2022
+Daniel Hughes,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2022
+David Payne,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2022
+Thomas Kelly,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2022
+Henry Hunt,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2022
+Aaron Finch,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2022
+Izharulhaq Naveed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2022
+Alex Ross,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2022
+Beau Webster,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2022
+Nick Larkin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2022
+Nic Maddinson,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Ross Pawson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2022
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2022
+Campbell Kellaway,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2022
+Nathan McSweeney,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2022
+Ruwantha Kellepotha,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,REN,,,BBL,2022
+Wil Parker,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2022
+James Neesham,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2022
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2022
+Adam Zampa,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2022
+Joel Davies,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2022
+Shadab Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,HUR,,,BBL,2022
+Mitchell Swepson,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2022
+Nick Hobson,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2022
+Brody Couch,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2022
+Matthew Kelly,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2022
+Jason Behrendorff,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2022
+Ben Cutting,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2022
+Alex Hales,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2022
+Cooper Connolly,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2022
+Sam Heazlett,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2022
+Nathan Mcandrew,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2022
+Aaron Hardie,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2022
+Mackenzie Harvey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2022
+Jhye Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2022
+Jimmy Peirson,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2022
+Clint Hinchliffe,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2022
+Blake Nikitaras,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2022
+Sean Abbott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2022
+Jackson Bird,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2022
+Oliver Davies,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2022
+Marcus Stoinis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2022
+Rilee Rossouw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2022
+David Warner,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2022
+James Vince,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2022
+Martin Guptill,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Adam Hose,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2022
+Peter Hatzoglou,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2022
+Thomas Rogers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2022
+Cameron Boyce,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2022
+Will Sutherland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Joel Paris,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2022
+Andrew Tye,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2022
+Kurtis Patterson,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2022
+Colin De Grandhomme,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2022
+Matt Renshaw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2022
+Jake Fraser-McGurk,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Harry Nielsen,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2022
+Henry Thornton,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2022
+Josh Philippe,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SIX,,,BBL,2022
+Moises Henriques,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2022
+Josh Inglis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2022
+Mark Steketee,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2022
+Macalister B Wright,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2022
+Mujeeb Ur Rahman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Gurinder Sandhu,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,BOWLER,0,THUN,,,BBL,2022
+James Seymour,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2022
+Steven Smith,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2022
+Kane Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2022
+Josh Brown,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2022
+Lance Morris,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2022
+Jordan Silk,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2022
+Peter Siddle,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2022
+Akeal Hosein,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2022
+Tim David,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2022
+Fabian Allen,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2018
+Dwayne Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2018
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2018
+Roshon Primus,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2018
+Imraan Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2018
+Keemo Paul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2018
+Ali Khan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2018
+Kennar Lewis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2018
+Anderson Phillip,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2018
+Khary Pierre,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2018
+Shamar Springer,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2018
+Jeremiah Louis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2018
+Veerasammy Permaul,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,GAW,,,CPL,2018
+Nicholas Pooran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2018
+Darren Sammy,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2018
+Qais Ahmad,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2018
+Terrance Hinds,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2018
+Christopher Lamont,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2018
+Ibrahim Khaleel,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2018
+Lendl Simmons,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2018
+Devon Thomas,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2018
+Johnson Charles,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2018
+Ish Sodhi,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2018
+Mahmudullah,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2018
+Anton Devcich,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2018
+Javon Searles,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2018
+Chris Gayle,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2018
+Mohammad Sami,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2018
+Sherfane Rutherford,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2018
+Jason Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2018
+Sandeep Lamichane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,SKN,,,CPL,2018
+Steven Taylor,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2018
+Dwayne Bravo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2018
+Chris Lynn,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2018
+Andre Fletcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2018
+Hashim Amla,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,BT,,,CPL,2018
+Chandrapaul Hemraj,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,STLS,,,CPL,2018
+Shannon Gabriel,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2018
+Mark Chapman,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2018
+Oshane Thomas,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2018
+Kieron Pollard,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2018
+Brandon King,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2018
+Hayden Walsh,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2018
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2018
+Luke Ronchi,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2018
+Andre Russell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2018
+Sunny Sohal,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,BT,,,CPL,2018
+Krishmar Santokie,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2018
+Mohammad Irfan,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2018
+Evin Lewis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2018
+Darren Bravo,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2018
+Chadwick Walton,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2018
+Devendra Bishoo,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Domestic,BOWLER,0,GAW,,,CPL,2018
+Jason Mohammed,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2018
+Andre Mccarthy,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2018
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2018
+Kavem Hodge,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2018
+Denesh Ramdin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,WICKETKEEPER,1,TKR,,,CPL,2018
+Rassie Van Der Dussen,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2018
+Shimron Hetmyer,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2018
+Sunil Narine,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2018
+Chemar K Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2018
+Imran Tahir,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2018
+David Miller,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2018
+Adam Zampa,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2018
+Shoaib Malik,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2018
+Sheldon Cotterrell,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2018
+Ben Cutting,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2018
+Romario Shepherd,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2018
+Rayad Emrit,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2018
+Kesrick Williams,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2018
+Samuel Badree,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2018
+Kemar Roach,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2018
+Kevon Cooper,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2018
+Ross Taylor,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2018
+Nikita Miller,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2018
+Tom Cooper,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2018
+Raymond Reifer,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2018
+David Warner,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2018
+Steven Jacobs,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2018
+Martin Guptill,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2018
+Colin Ingram,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2018
+Mitchell Mcclenaghan,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2018
+Brendon Mccullum,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2018
+Rovman Powell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2018
+Tabraiz Shamsi,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2018
+Ashley Nurse,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2018
+Colin De Grandhomme,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2018
+Sohail Tanvir,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2018
+Obed Mccoy,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2018
+Roston Chase,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2018
+Tion Webster,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,BT,,,CPL,2018
+Alzarri Joseph,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2018
+Wahab Riaz,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2018
+Odean Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2018
+Imad Wasim,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2018
+Dominic Drakes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2018
+Carlos Brathwaite,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2018
+Steven Smith,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2018
+Glenn Phillips,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2018
+Shai Hope,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2018
+Cameron Delport,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2018
+Rahkeem Cornwall,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2018
+Jade Dernbach,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+Fabian Allen,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2019
+Dwayne Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2019
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2019
+Roshon Primus,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2019
+Imraan Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+Keemo Paul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2019
+Chris Jordan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2019
+Ali Khan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2019
+Anderson Phillip,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2019
+Khary Pierre,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2019
+Shamar Springer,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2019
+Jeremiah Louis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2019
+Nicholas Pooran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2019
+Darren Sammy,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Mohammad Hasnain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2019
+Qais Ahmad,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2019
+Ramaal Lewis,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+Christopher Lamont,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+Litton Das,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2019
+Laurie Evans,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Jerome Taylor,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+Lendl Simmons,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2019
+Jeavor  Royal,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Devon Thomas,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2019
+John Campbell,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2019
+Jp Duminy,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Johnson Charles,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2019
+Christopher Barnwell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Zahir Khan,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2019
+Javon Searles,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2019
+Chris Gayle,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2019
+Joshua Bishop,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2019
+Sherfane Rutherford,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2019
+Keron Cottoy,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Jason Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2019
+Josh Lalor,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2019
+Sandeep Lamichane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,BT,,,CPL,2019
+Shamrah Brooks,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2019
+Roland Cato,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2019
+Mark Deyal,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2019
+Thisara Perera,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Andre Fletcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Akeem Jordan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2019
+Jonathan Carter,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Chandrapaul Hemraj,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,GAW,,,CPL,2019
+Oshane Thomas,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2019
+Kieron Pollard,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2019
+Brandon King,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2019
+Hayden Walsh,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2019
+Jahmar Hamilton,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STLS,,,CPL,2019
+Andre Russell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+George Worker,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+Mohammad Hafeez,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Krishmar Santokie,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Evin Lewis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2019
+Darren Bravo,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2019
+Chadwick Walton,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2019
+Jason Mohammed,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Andre Mccarthy,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Derval Green,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2019
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2019
+Kavem Hodge,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2019
+Denesh Ramdin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,WICKETKEEPER,1,TKR,,,CPL,2019
+Shimron Hetmyer,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2019
+Sunil Narine,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2019
+Seekkuge Prasanna,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,TKR,,,CPL,2019
+Chemar K Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2019
+James Neesham,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2019
+Imran Tahir,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2019
+Hardus Viljoen,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Javelle Glen,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2019
+Shadab Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,GAW,,,CPL,2019
+Trevon Griffith,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2019
+Philip Salt,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Usama Mir,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Shoaib Malik,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2019
+Sheldon Cotterrell,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2019
+Romario Shepherd,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2019
+Alex Hales,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,BT,,,CPL,2019
+Rayad Emrit,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Kesrick Williams,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Shakib Al Hasan,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Raymond Reifer,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Steven Jacobs,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2019
+Colin Ingram,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2019
+Harry Gurney,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2019
+Rovman Powell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2019
+Najibullah Zadran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Leniko Boucher,,RIGHT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,BT,,,CPL,2019
+Ashley Nurse,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Colin De Grandhomme,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Obed Mccoy,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Tion Webster,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2019
+Alzarri Joseph,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2019
+Ben Laughlin,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2019
+Odean Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2019
+Kjorn Ottley,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Dominic Drakes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2019
+Carlos Brathwaite,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2019
+Justin Greaves,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2019
+Glenn Phillips,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2019
+Shai Hope,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2019
+Rahkeem Cornwall,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2019
+Akeal Hosein,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2019
+Joshua James,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2021
+Jayden Seales,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2021
+Nyeem Young,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2021
+Mohammad Amir,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2021
+Fabian Allen,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2021
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2021
+Imraan Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2021
+Keemo Paul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2021
+Ali Khan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2021
+Naveen Ul Haq,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2021
+Samit Patel,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,STLS,,,CPL,2021
+Kennar Lewis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2021
+Anderson Phillip,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2021
+Khary Pierre,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2021
+Veerasammy Permaul,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,JT,,,CPL,2021
+Nicholas Pooran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2021
+Asif Ali,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2021
+Paul Van Meekeren,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2021
+David Wiese,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Usman Qadir,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Lendl Simmons,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2021
+Jeavor  Royal,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Devon Thomas,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2021
+Migael Pretorius,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2021
+Johnson Charles,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2021
+Leonardo Julien,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2021
+Ashmead Nedd,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2021
+Kirk McKenzie,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2021
+Chris Gayle,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2021
+Joshua Bishop,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2021
+Sherfane Rutherford,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2021
+Keron Cottoy,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Jason Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2021
+Faf Du Plessis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2021
+Colin Archibald,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2021
+Shamrah Brooks,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2021
+Mark Deyal,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Joshua da Silva,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2021
+Dwayne Bravo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2021
+Thisara Perera,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2021
+Andre Fletcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Jonathan Carter,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2021
+Chandrapaul Hemraj,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,GAW,,,CPL,2021
+Yasir Shah,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2021
+Oshane Thomas,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,BT,,,CPL,2021
+Kieron Pollard,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2021
+Brandon King,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2021
+Naseem Shah,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2021
+Hayden Walsh,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2021
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2021
+Andre Russell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2021
+Ravi Bopara,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2021
+Jon Russ Jaggesar,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2021
+Mohammad Hafeez,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2021
+Azam Khan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2021
+Evin Lewis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2021
+Darren Bravo,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2021
+Chadwick Walton,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2021
+Jason Mohammed,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2021
+Andre Mccarthy,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2021
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2021
+Denesh Ramdin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,WICKETKEEPER,1,TKR,,,CPL,2021
+Shimron Hetmyer,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2021
+Smit Patel,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,WICKETKEEPER,1,BT,,,CPL,2021
+Kevin Sinclair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2021
+Sunil Narine,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2021
+Imran Tahir,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2021
+Fidel Edwards,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2021
+Anthony Bramble,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2021
+Shoaib Malik,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2021
+Sheldon Cotterrell,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2021
+Romario Shepherd,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2021
+Kesrick Williams,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Jacob Lintott,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2021
+Raymond Reifer,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2021
+Isuru Udana Tillakaratne,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2021
+Kadeem Alleyne,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2021
+Rovman Powell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2021
+Ashley Nurse,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2021
+Obed Mccoy,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Haider Ali,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2021
+Roston Chase,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Nial Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2021
+Tim Seifert,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2021
+Tion Webster,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2021
+Alzarri Joseph,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2021
+Wahab Riaz,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2021
+Odean Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2021
+Imad Wasim,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2021
+Dominic Drakes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2021
+Carlos Brathwaite,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2021
+Kyle Mayers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2021
+Gudakesh Motie,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2021
+Glenn Phillips,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2021
+Shai Hope,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2021
+Rahkeem Cornwall,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2021
+Akeal Hosein,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2021
+Ravi Rampaul,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2021
+Tim David,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2021
+Joshua James,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2022
+Jayden Seales,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2022
+Nyeem Young,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Mohammad Amir,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2022
+Larry Edwards,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2022
+Fabian Allen,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2022
+Leroy Lugg,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2022
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2022
+Roshon Primus,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2022
+Keemo Paul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2022
+Samit Patel,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,TKR,,,CPL,2022
+Kennar Lewis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2022
+Anderson Phillip,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2022
+Khary Pierre,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2022
+Quinton De Kock,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2022
+Jeremiah Louis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2022
+Shaaron Lewis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2022
+Akila Dananjaya,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2022
+Nicholas Pooran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2022
+Terrance Hinds,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2022
+Rahmanullah Gurbaz,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2022
+David Wiese,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2022
+Jeavor  Royal,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2022
+Dewald Brevis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2022
+Preston McSween,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2022
+Devon Thomas,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2022
+Migael Pretorius,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2022
+Johnson Charles,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STLS,,,CPL,2022
+Amir Jangoo,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2022
+Leonardo Julien,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2022
+Kirk McKenzie,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2022
+Paul Stirling,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2022
+Joshua Bishop,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2022
+Scott Kuggeleijn,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2022
+Nicholson Gordon,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2022
+Harry Tector,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Sherfane Rutherford,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2022
+Jason Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2022
+Junior Sinclair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2022
+Faf Du Plessis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2022
+Ramon Simmonds,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2022
+Shamrah Brooks,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2022
+Mark Deyal,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2022
+Joshua da Silva,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2022
+Dwayne Bravo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2022
+Andre Fletcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2022
+Chandrapaul Hemraj,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,GAW,,,CPL,2022
+Niroshan Dickwella,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STLS,,,CPL,2022
+Oshane Thomas,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,BT,,,CPL,2022
+Ackeem Auguste,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2022
+Kieron Pollard,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2022
+Brandon King,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2022
+Hayden Walsh,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Andre Russell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2022
+Jaden Carmichael,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2022
+Jon Russ Jaggesar,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2022
+Azam Khan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2022
+Evin Lewis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2022
+Darren Bravo,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2022
+Jermaine Blackwood,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2022
+Dwaine Pretorius,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2022
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2022
+Shimron Hetmyer,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2022
+Kevin Sinclair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2022
+Mohammad Nabi,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2022
+Sunil Narine,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2022
+Seekkuge Prasanna,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,TKR,,,CPL,2022
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2022
+Imran Tahir,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2022
+David Miller,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Duan Jansen,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2022
+Sheldon Cotterrell,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2022
+Romario Shepherd,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2022
+Kesrick Williams,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2022
+Heinrich Klaasen,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2022
+Keacy Carty,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2022
+Shakib Al Hasan,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2022
+Matthew Forde,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2022
+Raymond Reifer,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2022
+Adam Hose,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2022
+Daryn Dupavillon,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2022
+Colin Ingram,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2022
+Rovman Powell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2022
+Najibullah Zadran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Tabraiz Shamsi,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2022
+Obed Mccoy,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Roston Chase,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2022
+Tim Seifert,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2022
+Tion Webster,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2022
+Alzarri Joseph,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2022
+Mujeeb Ur Rahman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Odean Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2022
+Imad Wasim,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2022
+Kyle Mayers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Gudakesh Motie,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2022
+Justin Greaves,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Shai Hope,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2022
+Corbin Bosch,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Rahkeem Cornwall,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2022
+Akeal Hosein,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2022
+Ravi Rampaul,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2022
+Tim David,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2022
+Jayden Seales,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2020
+Nyeem Young,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2020
+Imraan Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2020
+Keemo Paul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2020
+Ali Khan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2020
+Naveen Ul Haq,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2020
+Anderson Phillip,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2020
+Khary Pierre,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2020
+Kissoondath Magram,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2020
+Veerasammy Permaul,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,JT,,,CPL,2020
+Nicholas Pooran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2020
+Darren Sammy,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Asif Ali,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2020
+Ramaal Lewis,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2020
+Shayan Jahangir,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,BT,,,CPL,2020
+Ben Dunk,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2020
+Kimani Melius,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2020
+Lendl Simmons,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2020
+Preston McSween,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2020
+Johnson Charles,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2020
+Amir Jangoo,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2020
+Zahir Khan,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Ish Sodhi,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2020
+Keon Harding,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2020
+Ashmead Nedd,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2020
+Joshua Bishop,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2020
+Scott Kuggeleijn,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Sherfane Rutherford,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2020
+Jason Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,BT,,,CPL,2020
+Sandeep Lamichane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,JT,,,CPL,2020
+Colin Archibald,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2020
+Shamrah Brooks,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,BT,,,CPL,2020
+Mark Deyal,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Joshua da Silva,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2020
+Dwayne Bravo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2020
+Chris Lynn,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2020
+Andre Fletcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Sikandar Raza,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,TKR,,,CPL,2020
+Jonathan Carter,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Chandrapaul Hemraj,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,GAW,,,CPL,2020
+Oshane Thomas,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2020
+Kieron Pollard,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2020
+Brandon King,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2020
+Nkrumah Bonner,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2020
+Hayden Walsh,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,TKR,,,CPL,2020
+Jahmar Hamilton,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SKN,,,CPL,2020
+Andre Russell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2020
+Mitchell Santner,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Jon Russ Jaggesar,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2020
+Evin Lewis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2020
+Darren Bravo,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2020
+Chadwick Walton,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2020
+Jermaine Blackwood,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2020
+Pravin Tambe,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,TKR,,,CPL,2020
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2020
+Kavem Hodge,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2020
+Denesh Ramdin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,WICKETKEEPER,1,SKN,,,CPL,2020
+Shimron Hetmyer,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2020
+Kevin Sinclair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2020
+Mohammad Nabi,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Sunil Narine,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2020
+Chemar K Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STLS,,,CPL,2020
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Imran Tahir,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2020
+Javelle Glen,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2020
+Nicholas Kirton,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2020
+Fidel Edwards,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JT,,,CPL,2020
+Anthony Bramble,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,GAW,,,CPL,2020
+Sheldon Cotterrell,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2020
+Romario Shepherd,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,GAW,,,CPL,2020
+Rayad Emrit,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2020
+Kesrick Williams,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Ross Taylor,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,GAW,,,CPL,2020
+Raymond Reifer,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Saad Bin Zafar,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Rovman Powell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JT,,,CPL,2020
+Kieran Powell,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SKN,,,CPL,2020
+Najibullah Zadran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Leniko Boucher,,RIGHT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STLS,,,CPL,2020
+Ashley Nurse,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Sohail Tanvir,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2020
+Obed Mccoy,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Roston Chase,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Tim Seifert,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,TKR,,,CPL,2020
+Tion Webster,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,TKR,,,CPL,2020
+Alzarri Joseph,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2020
+Mujeeb Ur Rahman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2020
+Odean Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,GAW,,,CPL,2020
+Dominic Drakes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,SKN,,,CPL,2020
+Carlos Brathwaite,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JT,,,CPL,2020
+Kyle Mayers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Nick Kelly,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SKN,,,CPL,2020
+Justin Greaves,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Glenn Phillips,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JT,,,CPL,2020
+Shai Hope,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,BT,,,CPL,2020
+Corey Anderson,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,BT,,,CPL,2020
+Rahkeem Cornwall,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STLS,,,CPL,2020
+Akeal Hosein,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,TKR,,,CPL,2020
+Matthew Gilkes,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2018
+Kelvin Smith,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2018
+Evan Gulbis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+Sam Whiteman,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2018
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2018
+Chris Jordan,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2018
+Riley Meredith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2018
+Jonathan Wells,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2018
+Glenn Maxwell,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+Daniel Sams,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2018
+Benjamin Manenti,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2018
+Daniel Christian,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2018
+Arjun Nair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,THUN,,,BBL,2018
+James Pattinson,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2018
+Alex Carey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Matthew Wade,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2018
+Daniel Fallins,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2018
+Qais Ahmad,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2018
+Jake Doran,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2018
+David Moody,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2018
+Liam Bowe,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2018
+Ben Dunk,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2018
+Jack Prestwidge,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2018
+Hilton Cartwright,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Usman Qadir,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Cameron Bancroft,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2018
+Wes Agar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Johan Botha,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2018
+Usman Khawaja,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2018
+Marcus Harris,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2018
+Ashton Turner,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2018
+Mickey Edwards,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2018
+Ashton Agar,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,SCOR,,,BBL,2018
+Billy Stanlake,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2018
+Simon Milenko,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2018
+Peter Handscomb,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2018
+Micheal Beer,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+Pat Cummins,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2018
+Jonathan Merlo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2018
+Matthew Kuhnemann,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2018
+Anton Devcich,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2018
+Joe Mennie,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2018
+Steve O Keefe,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2018
+Nathan Lyon,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2018
+Shaun Marsh,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2018
+George Bailey,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2018
+Matthew Short,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2018
+Clive Rose,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2018
+Liam Plunkett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+Ben Dwarshuis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2018
+Nathan Coulter Nile,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Jake Weatherald,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Michael Neser,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Jason Sangha,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BATSMAN,0,THUN,,,BBL,2018
+Cameron Valente,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Max Bryant,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2018
+Josh Lalor,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2018
+Sandeep Lamichane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,STARS,,,BBL,2018
+Liam O Conner,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Brendan Doggett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2018
+Jonathan Cook,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2018
+Dwayne Bravo,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+Chris Lynn,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2018
+Joe Burns,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2018
+Daniel Worrall,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2018
+Travis Dean,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2018
+Joe Denly,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2018
+Scott Boland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2018
+Sam Harper,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2018
+Jarrod Freeman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2018
+Caleb Jewell,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2018
+Shane Watson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2018
+James Faulkner,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2018
+Marnus Labuschagne,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2018
+Travis Head,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2018
+David Willey,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2018
+Alex Doolan,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2018
+Jack Wildermuth,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2018
+Tim Ludeman,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2018
+Cameron White,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2018
+D Arcy Short,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2018
+Ben Mcdermott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2018
+Daniel Hughes,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2018
+Aaron Finch,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2018
+Alex Ross,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2018
+Beau Webster,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2018
+Nick Larkin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2018
+Nic Maddinson,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+Mohammad Nabi,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2018
+Greg West,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2018
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Callum Ferguson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2018
+Adam Zampa,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2018
+Jay Lenton,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2018
+Joe Root,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2018
+Seb Gotch,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2018
+Lloyd Pope,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2018
+Jackson Coleman,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+Mitchell Swepson,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2018
+Nick Hobson,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2018
+Matthew Kelly,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Jason Behrendorff,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2018
+Ben Cutting,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2018
+Sam Heazlett,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2018
+Nathan Mcandrew,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2018
+Aaron Hardie,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Chris Tremain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2018
+Mackenzie Harvey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2018
+Jhye Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2018
+Justin Avendano,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2018
+Jimmy Peirson,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2018
+Clint Hinchliffe,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Sean Abbott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2018
+Jackson Bird,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2018
+Tom Cooper,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2018
+Marcus Stoinis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2018
+William Bosisto,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+James Vince,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2018
+Colin Ingram,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2018
+Brendon Mccullum,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2018
+Jon Holland,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2018
+Jofra Archer,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2018
+Harry Gurney,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2018
+Michael Klinger,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2018
+Cameron Boyce,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2018
+Cameron Green,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2018
+Will Sutherland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2018
+Sam Rainbird,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2018
+Andrew Tye,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Matt Renshaw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2018
+Harry Nielsen,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2018
+Tom OConnell,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2018
+Josh Philippe,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SIX,,,BBL,2018
+Moises Henriques,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2018
+Tom Curran,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2018
+Josh Inglis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2018
+Mark Steketee,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2018
+Ben Laughlin,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2018
+Jake Lehmann,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2018
+Mujeeb Ur Rahman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2018
+Gurinder Sandhu,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,BOWLER,0,THUN,,,BBL,2018
+Sean Terry,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2018
+Mitchell Marsh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2018
+Usman Khan,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2018
+Kane Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2018
+Jack Edwards,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2018
+Baxter Holt,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2018
+Jordan Silk,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2018
+Peter Siddle,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2018
+Jos Buttler,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2018
+Haris Rauf,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2020
+Chris Green,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2020
+Keemo Paul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2020
+Riley Meredith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2020
+Jonathan Wells,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STR,,,BBL,2020
+Glenn Maxwell,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Daniel Sams,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2020
+Benjamin Manenti,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2020
+Daniel Christian,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2020
+Arjun Nair,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,THUN,,,BBL,2020
+Jack Wood,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Alex Carey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Nicholas Pooran,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2020
+Matthew Wade,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2020
+Ben Dunk,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2020
+Jack Prestwidge,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+Hilton Cartwright,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Cameron Bancroft,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2020
+Wes Agar,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Johan Botha,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2020
+Usman Khawaja,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2020
+Ashton Turner,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2020
+Nathan Ellis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2020
+Noor Ahmad,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+Mitchell Owen,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2020
+Billy Stanlake,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2020
+Simon Milenko,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2020
+Liam Hatcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2020
+Peter Handscomb,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2020
+Zahir Khan,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Harry Conway,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2020
+Sam Billings,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2020
+Matthew Kuhnemann,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Steve O Keefe,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2020
+Shaun Marsh,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2020
+Matthew Short,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2020
+Ben Dwarshuis,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2020
+Nathan Coulter Nile,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Jake Weatherald,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Will Jacks,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2020
+Michael Neser,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Dawid Malan,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2020
+Joe Clarke,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2020
+Jason Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2020
+Cameron Valente,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Max Bryant,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2020
+Josh Lalor,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+Sandeep Lamichane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,HUR,,,BBL,2020
+Liam O Conner,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Brendan Doggett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2020
+Nicholas Winter,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2020
+Jonathan Cook,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2020
+Chris Lynn,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2020
+Andre Fletcher,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Joe Burns,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2020
+Daniel Worrall,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2020
+Xavier Bartlett,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Danny Briggs,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2020
+Joe Denly,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2020
+Scott Boland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2020
+Benny Howell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2020
+Sam Harper,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,REN,,,BBL,2020
+Mitchell Perry,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+James Faulkner,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2020
+Lewis Gregory,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Marnus Labuschagne,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2020
+Travis Head,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2020
+James Bazley,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2020
+Fawad Ahmed,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2020
+Ryan Gibson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Dilbar Hussain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,BOWLER,0,STARS,,,BBL,2020
+Jack Wildermuth,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2020
+Liam Scott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+D Arcy Short,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2020
+Ben Mcdermott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HUR,,,BBL,2020
+Daniel Hughes,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2020
+Aaron Finch,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2020
+Jason Roy,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2020
+Alex Ross,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2020
+Beau Webster,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2020
+Nick Larkin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,STARS,,,BBL,2020
+Nic Maddinson,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Colin Munro,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SCOR,,,BBL,2020
+Jake Ball,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2020
+Mohammad Nabi,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2020
+Wil Parker,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HUR,,,BBL,2020
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Callum Ferguson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2020
+Tanveer Sangha,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,THUN,,,BBL,2020
+Adam Zampa,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2020
+Morne Morkel,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Seb Gotch,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STARS,,,BBL,2020
+Lloyd Pope,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2020
+Philip Salt,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Mitchell Swepson,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Adam Milne,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2020
+Jason Behrendorff,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2020
+Ben Cutting,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2020
+Alex Hales,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,THUN,,,BBL,2020
+Sam Heazlett,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2020
+Nathan Mcandrew,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2020
+Aaron Hardie,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2020
+Chris Tremain,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,THUN,,,BBL,2020
+Mackenzie Harvey,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2020
+Jhye Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2020
+Justin Avendano,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2020
+Jimmy Peirson,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,HEAT,,,BBL,2020
+Clint Hinchliffe,,LEFT ARM CHINAMAN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Liam Livingstone,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2020
+Zak Evans,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2020
+Sean Abbott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2020
+Dan Lawrence,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2020
+Jackson Bird,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,SIX,,,BBL,2020
+Tom Cooper,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HEAT,,,BBL,2020
+Oliver Davies,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,THUN,,,BBL,2020
+Marcus Stoinis,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STARS,,,BBL,2020
+Rilee Rossouw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,REN,,,BBL,2020
+James Vince,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2020
+Colin Ingram,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2020
+Peter Hatzoglou,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+Jon Holland,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+Will Sutherland,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2020
+Sam Rainbird,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2020
+Joel Paris,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,SCOR,,,BBL,2020
+Andrew Tye,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2020
+Matt Renshaw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,STR,,,BBL,2020
+Jake Fraser-McGurk,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,REN,,,BBL,2020
+Harry Nielsen,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,STR,,,BBL,2020
+Tom OConnell,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2020
+Josh Philippe,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SIX,,,BBL,2020
+Moises Henriques,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2020
+Josh Inglis,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SCOR,,,BBL,2020
+Mark Steketee,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Ben Laughlin,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,HEAT,,,BBL,2020
+Macalister B Wright,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HUR,,,BBL,2020
+Mujeeb Ur Rahman,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,HEAT,,,BBL,2020
+Gurinder Sandhu,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Domestic,BOWLER,0,SIX,,,BBL,2020
+Imad Wasim,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+Carlos Brathwaite,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SIX,,,BBL,2020
+Mitchell Marsh,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SCOR,,,BBL,2020
+Kane Richardson,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,REN,,,BBL,2020
+Jack Edwards,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2020
+Baxter Holt,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,THUN,,,BBL,2020
+Lance Morris,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STARS,,,BBL,2020
+Jordan Silk,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,SIX,,,BBL,2020
+Peter Siddle,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,STR,,,BBL,2020
+Tim David,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,HUR,,,BBL,2020
+Ottniel Baartman,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Gerald Coetzee,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JSK,,,SA20,2023
+Tom Abell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Keemo Paul,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,DSG,,,SA20,2023
+Eathan Bosch,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PRC,,,SA20,2023
+Quinton De Kock,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,DSG,,,SA20,2023
+Reece Topley,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,DSG,,,SA20,2023
+Akila Dananjaya,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,DSG,,,SA20,2023
+Malusi Siboto,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JSK,,,SA20,2023
+Joshua Little,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PRC,,,SA20,2023
+Matthew Wade,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JSK,,,SA20,2023
+Eoin Morgan,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,PR,,,SA20,2023
+Brydon Carse,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Adam Rossington,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SES,,,SA20,2023
+Kyle Ian Simmonds,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JSK,,,SA20,2023
+Ryan Rickelton,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,MICT,,,SA20,2023
+Dewald Brevis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,MICT,,,SA20,2023
+Migael Pretorius,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,PRC,,,SA20,2023
+Marques Ackerman,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SES,,,SA20,2023
+Aaron Phangiso,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JSK,,,SA20,2023
+Janneman Malan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,JSK,,,SA20,2023
+Grant Roelofsen,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,MICT,,,SA20,2023
+Junior Dala,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,DSG,,,SA20,2023
+Mason Crane,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Paul Stirling,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,PR,,,SA20,2023
+Adil Rashid,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,PRC,,,SA20,2023
+Sarel Erwee,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+James Fuller,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Keshav Maharaj,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,DSG,,,SA20,2023
+Will Jacks,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,PRC,,,SA20,2023
+Sam Curran,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,MICT,,,SA20,2023
+Neil Brand,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JSK,,,SA20,2023
+Prenelan Subrayen,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,DSG,,,SA20,2023
+Jason Holder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,DSG,,,SA20,2023
+Faf Du Plessis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JSK,,,SA20,2023
+Imran Manack,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PR,,,SA20,2023
+Ramon Simmonds,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,PR,,,SA20,2023
+Evan Jones,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PR,,,SA20,2023
+Jordan Hermann,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,SES,,,SA20,2023
+Dane Vilas,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,PR,,,SA20,2023
+Kyle Verreynne,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JSK,,,SA20,2023
+Temba Bavuma,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Lewis Gregory,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JSK,,,SA20,2023
+Waqar Salamkheil,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,MICT,,,SA20,2023
+David Willey,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,DSG,,,SA20,2023
+Lungi Ngidi,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,PR,,,SA20,2023
+Clyde Fortuin,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,PRC,,,SA20,2023
+Marco Jansen,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Delano Potgieter,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,MICT,,,SA20,2023
+Kusal Mendis,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Domestic,WICKETKEEPER,1,PRC,,,SA20,2023
+Ben Mcdermott,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,DSG,,,SA20,2023
+Kagiso Rabada,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,MICT,,,SA20,2023
+Anrich Nortje,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PRC,,,SA20,2023
+Wiaan Mulder,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,DSG,,,SA20,2023
+Senuran Muthusamy,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Domestic,ALLROUNDER,0,PRC,,,SA20,2023
+Jason Roy,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,PR,,,SA20,2023
+Theunis De Bruyn,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,PRC,,,SA20,2023
+Dwaine Pretorius,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,DSG,,,SA20,2023
+Aiden Markram,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Rassie Van Der Dussen,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,MICT,,,SA20,2023
+Olly Stone,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,MICT,,,SA20,2023
+Christiaan Jonker,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,DSG,,,SA20,2023
+James Neesham,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PRC,,,SA20,2023
+Rashid Khan,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,MICT,,,SA20,2023
+Reeza Hendricks,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,JSK,,,SA20,2023
+David Miller,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PR,,,SA20,2023
+Hardus Viljoen,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,DSG,,,SA20,2023
+Shane Dadswell,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,PRC,,,SA20,2023
+Duan Jansen,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,MICT,,,SA20,2023
+Philip Salt,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PRC,,,SA20,2023
+Mitchell Van Buuren,,RIGHT ARM LEG SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PR,,,SA20,2023
+Ayabulela Gqamane,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Tristan Stubbs,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SES,,,SA20,2023
+Romario Shepherd,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JSK,,,SA20,2023
+Ferisco Adams,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,PR,,,SA20,2023
+Maheesh Theekshana,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JSK,,,SA20,2023
+George Linde,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,MICT,,,SA20,2023
+Heinrich Klaasen,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,DSG,,,SA20,2023
+Wesley Marshall,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,MICT,,,SA20,2023
+Lizaad Williams,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JSK,,,SA20,2023
+Rilee Rossouw,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,PRC,,,SA20,2023
+Daryn Dupavillon,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,PRC,,,SA20,2023
+Donavon Ferreira,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,JSK,,,SA20,2023
+Colin Ingram,,RIGHT ARM LEG SPIN,LEFT HAND BATSMAN,,,Overseas,BATSMAN,0,PRC,,,SA20,2023
+Wihan Lubbe,,RIGHT ARM OFF SPIN,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PR,,,SA20,2023
+George Garton,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,JSK,,,SA20,2023
+Matthew Breetzke,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,DSG,,,SA20,2023
+Jofra Archer,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,MICT,,,SA20,2023
+Beuran Hendricks,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,MICT,,,SA20,2023
+Tabraiz Shamsi,,LEFT ARM CHINAMAN,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,PR,,,SA20,2023
+Wayne Parnell,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PRC,,,SA20,2023
+Simon Harmer,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,DSG,,,SA20,2023
+Jordan Cox,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,SES,,,SA20,2023
+Sibonelo Makhanya,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JSK,,,SA20,2023
+Bjorn Fortuin,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PR,,,SA20,2023
+Alzarri Joseph,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,JSK,,,SA20,2023
+Sisanda Magala,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Domestic,ALLROUNDER,0,SES,,,SA20,2023
+Odean Smith,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BOWLER,0,MICT,,,SA20,2023
+Kyle Mayers,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,DSG,,,SA20,2023
+Andile Phehlukwayo,,RIGHT ARM FAST,LEFT HAND BATSMAN,,,Overseas,BOWLER,0,PR,,,SA20,2023
+Nandre Burger,,LEFT ARM FAST,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JSK,,,SA20,2023
+Codi Yusuf,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,PR,,,SA20,2023
+Roelof Van Der Merwe,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Corbin Bosch,,RIGHT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,PR,,,SA20,2023
+Leus Du Plooy,,LEFT ARM ORTHODOX,LEFT HAND BATSMAN,,,Overseas,ALLROUNDER,0,JSK,,,SA20,2023
+Tim David,,RIGHT ARM OFF SPIN,RIGHT HAND BATSMAN,,,Overseas,BATSMAN,0,MICT,,,SA20,2023
+Jon Jon Smuts,,LEFT ARM ORTHODOX,RIGHT HAND BATSMAN,,,Overseas,ALLROUNDER,0,SES,,,SA20,2023
+Jos Buttler,,LEFT ARM FAST,RIGHT HAND BATSMAN,,,Overseas,WICKETKEEPER,1,PR,,,SA20,2023

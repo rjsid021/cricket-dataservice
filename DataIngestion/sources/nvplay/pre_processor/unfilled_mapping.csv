@@ -1,0 +1,946 @@
+,player,Match,Date,cricinfo_id
+0,Y Bhatia,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,960715
+1,H Mathews,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,474308
+2,Natalie Sciver,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,515905
+3,H Kaur,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,372317.0
+4,Amelia Kerr,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,803971.0
+5,P Vastrakar,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,883413.0
+6,Issy Wong,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,1146066.0
+7,S Meghana,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,556529.0
+8,B Mooney,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,381258
+9,H Deol,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,960845.0
+10,Ashleigh Gardner,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,858809.0
+11,A Sutherland,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,1071705.0
+12,D Hemalatha,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,961107.0
+13,GL Wareham,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,946057
+14,S Rana,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,33757.0
+15,S Rana,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,556537.0
+16,S Rana,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,794725.0
+17,Tanuja Kanwar,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,960847.0
+18,M Joshi,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,960815.0
+19,M Patel,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,1159867.0
+20,M Patel,Mumbai Indians Women v Gujarat Giants Women,04/03/2023,307959.0
+21,Meg Lanning,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,329336.0
+22,S  Verma,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,1182523
+23,M Kapp,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,351836.0
+24,J Rodrigues,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,883405
+25,S Mandhana,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,597806.0
+26,Sophie Devine,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,231740.0
+27,Ellyse Perry,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,275487.0
+28,Disha Kasat,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,961183.0
+29,Richa Ghosh,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,1212830.0
+30,Heather Knight,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,358259.0
+31,Kanika Ahuja,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,1255560.0
+32,Asha Sobhana,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,550687
+33,Megan Schutt,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,420314.0
+34,Preeti Bose,Delhi Capitals Women v Royal Challengers Bangalore Women,05/03/2023,709843.0
+35,SIR Dunkley,Gujarat Giants Women v UP Warriorz Women,05/03/2023,885815.0
+36,Sushma Verma Devi,Gujarat Giants Women v UP Warriorz Women,05/03/2023,597821.0
+37,Alyssa Healy,Gujarat Giants Women v UP Warriorz Women,05/03/2023,275486.0
+38,SS Sehrawat,Gujarat Giants Women v UP Warriorz Women,05/03/2023,1255442
+39,K Navgire,Gujarat Giants Women v UP Warriorz Women,05/03/2023,1289983
+40,Tahlia McGrath,Gujarat Giants Women v UP Warriorz Women,05/03/2023,381311.0
+41,D Sharma,Gujarat Giants Women v UP Warriorz Women,05/03/2023,597811
+42,Grace Harris,Gujarat Giants Women v UP Warriorz Women,05/03/2023,381268.0
+43,Simran Shaikh,Gujarat Giants Women v UP Warriorz Women,05/03/2023,1255541.0
+44,DP Vaidya,Gujarat Giants Women v UP Warriorz Women,05/03/2023,709837.0
+45,Sophie Ecclestone,Gujarat Giants Women v UP Warriorz Women,05/03/2023,878039.0
+46,Shreyanka Patil,Royal Challengers Bangalore Women v Mumbai Indians Women,06/03/2023,1289948.0
+47,Renuka Singh,Royal Challengers Bangalore Women v Mumbai Indians Women,06/03/2023,960853.0
+48,Alice Capsey,Delhi Capitals Women v UP Warriorz Women,07/03/2023,1187120.0
+49,Jess Jonassen,Delhi Capitals Women v UP Warriorz Women,07/03/2023,374936.0
+50,KJ Garth,Gujarat Giants Women v Royal Challengers Bangalore Women,08/03/2023,418423.0
+51,Poonam Khemnar,Gujarat Giants Women v Royal Challengers Bangalore Women,08/03/2023,1289979.0
+52,Minnu Mani,Delhi Capitals Women v Mumbai Indians Women,09/03/2023,960949.0
+53,R Yadav,Delhi Capitals Women v Mumbai Indians Women,09/03/2023,960737
+54,T Bhatia,Delhi Capitals Women v Mumbai Indians Women,09/03/2023,883423.0
+55,SS Pandey,Delhi Capitals Women v Mumbai Indians Women,09/03/2023,442145
+56,Tara Norris,Delhi Capitals Women v Mumbai Indians Women,09/03/2023,872217.0
+57,Erin Burns,Royal Challengers Bangalore Women v UP Warriorz Women,10/03/2023,275447.0
+58,Komal Zanzad,Royal Challengers Bangalore Women v UP Warriorz Women,10/03/2023,961195.0
+59,Sahana Pawar,Royal Challengers Bangalore Women v UP Warriorz Women,10/03/2023,960931.0
+60,L Wolvaardt,Gujarat Giants Women v Delhi Capitals Women,11/03/2023,922481.0
+61,Humaira Kazi,Mumbai Indians Women v Gujarat Giants Women,14/03/2023,961005.0
+62,Dhara Gujjar,Mumbai Indians Women v Gujarat Giants Women,14/03/2023,1255408.0
+63,AB Kaur,Mumbai Indians Women v Gujarat Giants Women,14/03/2023,1255411.0
+64,Jintimani Kalita,Mumbai Indians Women v Gujarat Giants Women,14/03/2023,1255387.0
+65,KA Sarvani,UP Warriorz Women v Royal Challengers Bangalore Women,15/03/2023,960673
+66,R Gayakwad,UP Warriorz Women v Royal Challengers Bangalore Women,15/03/2023,709635
+67,Arundhati,Delhi Capitals Women v Gujarat Giants Women,16/03/2023,960867
+68,Poonam Yadav,Delhi Capitals Women v Gujarat Giants Women,16/03/2023,630972.0
+69,S Ishaque,Mumbai Indians Women v UP Warriorz Women,18/03/2023,597815.0
+70,Ashwani Kumari,Gujarat Giants Women v UP Warriorz Women,20/03/2023,1345792.0
+71,P Chopra,Mumbai Indians Women v UP Warriorz Women,24/03/2023,500135.0
+72,Jakob Bhula,MI Global A v SACA,04/08/2023,1129632.0
+73,I Mohammad,MI Global A v SACA,04/08/2023,11111111118.0
+74,Zen Malik,MI Global A v SACA,04/08/2023,910361.0
+75,Amrit Basra,MI Global A v SACA,04/08/2023,1259994.0
+76,Daaryoush Ahmed,MI Global A v SACA,04/08/2023,1311039.0
+77,Vikai Kelley,MI Global A v SACA,04/08/2023,1231047.0
+78,Monaam Abbas,MI Global A v SACA,04/08/2023,1191366.0
+79,Mohammed Rizvi,MI Global A v SACA,04/08/2023,1178783.0
+80,H Khan,MI Global A v SACA,04/08/2023,11111111122.0
+81,Adam Patel,MI Global A v SACA,04/08/2023,11111111120.0
+82,Vishnu Vinod,MI Global A v SACA,04/08/2023,732293.0
+83,Ryan Rickelton,MI Global A v SACA,04/08/2023,605661.0
+84,Naman Dhir,MI Global A v SACA,04/08/2023,1287032.0
+85,D Lakra,MI Global A v SACA,04/08/2023,11111111113.0
+86,Delano Potgieter,MI Global A v SACA,04/08/2023,596442.0
+87,Hrithik Shokeen,MI Global A v SACA,04/08/2023,1175423.0
+88,Arshad Khan,MI Global A v SACA,04/08/2023,39005.0
+89,Arshad Khan,MI Global A v SACA,04/08/2023,1244751.0
+90,Manav Suthar,MI Global A v SACA,04/08/2023,1175426.0
+91,Luvnith Sisodia,MI Global B v SACA,04/08/2023,1155253.0
+92,Akash Pandey,MI Global B v SACA,04/08/2023,1246443.0
+93,Yudhvir Singh,MI Global B v SACA,04/08/2023,1206052.0
+94,Nehal Wadhera,MI Global B v SACA,04/08/2023,1151273.0
+95,Ramandeep Singh,MI Global B v SACA,04/08/2023,1079470.0
+96,Beyers Swanepoel,MI Global B v SACA,04/08/2023,698319.0
+97,Shams Mulani,MI Global B v SACA,04/08/2023,1131607.0
+98,Pukhraj Mann,MI Global B v SACA,04/08/2023,1299843.0
+99,R Minz,MI Global B v SACA,04/08/2023,11111111111.0
+100,M Rizwi,MI Global B v SACA,04/08/2023,11111111123.0
+101,Piyush Chawla,MI Global B v Scotland A,09/08/2023,32966.0
+102,Vaisakh Chandran,MI Global B v Scotland A,09/08/2023,1287068.0
+103,Ollie Hairs,MI Global B v Scotland A,09/08/2023,414973.0
+104,Liam Naylor,MI Global B v Scotland A,09/08/2023,1195683.0
+105,Michael English,MI Global B v Scotland A,09/08/2023,470900.0
+106,Christopher McBride,MI Global B v Scotland A,09/08/2023,1027779.0
+107,Brandon McMullen,MI Global B v Scotland A,09/08/2023,949473.0
+108,Jack Jarvis,MI Global B v Scotland A,09/08/2023,1278263.0
+109,T Ahmad,MI Global B v Scotland A,09/08/2023,11111111119.0
+110,Jasper Davidson,MI Global B v Scotland A,09/08/2023,1195676.0
+111,Angus Guy,MI Global B v Scotland A,09/08/2023,1195673.0
+112,James Dickinson,MI Global B v Scotland A,09/08/2023,1112224.0
+113,Oliver Davidson,MI Global B v Scotland A,09/08/2023,1278259.0
+114,Rohit Rayudu,MI Global A v Scotland A,09/08/2023,1083493.0
+115,Sushant Mishra,MI Global A v Scotland A,09/08/2023,1175457.0
+116,R Kumar,MI Global A v Scotland A,09/08/2023,11111111115.0
+117,R Kumar,MI Global A v Scotland A,09/08/2023,1198945.0
+118,Ayush Shukla,MI Global A v Scotland A,09/08/2023,1167779.0
+119,S Crawley,MI Global A v Scotland A,09/08/2023,11111111112.0
+120,Scott Steel,MI Global A v Scotland A,11/08/2023,1029993.0
+121,Finlay McCreath,MI Global A v Scotland A,11/08/2023,964085.0
+122,Michael Leask,MI Global A v Scotland A,11/08/2023,414966.0
+123,Alasdair Evans,MI Global A v Scotland A,11/08/2023,399259.0
+124,William Smale,Glamorgan v Mumbai Indians,14/08/2023,1158596.0
+125,Ben Kellaway,Glamorgan v Mumbai Indians,14/08/2023,1200126.0
+126,Callum Taylor,Glamorgan v Mumbai Indians,14/08/2023,1096822.0
+127,Callum Taylor,Glamorgan v Mumbai Indians,14/08/2023,654797.0
+128,Morgan Bevans,Glamorgan v Mumbai Indians,14/08/2023,1188372.0
+129,Asa Tribe,Glamorgan v Mumbai Indians,14/08/2023,1195664.0
+130,Henry Hurle,Glamorgan v Mumbai Indians,14/08/2023,1276118.0
+131,H Bist,Glamorgan v Mumbai Indians,14/08/2023,11111111116.0
+132,Waqar Salamkheil,Glamorgan 2nd XI v Mumbai Indians,14/08/2023,1108490.0
+133,Thomas Bevan,Glamorgan 2nd XI v Mumbai Indians,14/08/2023,1104894.0
+134,Alex Horton,Glamorgan 2nd XI v Mumbai Indians,14/08/2023,1147983.0
+135,Callum Rhys Nicholls,Glamorgan 2nd XI v Mumbai Indians,14/08/2023,1260391.0
+136,Kumar Kartikeya,MI Global A v MI Global B,16/08/2023,1159843.0
+137,S Painkra,MI Global A v MI Global B,16/08/2023,11111111117.0
+138,J Clarke,Southern Brave v Welsh Fire,03/08/2022,571911
+139,OJD Pope,Southern Brave v Welsh Fire,03/08/2022,887207
+140,T Banton,Southern Brave v Welsh Fire,03/08/2022,877051.0
+141,SR Hain,Southern Brave v Welsh Fire,03/08/2022,555850.0
+142,BM Duckett,Southern Brave v Welsh Fire,03/08/2022,521637.0
+143,JJ Cobb,Southern Brave v Welsh Fire,03/08/2022,308408.0
+144,RF Higgins,Southern Brave v Welsh Fire,03/08/2022,572199.0
+145,A Zampa,Southern Brave v Welsh Fire,03/08/2022,379504.0
+146,NL Ahmad,Southern Brave v Welsh Fire,03/08/2022,1182529
+147,AL Davies,Southern Brave v Welsh Fire,03/08/2022,516039.0
+148,JM Vince,Southern Brave v Welsh Fire,03/08/2022,296597.0
+149,MP Stoinis,Southern Brave v Welsh Fire,03/08/2022,325012.0
+150,Z Crawley,Oval Invincibles v London Spirit,04/08/2022,665053.0
+151,AM Rossington,Oval Invincibles v London Spirit,04/08/2022,457280.0
+152,GJ Maxwell,Oval Invincibles v London Spirit,04/08/2022,325026.0
+153,D Lawrence,Oval Invincibles v London Spirit,04/08/2022,641423
+154,EJG Morgan,Oval Invincibles v London Spirit,04/08/2022,24598.0
+155,KA Pollard,Oval Invincibles v London Spirit,04/08/2022,230559.0
+156,Jordan Thompson,Oval Invincibles v London Spirit,04/08/2022,766809.0
+157,LA Dawson,Oval Invincibles v London Spirit,04/08/2022,211855.0
+158,JJ Roy,Oval Invincibles v London Spirit,04/08/2022,298438.0
+159,SM Curran,Oval Invincibles v London Spirit,04/08/2022,662973.0
+160,WG Jacks,Oval Invincibles v London Spirit,04/08/2022,897549.0
+161,SW Billings,Oval Invincibles v London Spirit,04/08/2022,297628.0
+162,J Cox,Oval Invincibles v London Spirit,04/08/2022,1112537
+163,HWR Cartwright,Oval Invincibles v London Spirit,04/08/2022,557295.0
+164,TK Curran,Oval Invincibles v London Spirit,04/08/2022,550235.0
+165,SP Narine,Oval Invincibles v London Spirit,04/08/2022,230558.0
+166,Danny Briggs,Oval Invincibles v London Spirit,04/08/2022,310107.0
+167,JC Buttler,Manchester Originals v Northern Superchargers,05/08/2022,308967.0
+168,PD Salt,Manchester Originals v Northern Superchargers,05/08/2022,669365.0
+169,WL Madsen,Manchester Originals v Northern Superchargers,05/08/2022,46543.0
+170,AD Russell,Manchester Originals v Northern Superchargers,05/08/2022,276298.0
+171,PI Walter,Manchester Originals v Northern Superchargers,05/08/2022,909225.0
+172,LJ Evans,Manchester Originals v Northern Superchargers,05/08/2022,256956.0
+173,Adam Lyth,Manchester Originals v Northern Superchargers,05/08/2022,251721.0
+174,F du Plessis,Manchester Originals v Northern Superchargers,05/08/2022,44828.0
+175,MKS Pepper,Manchester Originals v Northern Superchargers,05/08/2022,772293
+176,HC Brook,Manchester Originals v Northern Superchargers,05/08/2022,911707.0
+177,DJ Willey,Manchester Originals v Northern Superchargers,05/08/2022,308251.0
+178,D Wiese,Manchester Originals v Northern Superchargers,05/08/2022,221140.0
+179,W Smeed,Trent Rockets v Birmingham Phoenix,06/08/2022,1099224
+180,MA Hammond,Trent Rockets v Birmingham Phoenix,06/08/2022,460079
+181,MM Ali,Trent Rockets v Birmingham Phoenix,06/08/2022,8917.0
+182,LS Livingstone,Trent Rockets v Birmingham Phoenix,06/08/2022,403902.0
+183,DR Mousley,Trent Rockets v Birmingham Phoenix,06/08/2022,1172968.0
+184,CG Benjamin,Trent Rockets v Birmingham Phoenix,06/08/2022,1149157.0
+185,Benny Howell,Trent Rockets v Birmingham Phoenix,06/08/2022,211748.0
+186,G Van Burren,Trent Rockets v Birmingham Phoenix,06/08/2022,381002
+187,AD Hales,Trent Rockets v Birmingham Phoenix,06/08/2022,249866.0
+188,DJ Malan,Trent Rockets v Birmingham Phoenix,06/08/2022,236489.0
+189,C Munro,Trent Rockets v Birmingham Phoenix,06/08/2022,232359.0
+190,JE Root,Trent Rockets v Birmingham Phoenix,06/08/2022,303669.0
+191,Tom Kohler Cadmore,Trent Rockets v Birmingham Phoenix,06/08/2022,470633
+192,L Gregory,Trent Rockets v Birmingham Phoenix,06/08/2022,362201.0
+193,RR Rossouw,Welsh Fire v Oval Invincibles,07/08/2022,318845.0
+194,DA Miller,Welsh Fire v Oval Invincibles,07/08/2022,321777.0
+195,Ravi Bopara,London Spirit v Manchester Originals,08/08/2022,10582.0
+196,T Stubbs,London Spirit v Manchester Originals,08/08/2022,595978.0
+197,SA Abbott,London Spirit v Manchester Originals,08/08/2022,398666.0
+198,TW Hartley,London Spirit v Manchester Originals,08/08/2022,1150772.0
+199,FJ Klaassen,London Spirit v Manchester Originals,08/08/2022,1104703.0
+200,Matthew Parkinson,London Spirit v Manchester Originals,08/08/2022,653695
+201,DJ Bravo,Northern Superchargers v Trent Rockets,09/08/2022,51439.0
+202,JA Simpson,Northern Superchargers v Trent Rockets,09/08/2022,54568.0
+203,JA Simpson,Northern Superchargers v Trent Rockets,09/08/2022,21440.0
+204,A John Hose,Northern Superchargers v Trent Rockets,09/08/2022,525992
+205,RE van der Merwe,Northern Superchargers v Trent Rockets,09/08/2022,47850.0
+206,BA Raine,Northern Superchargers v Trent Rockets,09/08/2022,459761.0
+207,MS Wade,Birmingham Phoenix v Southern Brave,10/08/2022,230193.0
+208,Q de Kock,Birmingham Phoenix v Southern Brave,10/08/2022,379143.0
+209,TH David,Birmingham Phoenix v Southern Brave,10/08/2022,892749.0
+210,Ross Whiteley,Birmingham Phoenix v Southern Brave,10/08/2022,288617.0
+211,JK Fuller,Birmingham Phoenix v Southern Brave,10/08/2022,451782.0
+212,G Garton,Birmingham Phoenix v Southern Brave,10/08/2022,643433
+213,CJ Jordan,Birmingham Phoenix v Southern Brave,10/08/2022,288992.0
+214,JB Lintott,Birmingham Phoenix v Southern Brave,10/08/2022,463668.0
+215,T Mills,Birmingham Phoenix v Southern Brave,10/08/2022,459257
+216,JA Haynes,Oval Invincibles v Northern Superchargers,11/08/2022,1110475.0
+217,DJB Drummond,Southern Brave v London Spirit,12/08/2022,422593
+218,R Ahmed,Southern Brave v London Spirit,12/08/2022,1263691
+219,I Cockbain,Manchester Originals v Trent Rockets,13/08/2022,297498
+220,TG Helm,Welsh Fire v Birmingham Phoenix,13/08/2022,512907.0
+221,HJH Brookes,Welsh Fire v Birmingham Phoenix,13/08/2022,1026379.0
+222,D Pretorius,Welsh Fire v Birmingham Phoenix,13/08/2022,327830.0
+223,D Pretorius,Welsh Fire v Birmingham Phoenix,13/08/2022,46784.0
+224,Samit Patel,Birmingham Phoenix v Trent Rockets,15/08/2022,18632.0
+225,DR Sams,Birmingham Phoenix v Trent Rockets,15/08/2022,826901.0
+226,MJ Critchley,Manchester Originals v Welsh Fire,16/08/2022,776695
+227,D Payne,Manchester Originals v Welsh Fire,16/08/2022,362710
+228,JT Ball,Manchester Originals v Welsh Fire,16/08/2022,414990.0
+229,DT Moriarty,Southern Brave v Manchester Originals,18/08/2022,949561
+230,MG Hogan,Southern Brave v Manchester Originals,18/08/2022,275658.0
+231,KW Richardson,Birmingham Phoenix v Northern Superchargers,19/08/2022,272262.0
+232,Imran Tahir,Birmingham Phoenix v Northern Superchargers,19/08/2022,40618.0
+233,B McDermott,Trent Rockets v London Spirit,20/08/2022,603410
+234,N Ellis,Trent Rockets v London Spirit,20/08/2022,826915
+235,CP Wood,Trent Rockets v London Spirit,20/08/2022,310525.0
+236,MS Crane,Trent Rockets v London Spirit,20/08/2022,660889.0
+237,TJ Moores,Trent Rockets v London Spirit,20/08/2022,788101.0
+238,CN Ackermann,Northern Superchargers v Manchester Originals,21/08/2022,379774.0
+239,J Bethell,Welsh Fire v Southern Brave,22/08/2022,1194959
+240,JL du Plooy,Welsh Fire v Southern Brave,22/08/2022,595739.0
+241,GLS Scrimshaw,Welsh Fire v Southern Brave,22/08/2022,857979.0
+242,PR Stirling,Welsh Fire v Southern Brave,22/08/2022,303427.0
+243,ME Milnes,Oval Invincibles v Birmingham Phoenix,23/08/2022,639140.0
+244,M Hasnain,Oval Invincibles v Birmingham Phoenix,23/08/2022,1158100
+245,IS Sodhi,London Spirit v Welsh Fire,24/08/2022,559066.0
+246,Josh Inglis,London Spirit v Oval Invincibles,27/08/2022,662235.0
+247,A Turner,Birmingham Phoenix v Manchester Originals,28/08/2022,7989.0
+248,T Lammonby,Birmingham Phoenix v Manchester Originals,28/08/2022,902907
+249,Brett D Oliveria,Birmingham Phoenix v Manchester Originals,28/08/2022,471202
+250,B Dwarshuis,Birmingham Phoenix v Manchester Originals,28/08/2022,679567
+251,SG Budinger,London Spirit v Birmingham Phoenix,30/08/2022,1030753.0
+252,T Sangha,London Spirit v Birmingham Phoenix,30/08/2022,1170471.0
+253,WD Parnell,Northern Superchargers v Southern Brave,31/08/2022,265564.0
+254,AU Rashid,Northern Superchargers v Southern Brave,31/08/2022,244497.0
+255,CN Miles,Northern Superchargers v Southern Brave,31/08/2022,407875.0
+256,S Baker,Northern Superchargers v Southern Brave,31/08/2022,1191192.0
+257,P Hatzoglou,Manchester Originals v Oval Invincibles,31/08/2022,1191384.0
+258,NA Sowter,Manchester Originals v Oval Invincibles,31/08/2022,747315.0
+259,RJ Gleeson,Trent Rockets v Manchester Originals,03/09/2022,473191.0
+260,JB Little,Trent Rockets v Manchester Originals,03/09/2022,928067.0
+261,M Carter,Trent Rockets v Manchester Originals,03/09/2022,631545.0
+262,L Wood,Trent Rockets v Manchester Originals,03/09/2022,573170.0
+263,Imad Wasim,Trent Rockets v Southern Brave,01/08/2023,227758.0
+264,FH Allen,Trent Rockets v Southern Brave,01/08/2023,959759.0
+265,DP Conway,Trent Rockets v Southern Brave,01/08/2023,379140.0
+266,C Overton,Trent Rockets v Southern Brave,01/08/2023,464626.0
+267,Luke Wells,Welsh Fire v Manchester Originals,02/08/2023,350126.0
+268,GD Phillips,Welsh Fire v Manchester Originals,02/08/2023,823509.0
+269,S Eskinazi,Welsh Fire v Manchester Originals,02/08/2023,631668
+270,Max Holden,Welsh Fire v Manchester Originals,02/08/2023,641387.0
+271,DJ Mitchell,London Spirit v Oval Invincibles,02/08/2023,381743.0
+272,DJ Worrall,London Spirit v Oval Invincibles,02/08/2023,557298.0
+273,H Klaasen,London Spirit v Oval Invincibles,02/08/2023,436757.0
+274,Gus Atkinson,London Spirit v Oval Invincibles,02/08/2023,1039481.0
+275,Jamie Smith,Northern Superchargers v Birmingham Phoenix,03/08/2023,1096092.0
+276,Shadab Khan,Northern Superchargers v Birmingham Phoenix,03/08/2023,922943.0
+277,Tom Abell,Southern Brave v Welsh Fire,04/08/2023,462727.0
+278,Ben Green,Southern Brave v Welsh Fire,04/08/2023,755459.0
+279,J Overton,Manchester Originals v London Spirit,05/08/2023,510530.0
+280,M Short,Northern Superchargers v Southern Brave,06/08/2023,546083.0
+281,Joe Weatherley,Northern Superchargers v Southern Brave,06/08/2023,748793.0
+282,Shaheen Shah Afridi,Welsh Fire v Oval Invincibles,06/08/2023,1072470.0
+283,U Mir,Manchester Originals v Birmingham Phoenix,07/08/2023,647667
+284,AF Milne,Manchester Originals v Birmingham Phoenix,07/08/2023,450860.0
+285,Saif Zaib,Northern Superchargers v Trent Rockets,09/08/2023,663613.0
+286,BA Carse,Northern Superchargers v Trent Rockets,09/08/2023,596417.0
+287,CF Parkinson,Oval Invincibles v Northern Superchargers,11/08/2023,789729.0
+288,JM Bairstow,Welsh Fire v Southern Brave,12/08/2023,297433.0
+289,H Rauf,Welsh Fire v Southern Brave,12/08/2023,1161606
+290,RJW Topley,Manchester Originals v Northern Superchargers,13/08/2023,461632.0
+291,CR Woakes,Birmingham Phoenix v Oval Invincibles,13/08/2023,247235.0
+292,Zak Chappell,Birmingham Phoenix v Oval Invincibles,13/08/2023,865833.0
+293,SH Johnson,Birmingham Phoenix v Oval Invincibles,13/08/2023,1123718.0
+294,MJ Potts,London Spirit v Northern Superchargers,18/08/2023,1027781.0
+295,Tawanda Muyeye,Oval Invincibles v Southern Brave,19/08/2023,1260386.0
+296,JDS Neesham,Oval Invincibles v Trent Rockets,21/08/2023,355269.0
+297,CG Harrison,Manchester Originals v Southern Brave,23/08/2023,859899.0
+298,TG Southee,Birmingham Phoenix v London Spirit,24/08/2023,232364.0
+299,Mehedi Maruf,Chattogram Challengers v Sylhet Strikers,06/01/2023,228210.0
+300,D Rasooli,Chattogram Challengers v Sylhet Strikers,06/01/2023,819441
+301,Al-Amin,Chattogram Challengers v Sylhet Strikers,06/01/2023,549947.0
+302,Shuvagata Hom,Chattogram Challengers v Sylhet Strikers,06/01/2023,402992.0
+303,Afif Dhrubo Hossain,Chattogram Challengers v Sylhet Strikers,06/01/2023,935995
+304,Usman Khan,Chattogram Challengers v Sylhet Strikers,06/01/2023,467829.0
+305,Usman Khan,Chattogram Challengers v Sylhet Strikers,06/01/2023,1123428.0
+306,Unmukt Chand,Chattogram Challengers v Sylhet Strikers,06/01/2023,446499.0
+307,Mrittunjoy Chowdhury,Chattogram Challengers v Sylhet Strikers,06/01/2023,1012137.0
+308,Nihaduzzaman,Chattogram Challengers v Sylhet Strikers,06/01/2023,629065.0
+309,PM Pushpakumara,Chattogram Challengers v Sylhet Strikers,06/01/2023,50205.0
+310,Mehedi Hasan Rana,Chattogram Challengers v Sylhet Strikers,06/01/2023,878465.0
+311,NH Shanto,Chattogram Challengers v Sylhet Strikers,06/01/2023,629058
+312,Zakir Hasan,Chattogram Challengers v Sylhet Strikers,06/01/2023,697059.0
+313,MM Rahim,Chattogram Challengers v Sylhet Strikers,06/01/2023,56029
+314,MS Naim,Comilla Victorians v Rangpur Riders,06/01/2023,990081
+315,R Talukdar,Comilla Victorians v Rangpur Riders,06/01/2023,300617
+316,Shoaib Malik,Comilla Victorians v Rangpur Riders,06/01/2023,42657.0
+317,SB Raza,Comilla Victorians v Rangpur Riders,06/01/2023,299572
+318,NQ Hasan,Comilla Victorians v Rangpur Riders,06/01/2023,410765
+319,M Hasan,Comilla Victorians v Rangpur Riders,06/01/2023,833087
+320,M Shykat Ali,Comilla Victorians v Rangpur Riders,06/01/2023,314743
+321,LK Das,Comilla Victorians v Rangpur Riders,06/01/2023,536936
+322,I Kayes,Comilla Victorians v Rangpur Riders,06/01/2023,280734
+323,MS Hossain,Comilla Victorians v Rangpur Riders,06/01/2023,550133
+324,M Nabi,Comilla Victorians v Rangpur Riders,06/01/2023,25913
+325,JA Anik,Comilla Victorians v Rangpur Riders,06/01/2023,824541
+326,K Shah,Comilla Victorians v Rangpur Riders,06/01/2023,716733
+327,M Rahman,Comilla Victorians v Rangpur Riders,06/01/2023,330902
+328,Ashiqur M Zaman,Comilla Victorians v Rangpur Riders,06/01/2023,1276983
+329,TK Iqbal,Khulna Tigers v Dhaka Dominators,07/01/2023,
+330,Sharjeel Khan,Khulna Tigers v Dhaka Dominators,07/01/2023,227762.0
+331,M  Shahriar,Khulna Tigers v Dhaka Dominators,07/01/2023,549950
+332,Azam Khan,Khulna Tigers v Dhaka Dominators,07/01/2023,39020.0
+333,Azam Khan,Khulna Tigers v Dhaka Dominators,07/01/2023,1137262.0
+334,Y Ali Chowdhury,Khulna Tigers v Dhaka Dominators,07/01/2023,629059
+335,M Saifuddin,Khulna Tigers v Dhaka Dominators,07/01/2023,629070
+336,SM Rahman,Khulna Tigers v Dhaka Dominators,07/01/2023,373538
+337,N Islam,Khulna Tigers v Dhaka Dominators,07/01/2023,675945
+338,Wahab Riaz,Khulna Tigers v Dhaka Dominators,07/01/2023,43590.0
+339,PA van Meekeren,Khulna Tigers v Dhaka Dominators,07/01/2023,348109.0
+340,D Munaweera,Khulna Tigers v Dhaka Dominators,07/01/2023,304735
+341,Ahmed Shehzad,Khulna Tigers v Dhaka Dominators,07/01/2023,259410.0
+342,S Sarkar,Khulna Tigers v Dhaka Dominators,07/01/2023,543485.0
+343,Mohammad Mithun,Khulna Tigers v Dhaka Dominators,07/01/2023,269237.0
+344,Nasir Hossain,Khulna Tigers v Dhaka Dominators,07/01/2023,300618.0
+345,U Ghani,Khulna Tigers v Dhaka Dominators,07/01/2023,711559
+346,Ariful Haque,Khulna Tigers v Dhaka Dominators,07/01/2023,270135.0
+347,PC de Silva,Fortune Barishal v Sylhet Strikers,07/01/2023,345825.0
+348,A Haque,Fortune Barishal v Sylhet Strikers,07/01/2023,29403.0
+349,I Ahmed,Fortune Barishal v Sylhet Strikers,07/01/2023,480603
+350,S Al Hasan,Fortune Barishal v Sylhet Strikers,07/01/2023,56143
+351,M Mahmudullah,Fortune Barishal v Sylhet Strikers,07/01/2023,56025
+352,H Ali,Fortune Barishal v Sylhet Strikers,07/01/2023,1168651
+353,K Janat,Fortune Barishal v Sylhet Strikers,07/01/2023,793467
+354,M Hasan Miraz,Fortune Barishal v Sylhet Strikers,07/01/2023,629063
+355,MT Hridoy,Fortune Barishal v Sylhet Strikers,07/01/2023,990031
+356,Thisara Perera,Fortune Barishal v Sylhet Strikers,07/01/2023,233514.0
+357,AR Hider,Comilla Victorians v Sylhet Strikers,09/01/2023,550137
+358,M Haris,Comilla Victorians v Sylhet Strikers,09/01/2023,1205559
+359,Mohammad Akbar Ali,Comilla Victorians v Sylhet Strikers,09/01/2023,990147.0
+360,H Rahman,Khulna Tigers v Chattogram Challengers,09/01/2023,1352980
+361,U Khan,Khulna Tigers v Chattogram Challengers,09/01/2023,1123428
+362,MP O'Dowd,Khulna Tigers v Chattogram Challengers,09/01/2023,643197
+363,A Omarzai,Rangpur Riders v Fortune Barishal,10/01/2023,819429
+364,Robiul Haque,Rangpur Riders v Fortune Barishal,10/01/2023,1123787.0
+365,I Zadran,Rangpur Riders v Fortune Barishal,10/01/2023,921509
+366,Mashrafe Mortaza,Sylhet Strikers v Dhaka Dominators,10/01/2023,56007.0
+367,T Ahmed,Sylhet Strikers v Dhaka Dominators,10/01/2023,480603
+368,Arafat Sunny,Sylhet Strikers v Dhaka Dominators,10/01/2023,56268.0
+369,A Hossain,Sylhet Strikers v Dhaka Dominators,10/01/2023,
+370,Kamrul Islam Rabbi,Fortune Barishal v Chattogram Challengers,13/01/2023,375724.0
+371,Ziaur Rahman,Fortune Barishal v Chattogram Challengers,13/01/2023,1015399.0
+372,Ziaur Rahman,Fortune Barishal v Chattogram Challengers,13/01/2023,56167.0
+373,A Butt,Khulna Tigers v Rangpur Riders,13/01/2023,717373
+374,N Ahmed,Khulna Tigers v Rangpur Riders,13/01/2023,348049
+375,Saim Ayub,Khulna Tigers v Rangpur Riders,13/01/2023,1161031.0
+376,S Hossain,Khulna Tigers v Rangpur Riders,13/01/2023,1161044
+377,M Rizwan,Fortune Barishal v Comilla Victorians,14/01/2023,323389
+378,Chadwick Walton,Fortune Barishal v Comilla Victorians,14/01/2023,315586.0
+379,Nayeem Hasan,Fortune Barishal v Comilla Victorians,14/01/2023,932635.0
+380,Mizanur Rahman,Dhaka Dominators v Chattogram Challengers,14/01/2023,329845.0
+381,M Imran Randhawa,Dhaka Dominators v Chattogram Challengers,14/01/2023,
+382,Amir Hamza,Dhaka Dominators v Chattogram Challengers,14/01/2023,402245.0
+383,M Al Amin,Dhaka Dominators v Chattogram Challengers,14/01/2023,549947
+384,Robin Das,Dhaka Dominators v Sylhet Strikers,16/01/2023,1149211.0
+385,I Sukkur,Chattogram Challengers v Comilla Victorians,16/01/2023,400587
+386,M Chowdhury,Chattogram Challengers v Comilla Victorians,16/01/2023,1012137
+387,MR Hasan,Chattogram Challengers v Comilla Victorians,16/01/2023,878465
+388,J Charles,Chattogram Challengers v Comilla Victorians,16/01/2023,333066.0
+389,PMH Emon,Rangpur Riders v Khulna Tigers,17/01/2023,1139511
+390,M Nawaz,Rangpur Riders v Khulna Tigers,17/01/2023,348148
+391,Rakibul Hasan,Rangpur Riders v Khulna Tigers,17/01/2023,671889.0
+392,Rakibul Hasan,Rangpur Riders v Khulna Tigers,17/01/2023,1012131.0
+393,H Mahmud,Rangpur Riders v Khulna Tigers,17/01/2023,926629
+394,Munim Shahriar,Rangpur Riders v Khulna Tigers,17/01/2023,549950.0
+395,Mammudul Hasan Joy,Rangpur Riders v Khulna Tigers,17/01/2023,1161381
+396,M Sharifullah,Sylhet Strikers v Comilla Victorians,17/01/2023,280735
+397,Khawaja Nafay,Chattogram Challengers v Khulna Tigers,20/01/2023,1329699.0
+398,Farhad Reza,Chattogram Challengers v Khulna Tigers,20/01/2023,55894.0
+399,M Nihaduzzaman,Chattogram Challengers v Khulna Tigers,20/01/2023,629065
+400,Saif Hassan,Dhaka Dominators v Fortune Barishal,20/01/2023,821749.0
+401,Tawfique Khan,Rangpur Riders v Chattogram Challengers,23/01/2023,933173.0
+402,V Viyaskanth,Rangpur Riders v Chattogram Challengers,23/01/2023,1153149.0
+403,T Islam,Rangpur Riders v Chattogram Challengers,23/01/2023,401057
+404,Mukhtar Ali,Comilla Victorians v Dhaka Dominators,23/01/2023,269332
+405,M Wasim,Sylhet Strikers v Fortune Barishal,24/01/2023,1185538
+406,Alex Blake,Dhaka Dominators v Khulna Tigers,24/01/2023,243944.0
+407,S Irshad,Dhaka Dominators v Khulna Tigers,24/01/2023,781705
+408,SD Hope,Dhaka Dominators v Khulna Tigers,24/01/2023,581379.0
+409,Nahid Rana,Dhaka Dominators v Khulna Tigers,24/01/2023,1210511.0
+410,Tanzim H Sakib,Sylhet Strikers v Rangpur Riders,27/01/2023,1139520
+411,Mohammad Amir,Sylhet Strikers v Rangpur Riders,27/01/2023,290948.0
+412,Rejaur Rahman Raja,Sylhet Strikers v Rangpur Riders,27/01/2023,1163488.0
+413,Mehedi Hasan Maruf,Chattogram Challengers v Fortune Barishal,27/01/2023,228210
+414,C Campher,Chattogram Challengers v Fortune Barishal,27/01/2023,595921.0
+415,Salman Hossain Emon,Chattogram Challengers v Fortune Barishal,27/01/2023,537613
+416,A Balbirnie,Comilla Victorians v Khulna Tigers,28/01/2023,303423.0
+417,RP Burl,Chattogram Challengers v Sylhet Strikers,28/01/2023,495964.0
+418,M Deyal,Sylhet Strikers v Khulna Tigers,30/01/2023,848623.0
+419,Abdullah A Mamun,Fortune Barishal v Dhaka Dominators,31/01/2023,1277007
+420,Fazle Mahmud,Fortune Barishal v Khulna Tigers,03/02/2023,55893.0
+421,H Murad,Fortune Barishal v Khulna Tigers,03/02/2023,990161
+422,M Shoriful Islam,Dhaka Dominators v Rangpur Riders,03/02/2023,990039
+423,Zahiduzzaman,Chattogram Challengers v Dhaka Dominators,07/02/2023,937535.0
+424,JubairHossain,Chattogram Challengers v Dhaka Dominators,07/02/2023,629066
+425,K Ahmed,Comilla Victorians v Fortune Barishal,07/02/2023,927619
+426,EC Hossain,Comilla Victorians v Fortune Barishal,07/02/2023,932355
+427,Gulbadin Naib,Khulna Tigers v Sylhet Strikers,08/02/2023,352048.0
+428,R Gurbaz,Chattogram Challengers v Rangpur Riders,08/02/2023,974087
+429,Ripon M Mondol,Comilla Victorians v Rangpur Riders,10/02/2023,1276980
+430,NM Ul-Haq,Comilla Victorians v Rangpur Riders,10/02/2023,793447
+431,Andre Fletcher,Fortune Barishal v Rangpur Riders,12/02/2023,51862.0
+432,PBB Rajapaksa,Fortune Barishal v Rangpur Riders,12/02/2023,342619.0
+433,N Pooran,Fortune Barishal v Rangpur Riders,12/02/2023,604302.0
+434,MD Shanaka,Fortune Barishal v Rangpur Riders,12/02/2023,437316.0
+435,Shafiqullah Ghafari,Sylhet Strikers v Comilla Victorians,12/02/2023,1176738.0
+436,GF Linde,Sylhet Strikers v Comilla Victorians,12/02/2023,481875.0
+437,I Udana,Sylhet Strikers v Comilla Victorians,12/02/2023,328026.0
+438,Rubel Hossain,Sylhet Strikers v Comilla Victorians,12/02/2023,300619.0
+439,WIA Fernando,Jaffna Kings v Galle Gladiators,06/12/2022,784369.0
+440,DM de Silva,Jaffna Kings v Galle Gladiators,06/12/2022,465793.0
+441,NLTC Perera,Jaffna Kings v Galle Gladiators,06/12/2022,233514.0
+442,Dunith Wellalage,Jaffna Kings v Galle Gladiators,06/12/2022,1152427.0
+443,MM Theekshana,Jaffna Kings v Galle Gladiators,06/12/2022,1138316
+444,B Fernando,Jaffna Kings v Galle Gladiators,06/12/2022,629080.0
+445,MNK Fernando,Jaffna Kings v Galle Gladiators,06/12/2022,1074333.0
+446,BKG Mendis,Jaffna Kings v Galle Gladiators,06/12/2022,629074.0
+447,MH Subasingha,Jaffna Kings v Galle Gladiators,06/12/2022,1210287
+448,Shammu Ashan,Jaffna Kings v Galle Gladiators,06/12/2022,786645
+449,DH Pulina Tharanga,Jaffna Kings v Galle Gladiators,06/12/2022,508964
+450,N Pradeep,Jaffna Kings v Galle Gladiators,06/12/2022,324358.0
+451,Nuwan Thushara,Jaffna Kings v Galle Gladiators,06/12/2022,955235.0
+452,PN Nissanka Silva,Colombo Strikers v Kandy Falcons,06/12/2022,1028655
+453,CR Brathwaite,Colombo Strikers v Kandy Falcons,06/12/2022,457249.0
+454,Niroshan Dickwella,Colombo Strikers v Kandy Falcons,06/12/2022,429754.0
+455,AD Mathews,Colombo Strikers v Kandy Falcons,06/12/2022,49764.0
+456,KIC Asalanka,Colombo Strikers v Kandy Falcons,06/12/2022,784367.0
+457,LD Chandimal,Colombo Strikers v Kandy Falcons,06/12/2022,300628.0
+458,S Prasanna,Colombo Strikers v Kandy Falcons,06/12/2022,268740.0
+459,Dominic Drakes,Colombo Strikers v Kandy Falcons,06/12/2022,906749.0
+460,KMA Paul,Colombo Strikers v Kandy Falcons,06/12/2022,677081.0
+461,Muditha Lakshan,Colombo Strikers v Kandy Falcons,06/12/2022,985497.0
+462,Suranga Lakmal,Colombo Strikers v Kandy Falcons,06/12/2022,49619.0
+463,Shevon Daniel,Dambulla Aura v Jaffna Kings,07/12/2022,1194744.0
+464,WRT Mendis,Dambulla Aura v Jaffna Kings,07/12/2022,629084
+465,Lahiru Madushanka,Dambulla Aura v Jaffna Kings,07/12/2022,428366.0
+466,N Ahmed Lakanwal,Dambulla Aura v Jaffna Kings,07/12/2022,
+467,L Kumara,Dambulla Aura v Jaffna Kings,07/12/2022,784375
+468,WSR Samarawickrama,Dambulla Aura v Jaffna Kings,07/12/2022,629076
+469,Ashan Randika,Dambulla Aura v Jaffna Kings,07/12/2022,1082298.0
+470,PM Dabare,Galle Gladiators v Kandy Falcons,07/12/2022,
+471,PHKD Mendis,Galle Gladiators v Kandy Falcons,07/12/2022,784373.0
+472,KNA Bandara,Galle Gladiators v Kandy Falcons,07/12/2022,958691.0
+473,FA Allen,Galle Gladiators v Kandy Falcons,07/12/2022,670013.0
+474,PW Hasaranga,Galle Gladiators v Kandy Falcons,07/12/2022,784379
+475,Navod Paranavithana,Dambulla Aura v Colombo Strikers,08/12/2022,1152410.0
+476,JDF Vandersay,Dambulla Aura v Colombo Strikers,08/12/2022,370040.0
+477,KT Hasanka Ratnayake,Dambulla Aura v Colombo Strikers,08/12/2022,950405
+478,C Karunaratne,Kandy Falcons v Jaffna Kings,10/12/2022,623695.0
+479,Lahiru Udara,Colombo Strikers v Galle Gladiators,11/12/2022,704693.0
+480,RS Fernando,Jaffna Kings v Dambulla Aura,11/12/2022,1217156.0
+481,MADI Hemantha,Jaffna Kings v Dambulla Aura,11/12/2022,721041.0
+482,PL Madushan,Jaffna Kings v Dambulla Aura,11/12/2022,826689
+483,Ashan Priyanjan,Kandy Falcons v Galle Gladiators,12/12/2022,233802.0
+484,KNF Madushka,Colombo Strikers v Jaffna Kings,12/12/2022,1126045
+485,K Rajitha,Colombo Strikers v Jaffna Kings,12/12/2022,499594
+486,N Zadran,Dambulla Aura v Kandy Falcons,13/12/2022,524049
+487,Lasith Croospulle,Dambulla Aura v Kandy Falcons,13/12/2022,1027867.0
+488,Asad Shafiq,Galle Gladiators v Colombo Strikers,13/12/2022,316397.0
+489,Anwar Ali,Galle Gladiators v Colombo Strikers,13/12/2022,232491.0
+490,Dilshan Madushanka,Jaffna Kings v Kandy Falcons,14/12/2022,793007.0
+491,L Sandakan,Dambulla Aura v Galle Gladiators,17/12/2022,429738
+492,M Bhanuka,Kandy Falcons v Colombo Strikers,17/12/2022,629075.0
+493,Kavin Bandara,Kandy Falcons v Dambulla Aura,18/12/2022,786639
+494,MMA Chamindu Wijesinghe,Kandy Falcons v Dambulla Aura,18/12/2022,1162378
+495,M Forde,Kandy Falcons v Dambulla Aura,18/12/2022,1209190
+496,Dilum Sudeera,Kandy Falcons v Dambulla Aura,18/12/2022,792615.0
+497,Kalana Perera,Kandy Falcons v Dambulla Aura,18/12/2022,1152432.0
+498,Dhananjaya Lakshan,Jaffna Kings v Colombo Strikers,19/12/2022,792519.0
+499,Oshada Fernando,Galle Gladiators v Dambulla Aura,19/12/2022,366725.0
+500,Nimesh Vimukthi,Galle Gladiators v Dambulla Aura,19/12/2022,1070154.0
+501,Nipun Malinga,Galle Gladiators v Dambulla Aura,19/12/2022,1057696.0
+502,Chamidu Wickramasinghe,Galle Gladiators v Dambulla Aura,19/12/2022,1186658
+503,Sachitha Jayatilake,Galle Gladiators v Dambulla Aura,19/12/2022,727399.0
+504,Sahan Arachchige,Colombo Strikers v Galle Gladiators,21/12/2022,693975.0
+505,Priyamal Perera,Jaffna Kings v Colombo Strikers,30/07/2023,653033.0
+506,BM Azam,Jaffna Kings v Colombo Strikers,30/07/2023,348144
+507,Yashodha Lanka,Jaffna Kings v Colombo Strikers,30/07/2023,429947.0
+508,N Shah,Jaffna Kings v Colombo Strikers,30/07/2023,303809.0
+509,M Pathirana,Jaffna Kings v Colombo Strikers,30/07/2023,1194795.0
+510,TL Seifert,Galle Titans v Dambulla Aura,31/07/2023,625964.0
+511,L Samarakoon,Galle Titans v Dambulla Aura,31/07/2023,924551
+512,MDKJ Perera,Galle Titans v Dambulla Aura,31/07/2023,300631.0
+513,A Ross,Galle Titans v Dambulla Aura,31/07/2023,333624
+514,H Kerr,Galle Titans v Dambulla Aura,31/07/2023,1163855.0
+515,S Ahmed,Colombo Strikers v B-Love Kandy,31/07/2023,
+516,A Jamal,Colombo Strikers v B-Love Kandy,31/07/2023,793441
+517,Hardus Viljoen,Jaffna Kings v Dambulla Aura,01/08/2023,375126.0
+518,A Ali,Galle Titans v B-Love Kandy,01/08/2023,
+519,M Ur Rahman,Galle Titans v B-Love Kandy,01/08/2023,
+520,F Zaman,Dambulla Aura v B-Love Kandy,04/08/2023,512191
+521,Akila Dananjaya,Galle Titans v Jaffna Kings,04/08/2023,574178.0
+522,T Shamsi,Galle Titans v Jaffna Kings,04/08/2023,379145.0
+523,R Ngarava,Galle Titans v Jaffna Kings,04/08/2023,806241.0
+524,N Burger,Jaffna Kings v B-Love Kandy,05/08/2023,971349.0
+525,JKV Liyanage,Dambulla Aura v Jaffna Kings,07/08/2023,681681
+526,CJ Bowes,Galle Titans v Dambulla Aura,11/08/2023,379890.0
+527,Sohan de Livera,Galle Titans v Dambulla Aura,11/08/2023,1214967.0
+528,C Lynn,B-Love Kandy v Jaffna Kings,12/08/2023,326637
+529,AK Perera,Dambulla Aura v Colombo Strikers,12/08/2023,300629.0
+530,DAS Gunaratne,Jaffna Kings v Galle Titans,13/08/2023,360456.0
+531,Nipun Dhananjaya,Colombo Strikers v B-Love Kandy,13/08/2023,1126082.0
+532,Lakshan Edirisinghe,B-Love Kandy v Dambulla Aura,14/08/2023,596303.0
+533,Nuwan Pradeep,B-Love Kandy v Dambulla Aura,14/08/2023,324358.0
+534,Sonal Dinusha,Galle Titans v B-Love Kandy,19/08/2023,1153148.0
+535,Luis Reece,Derbyshire v Lancashire,20/05/2023,347661.0
+536,Anuj Dal,Derbyshire v Lancashire,20/05/2023,644045.0
+537,Aneurin Thomas Donald,Derbyshire v Lancashire,20/05/2023,562281
+538,Matthew McKiernan,Derbyshire v Lancashire,20/05/2023,570241
+539,G Bell,Derbyshire v Lancashire,20/05/2023,1260229
+540,SJ Croft,Derbyshire v Lancashire,20/05/2023,11745.0
+541,C de Grandhomme,Derbyshire v Lancashire,20/05/2023,55395.0
+542,RP Jones,Derbyshire v Lancashire,20/05/2023,632173.0
+543,Robert Yates,Warwickshire v Yorkshire,20/05/2023,38935.0
+544,S Masood,Warwickshire v Yorkshire,20/05/2023,233901
+545,WAR Fraine,Warwickshire v Yorkshire,20/05/2023,870785.0
+546,Matthew Revis,Warwickshire v Yorkshire,20/05/2023,1150021.0
+547,Benjamin Mike,Warwickshire v Yorkshire,20/05/2023,1093092
+548,Dominic Bess,Warwickshire v Yorkshire,20/05/2023,
+549,Jafer Chohan,Warwickshire v Yorkshire,20/05/2023,1152986.0
+550,Dominic Leech,Warwickshire v Yorkshire,20/05/2023,1146769.0
+551,MG Bracewell,Worcestershire v Northamptonshire,24/05/2023,326968.0
+552,Adam Hose,Worcestershire v Northamptonshire,24/05/2023,525992.0
+553,Kashif Ali,Worcestershire v Northamptonshire,24/05/2023,1095900.0
+554,Ben Cox,Worcestershire v Northamptonshire,24/05/2023,417514.0
+555,Ed Pollock,Worcestershire v Northamptonshire,24/05/2023,760015.0
+556,Adam Finch,Worcestershire v Northamptonshire,24/05/2023,1026317.0
+557,MT Stanley,Worcestershire v Northamptonshire,24/05/2023,1145534.0
+558,Ricardo Vasconcelos,Worcestershire v Northamptonshire,24/05/2023,696241.0
+559,Lewis McManus,Worcestershire v Northamptonshire,24/05/2023,521170.0
+560,Rob Keogh,Worcestershire v Northamptonshire,24/05/2023,408413.0
+561,Tom Taylor,Worcestershire v Northamptonshire,24/05/2023,519544.0
+562,J Sales,Worcestershire v Northamptonshire,24/05/2023,1259996
+563,AJ Tye,Worcestershire v Northamptonshire,24/05/2023,459508.0
+564,T Prest,Hampshire v Somerset,24/05/2023,
+565,Toby Albert,Hampshire v Somerset,24/05/2023,1260388.0
+566,SW Currie,Hampshire v Somerset,24/05/2023,1104697.0
+567,Nick Welch,Lancashire v Leicestershire,25/05/2023,696145.0
+568,Arron Lilley,Lancashire v Leicestershire,25/05/2023,520551.0
+569,PWA Mulder,Lancashire v Leicestershire,25/05/2023,698189.0
+570,Rishi Patel,Lancashire v Leicestershire,25/05/2023,857653.0
+571,Harry Swindells,Lancashire v Leicestershire,25/05/2023,882319.0
+572,Will Davis,Lancashire v Leicestershire,25/05/2023,641801.0
+573,Jordan Clark,Surrey v Middlesex,25/05/2023,301648.0
+574,Joe Cracknell,Surrey v Middlesex,25/05/2023,1107568.0
+575,PJ Malan,Surrey v Middlesex,25/05/2023,277390.0
+576,Luke Hollman,Surrey v Middlesex,25/05/2023,1096123.0
+577,Martin Andersson,Surrey v Middlesex,25/05/2023,641385.0
+578,Nathan Fernandes,Surrey v Middlesex,25/05/2023,1260075.0
+579,Blake Cullen,Surrey v Middlesex,25/05/2023,1111984.0
+580,JA Tattersall,Yorkshire v Worcestershire,26/05/2023,517247.0
+581,Graeme White,Northamptonshire v Durham,26/05/2023,23513.0
+582,Graham Clark,Northamptonshire v Durham,26/05/2023,470501.0
+583,A Lees,Northamptonshire v Durham,26/05/2023,460756
+584,Grant Roelofsen,Gloucestershire v Glamorgan,26/05/2023,699723.0
+585,Chris Dent,Gloucestershire v Glamorgan,26/05/2023,302269.0
+586,O Price,Gloucestershire v Glamorgan,26/05/2023,1153276
+587,Jack Taylor,Gloucestershire v Glamorgan,26/05/2023,297602.0
+588,Ben Charlesworth,Gloucestershire v Glamorgan,26/05/2023,998369.0
+589,Graeme van Buuren,Gloucestershire v Glamorgan,26/05/2023,381002.0
+590,Zafar Gohar Khan,Gloucestershire v Glamorgan,26/05/2023,348154.0
+591,Matt Taylor,Gloucestershire v Glamorgan,26/05/2023,511247.0
+592,Matt Taylor,Gloucestershire v Glamorgan,26/05/2023,547739.0
+593,Eddie Byrom,Gloucestershire v Glamorgan,26/05/2023,596371.0
+594,Sam Northeast,Gloucestershire v Glamorgan,26/05/2023,246005.0
+595,Kiran Carlson,Gloucestershire v Glamorgan,26/05/2023,737833.0
+596,Colin Ingram,Gloucestershire v Glamorgan,26/05/2023,45705.0
+597,Chris Cooke,Gloucestershire v Glamorgan,26/05/2023,386774.0
+598,Dan Douthwaite,Gloucestershire v Glamorgan,26/05/2023,885181.0
+599,T van der Gugten,Gloucestershire v Glamorgan,26/05/2023,333782.0
+600,Prem Sisodiya,Gloucestershire v Glamorgan,26/05/2023,1094992.0
+601,RAJ Smith,Gloucestershire v Glamorgan,26/05/2023,458897.0
+602,Matthew Montgomery,Derbyshire v Nottinghamshire,26/05/2023,596062.0
+603,Steven Mullaney,Derbyshire v Nottinghamshire,26/05/2023,17986.0
+604,Lyndon James,Derbyshire v Nottinghamshire,26/05/2023,1046871.0
+605,JL Denly,Surrey v Kent,26/05/2023,12454.0
+606,Jack Leaning,Surrey v Kent,26/05/2023,517249.0
+607,Joey Evison,Surrey v Kent,26/05/2023,1115852.0
+608,Grant Stewart,Surrey v Kent,26/05/2023,1098186.0
+609,Tom Clark,Sussex v Somerset,26/05/2023,1107572.0
+610,Tom Alsop,Sussex v Somerset,26/05/2023,602155.0
+611,Alistair Orr,Sussex v Somerset,26/05/2023,1260069
+612,Michael Burgess,Sussex v Somerset,26/05/2023,517549.0
+613,Nathan McAndrew,Sussex v Somerset,26/05/2023,785323.0
+614,J Coles,Sussex v Somerset,26/05/2023,1231590
+615,Fynn HudsonPrentice,Sussex v Somerset,26/05/2023,571102
+616,MA Jones,Durham v Yorkshire,28/05/2023,1093091.0
+617,Ollie Robinson,Durham v Yorkshire,28/05/2023,893955.0
+618,Ollie Robinson,Durham v Yorkshire,28/05/2023,527776.0
+619,CT Steel,Surrey v Sussex,28/05/2023,633301.0
+620,Billy Root,Glamorgan v Somerset,28/05/2023,425692.0
+621,Jamie McIlroy,Glamorgan v Somerset,28/05/2023,741831.0
+622,JJ Bohannon,Lancashire v Warwickshire,29/05/2023,747067.0
+623,S Mahmood,Lancashire v Warwickshire,29/05/2023,643885.0
+624,M de Lange,Gloucestershire v Middlesex,29/05/2023,393279.0
+625,Tom Smith,Gloucestershire v Middlesex,29/05/2023,243945.0
+626,Tom Smith,Gloucestershire v Middlesex,29/05/2023,21447.0
+627,Tom Smith,Gloucestershire v Middlesex,29/05/2023,1282218.0
+628,B Guest,Derbyshire v Northamptonshire,29/05/2023,959825
+629,B de Leede,Durham v Nottinghamshire,29/05/2023,877473.0
+630,L Doneathy,Durham v Nottinghamshire,29/05/2023,1150572.0
+631,L Trevaskis,Durham v Nottinghamshire,29/05/2023,914623.0
+632,James Bracey,Gloucestershire v Essex,30/05/2023,747031.0
+633,DJ Lamb,Gloucestershire v Essex,30/05/2023,637151.0
+634,Feroze Khushi,Gloucestershire v Essex,30/05/2023,866505.0
+635,Tom Westley,Gloucestershire v Essex,30/05/2023,214265.0
+636,S Harmer,Gloucestershire v Essex,30/05/2023,432960
+637,W Luxton,Yorkshire v Nottinghamshire,30/05/2023,1263698.0
+638,Jack Davies,Glamorgan v Middlesex,31/05/2023,1095879.0
+639,EG Barnard,Warwickshire v Northamptonshire,31/05/2023,578769.0
+640,TA Wood,Derbyshire v Leicestershire,01/06/2023,566805.0
+641,Tom Bailey,Yorkshire v Lancashire,01/06/2023,473193.0
+642,OJ Carter,Essex v Sussex,01/06/2023,1145103.0
+643,HT Crocombe,Essex v Sussex,01/06/2023,1143809.0
+644,TS Roland-Jones,Middlesex v Somerset,02/06/2023,370535.0
+645,MJ Santner,Worcestershire v Nottinghamshire,02/06/2023,502714.0
+646,Conor McKerr,Worcestershire v Nottinghamshire,02/06/2023,807545.0
+647,LJ Hill,Leicestershire v Northamptonshire,02/06/2023,459754.0
+648,LP James Kimber,Leicestershire v Northamptonshire,02/06/2023,868843
+649,EN Gay,Leicestershire v Northamptonshire,02/06/2023,1148593.0
+650,AS Singh Nijjar,Hampshire v Essex,02/06/2023,637163
+651,SJ Cook,Hampshire v Essex,02/06/2023,44465.0
+652,SJ Cook,Hampshire v Essex,02/06/2023,10799.0
+653,SJ Cook,Hampshire v Essex,02/06/2023,772061.0
+654,TJ Haines,Sussex v Hampshire,03/06/2023,737871.0
+655,Danial Ibrahim,Sussex v Hampshire,03/06/2023,1260070.0
+656,A Karvelas,Sussex v Hampshire,03/06/2023,1115860.0
+657,MRJ Watt,Derbyshire v Yorkshire,04/06/2023,659081.0
+658,Joshua De Caires,Middlesex v Gloucestershire,04/06/2023,1115195.0
+659,SR Dickson,Somerset v Essex,04/06/2023,688141.0
+660,MJ Henry,Somerset v Essex,04/06/2023,506612.0
+661,Peter Siddle,Somerset v Essex,04/06/2023,7898.0
+662,S Snater,Somerset v Essex,04/06/2023,696143.0
+663,Benjamin Allison,Somerset v Essex,04/06/2023,1098405
+664,JM Blatherwick,Lancashire v Nottinghamshire,04/06/2023,1009835.0
+665,JH Wharton,Yorkshire v Leicestershire,06/06/2023,1147613.0
+666,MG Anthony Finan,Yorkshire v Leicestershire,06/06/2023,
+667,JO Hull,Yorkshire v Leicestershire,06/06/2023,1330163
+668,D Pennington,Lancashire v Worcestershire,07/06/2023,1094569
+669,William Buttleman,Kent v Essex,07/06/2023,1095899.0
+670,BD Glover,Nottinghamshire v Durham,08/06/2023,595419.0
+671,FJ Heldreich,Warwickshire v Northamptonshire,09/06/2023,1148589.0
+672,B Wells,Gloucestershire v Somerset,09/06/2023,1149723
+673,JS Rymell,Essex v Glamorgan,09/06/2023,1120259.0
+674,Zain Ul-Hassan,Essex v Glamorgan,09/06/2023,1098178
+675,Harrison Ward,Sussex v Hampshire,16/06/2023,901657.0
+676,John Turner,Sussex v Hampshire,16/06/2023,1261866.0
+677,WEL Buttleman,Glamorgan v Essex,16/06/2023,1095899.0
+678,Dane Vilas,Northamptonshire v Lancashire,16/06/2023,262456.0
+679,J Broad,Northamptonshire v Lancashire,16/06/2023,948595.0
+680,BW Sanderson,Northamptonshire v Lancashire,16/06/2023,297482.0
+681,Tom Lawes,Surrey v Somerset,16/06/2023,1264775.0
+682,JH Davey,Surrey v Somerset,16/06/2023,407265.0
+683,P Coughlin,Durham v Derbyshire,16/06/2023,517542.0
+684,Harry RC Came,Durham v Derbyshire,16/06/2023,1042145
+685,T Price,Gloucestershire v Kent,17/06/2023,905969
+686,AG Salter,Glamorgan v Gloucestershire,18/06/2023,458895.0
+687,Zaman Akhter,Glamorgan v Gloucestershire,18/06/2023,1141032.0
+688,PSP Handscomb,Leicestershire v Worcestershire,18/06/2023,334337.0
+689,TA R Scriven,Leicestershire v Worcestershire,18/06/2023,906053
+690,ME Thomas Salisbury,Leicestershire v Worcestershire,18/06/2023,524843
+691,WT Smale,Surrey v Glamorgan,20/06/2023,1158596.0
+692,CD Fletcher,Surrey v Glamorgan,20/06/2023,547764.0
+693,Andrew Gorvin,Surrey v Glamorgan,20/06/2023,737377
+694,Haseeb Hameed,Nottinghamshire v Worcestershire,22/06/2023,632172.0
+695,AT Thomson,Lancashire v Derbyshire,23/06/2023,645319.0
+696,J Shaw,Gloucestershire v Somerset,23/06/2023,21285.0
+697,J Shaw,Gloucestershire v Somerset,23/06/2023,567645.0
+698,Kasey Aldridge,Gloucestershire v Somerset,23/06/2023,1173045.0
+699,JC Tongue,Warwickshire v Worcestershire,23/06/2023,857975.0
+700,PR Brown,Warwickshire v Worcestershire,23/06/2023,891517.0
+701,OP Stone,Nottinghamshire v Warwickshire,30/06/2023,457279.0
+702,BJ Currie,Sussex v Gloucestershire,01/07/2023,1000791.0
+703,Z Khan,Derbyshire v Worcestershire,02/07/2023,30102.0
+704,ER Bamber,Glamorgan v Middlesex,02/07/2023,888191.0
+705,TR Bevan,Glamorgan v Middlesex,02/07/2023,1104894.0
+706,RI Walker,Nottinghamshire v Leicestershire,02/07/2023,1046777.0
+707,OH Dalby,Warwickshire v Durham,02/07/2023,297483
+708,JJ Bushnell,Warwickshire v Durham,02/07/2023,1185530.0
+709,GS Drissell,Warwickshire v Durham,02/07/2023,1012835.0
+710,HZ Finch,Somerset v Kent,02/07/2023,512627.0
+711,A Beard,Warwickshire v Essex,06/07/2023,
+712,A Yamin,,27/01/2022,
+713,Sohaib Maqsood,,27/01/2022,43266.0
+714,Y Khan,,28/01/2022,
+715,Hussain Talat,,28/01/2022,628240.0
+716,SE Rutherford,,28/01/2022,914541.0
+717,Abdullah Shafique,,29/01/2022,922941.0
+718,K Ghulam,,29/01/2022,
+719,Mohammad Hafeez,,29/01/2022,41434.0
+720,B Dunk,,29/01/2022,
+721,RA Khan,,29/01/2022,
+722,M Taha,,29/01/2022,
+723,M Ilyas,,29/01/2022,
+724,B Cutting,,30/01/2022,
+725,Sahibzada Farhan,,30/01/2022,647785.0
+726,U Asif,,30/01/2022,
+727,A Qureshi,,31/01/2022,
+728,James Faulkner,,31/01/2022,270484.0
+729,Sohail Tanvir,,31/01/2022,43265.0
+730,Faheem Ashraf,,01/02/2022,681117.0
+731,M Khan,,01/02/2022,
+732,H Zazai,,02/02/2022,
+733,Kamran Akmal,,02/02/2022,41028.0
+734,U Qadir,,02/02/2022,
+735,Arish Ali Khan,,02/02/2022,
+736,Abdul Bangalzai,,03/02/2022,1199393.0
+737,Shahid Afridi,,03/02/2022,1380679.0
+738,Shahid Afridi,,03/02/2022,42639.0
+739,M Umar,,05/02/2022,
+740,U Khan Shinwari,,06/02/2022,
+741,A Afridi,,10/02/2022,
+742,B Muzarabani,,11/02/2022,827051.0
+743,S Dahani,,11/02/2022,
+744,M Akhlaq,,12/02/2022,
+745,Umar Akmal,,12/02/2022,317273.0
+746,MH Khan,,13/02/2022,
+747,Qasim Akram,,14/02/2022,1185475.0
+748,Khurram Shahzad,,15/02/2022,1093668.0
+749,Khurram Shahzad,,15/02/2022,681351.0
+750,Khurram Shahzad,,15/02/2022,1159495.0
+751,Rohail Nazir,,16/02/2022,1092313.0
+752,D Aziz,,17/02/2022,
+753,M Musa Khan,,17/02/2022,
+754,Ghulam Mudassar,,18/02/2022,938937.0
+755,Mohammad Irfan,,18/02/2022,716779.0
+756,Mohammad Irfan,,18/02/2022,9999996.0
+757,Mohammad Irfan,,18/02/2022,429981.0
+758,Mohammad Irfan,,18/02/2022,805925.0
+759,Mohammad Irfan,,18/02/2022,788987.0
+760,Mir Hamza,,18/02/2022,556684.0
+761,S Akhtar,,19/02/2022,
+762,W Maqsood,,19/02/2022,
+763,N Nawaz,,20/02/2022,
+764,M Hurraira,,20/02/2022,
+765,Muhammad Musa,,20/02/2022,1072472.0
+766,Z Mahmood,,20/02/2022,
+767,A Azmat,,20/02/2022,
+768,Khalid Usman,,21/02/2022,316318.0
+769,Zeeshan Ashraf,,27/02/2022,520183.0
+770,Asif Afridi,,27/02/2022,385065.0
+771,Rumman Raees,,27/02/2022,448243.0
+772,MT Baig,Lahore Qalandars v Multan Sultans,13/02/2023,
+773,MJ Guptill,Multan Sultans v Quetta Gladiators,15/02/2023,226492.0
+774,Irfan Khan,Karachi Kings v Islamabad United,16/02/2023,1199426.0
+775,Hassan Nawaz,Karachi Kings v Islamabad United,16/02/2023,1329695.0
+776,HE van der Dussen,Karachi Kings v Islamabad United,16/02/2023,337790.0
+777,R Powell,Multan Sultans v Peshawar Zalmi,17/02/2023,820351.0
+778,S Muqeem,Multan Sultans v Peshawar Zalmi,17/02/2023,
+779,OF Smith,Karachi Kings v Quetta Gladiators,18/02/2023,820691.0
+780,A Ahmed,Multan Sultans v Islamabad United,19/02/2023,
+781,QK Ahmad,Quetta Gladiators v Lahore Qalandars,21/02/2023,
+782,A Iqbal,Peshawar Zalmi v Islamabad United,23/02/2023,520126.0
+783,Aimal Khan,Quetta Gladiators v Islamabad United,24/02/2023,1339131.0
+784,T Tayyab,Karachi Kings v Multan Sultans,26/02/2023,
+785,AJ Hosein,Karachi Kings v Multan Sultans,26/02/2023,530812.0
+786,Ihsanullah,Karachi Kings v Multan Sultans,26/02/2023,703323.0
+787,Ihsanullah,Karachi Kings v Multan Sultans,26/02/2023,1283740.0
+788,Saad Masood,Lahore Qalandars v Peshawar Zalmi,26/02/2023,1339104.0
+789,Zeeshan Zameer,Lahore Qalandars v Islamabad United,27/02/2023,1249881.0
+790,Haseebullah Khan,Peshawar Zalmi v Karachi Kings,01/03/2023,1171127.0
+791,Akif Javed,Peshawar Zalmi v Karachi Kings,01/03/2023,1203669.0
+792,Omair Yousuf,Quetta Gladiators v Karachi Kings,06/03/2023,1126059.0
+793,Shawaiz Irfan,Peshawar Zalmi v Lahore Qalandars,07/03/2023,1339088.0
+794,F Farooqi,Islamabad United v Lahore Qalandars,09/03/2023,
+795,S Dadswell,Lahore Qalandars v Karachi Kings,12/03/2023,595406.0
+796,D HUSSAIN,Lahore Qalandars v Karachi Kings,12/03/2023,
+797,Ahsan Bhatti,Lahore Qalandars v Peshawar Zalmi,17/03/2023,926037.0
+798,Lahiru Milantha,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,699483.0
+799,M Kumar,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,
+800,C Savage,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,
+801,Nitish Kumar,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,348129.0
+802,J Malhotra,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,
+803,Corne Dry,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,
+804,LH Ferguson,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,493773.0
+805,Muhammad Ali Khan,Texas Super Kings v Los Angeles Knight Riders,14/07/2023,
+806,AJ Finch,MI New York v San Francisco Unicorns,15/07/2023,5334.0
+807,CJ Anderson,MI New York v San Francisco Unicorns,15/07/2023,36189.0
+808,CJ Anderson,MI New York v San Francisco Unicorns,15/07/2023,277662.0
+809,Tajinder Dhillon,MI New York v San Francisco Unicorns,15/07/2023,
+810,D Brevis,MI New York v San Francisco Unicorns,15/07/2023,1070665.0
+811,S Taylor,MI New York v San Francisco Unicorns,15/07/2023,523077.0
+812,MD Patel,MI New York v San Francisco Unicorns,15/07/2023,1159641.0
+813,H Azam,MI New York v San Francisco Unicorns,15/07/2023,
+814,Andries Gous,Seattle Orcas v Washington Freedom,15/07/2023,485379.0
+815,Mukhtar Ahmed,Seattle Orcas v Washington Freedom,15/07/2023,556916.0
+816,MC Henriques,Seattle Orcas v Washington Freedom,15/07/2023,5961.0
+817,M Jansen,Seattle Orcas v Washington Freedom,15/07/2023,696401.0
+818,Obus Pienaar,Seattle Orcas v Washington Freedom,15/07/2023,328160.0
+819,Dane Piedt,Seattle Orcas v Washington Freedom,15/07/2023,379926.0
+820,Nauman Anwar,Seattle Orcas v Washington Freedom,15/07/2023,788879.0
+821,GSNFG Jayasuriya,Seattle Orcas v Washington Freedom,15/07/2023,422965.0
+822,SO Hetmyer,Seattle Orcas v Washington Freedom,15/07/2023,670025.0
+823,SS Ranjane,Seattle Orcas v Washington Freedom,15/07/2023,554701.0
+824,C Bishnoi,San Francisco Unicorns v Seattle Orcas,16/07/2023,628217.0
+825,LE Plunkett,San Francisco Unicorns v Seattle Orcas,16/07/2023,19264.0
+826,C le Roux,San Francisco Unicorns v Seattle Orcas,16/07/2023,440894.0
+827,G Coetzee,Texas Super Kings v Washington Freedom,17/07/2023,596010.0
+828,S Jahangir,Los Angeles Knight Riders v MI New York,17/07/2023,
+829,K Rabada,Los Angeles Knight Riders v MI New York,17/07/2023,550215.0
+830,N Kenjige,Los Angeles Knight Riders v MI New York,17/07/2023,
+831,TA Boult,Los Angeles Knight Riders v MI New York,17/07/2023,277912.0
+832,C Chetty,Texas Super Kings v MI New York,18/07/2023,322815.0
+833,Mohammad Mohsin,Seattle Orcas v Texas Super Kings,22/07/2023,935881.0
+834,Z Haq,Seattle Orcas v Texas Super Kings,22/07/2023,
+835,Rusty Theron,Seattle Orcas v Texas Super Kings,22/07/2023,223642.0
+836,G Singh,Los Angeles Knight Riders v Seattle Orcas,23/07/2023,230551.0
+837,G Singh,Los Angeles Knight Riders v Seattle Orcas,23/07/2023,870013.0
+838,S Badar,Los Angeles Knight Riders v Seattle Orcas,23/07/2023,
+839,Shadley van Schalkwyk,Los Angeles Knight Riders v Seattle Orcas,23/07/2023,334621.0
+840,Harmeet Singh,MI New York v Seattle Orcas,26/07/2023,422847.0
+841,Harmeet Singh,MI New York v Seattle Orcas,26/07/2023,391128.0
+842,Justin Dill,Washington Freedom v MI New York,28/07/2023,594293.0
+843,AA Nortje,Washington Freedom v MI New York,28/07/2023,
+844,S Netravalkar,Washington Freedom v MI New York,28/07/2023,
+845,SL Van Staden,Texas Super Kings v MI New York,29/07/2023,
+846,R Uthappa,Dubai Capitals v Abu Dhabi Knight Riders,13/01/2023,
+847,Yusuf Pathan,Dubai Capitals v Abu Dhabi Knight Riders,13/01/2023,32498.0
+848,BA King,Dubai Capitals v Abu Dhabi Knight Riders,13/01/2023,670035.0
+849,Zawar Farid,Dubai Capitals v Abu Dhabi Knight Riders,13/01/2023,1196500.0
+850,Connor Esterhuizen,Dubai Capitals v Abu Dhabi Knight Riders,13/01/2023,1070997.0
+851,Fahad Nawaz,Dubai Capitals v Abu Dhabi Knight Riders,13/01/2023,1126002.0
+852,Ravi Rampaul,Dubai Capitals v Abu Dhabi Knight Riders,13/01/2023,52912.0
+853,M Waseem,MI Emirates v Sharjah Warriors,14/01/2023,
+854,E Lewis,MI Emirates v Sharjah Warriors,14/01/2023,431901.0
+855,MJ Siddique,MI Emirates v Sharjah Warriors,14/01/2023,
+856,Matiullah Khan,Abu Dhabi Knight Riders v Gulf Giants,15/01/2023,1241201.0
+857,MG Erasmus,Abu Dhabi Knight Riders v Gulf Giants,15/01/2023,519070.0
+858,R Mustafa,Desert Vipers v Sharjah Warriors,15/01/2023,
+859,Hazrat Luqman,Dubai Capitals v Gulf Giants,16/01/2023,1241269.0
+860,Alishan Sharafu,Sharjah Warriors v MI Emirates,17/01/2023,1161038.0
+861,Kennar Lewis,Abu Dhabi Knight Riders v Desert Vipers,18/01/2023,537319.0
+862,Chirag Suri,Dubai Capitals v Gulf Giants,19/01/2023,534734.0
+863,Raja Akifullah,Dubai Capitals v Gulf Giants,19/01/2023,
+864,RA Reifer,Abu Dhabi Knight Riders v MI Emirates,21/01/2023,450101.0
+865,AA Khan,Gulf Giants v Sharjah Warriors,23/01/2023,
+866,SM Sharma,Gulf Giants v Sharjah Warriors,23/01/2023,1199670.0
+867,V Aravind,Desert Vipers v MI Emirates,24/01/2023,1178586.0
+868,AA Naseer,Dubai Capitals v Desert Vipers,28/01/2023,
+869,SS Cottrell,Dubai Capitals v Desert Vipers,28/01/2023,495551.0
+870,Shiraz Ahmed,Desert Vipers v MI Emirates,29/01/2023,1206625.0
+871,HG Munsey,Abu Dhabi Knight Riders v Dubai Capitals,30/01/2023,671805.0
+872,B Hameed,Gulf Giants v MI Emirates,01/02/2023,
+873,LJ Tucker,Abu Dhabi Knight Riders v MI Emirates,03/02/2023,928057.0
+874,Sabir Ali,Abu Dhabi Knight Riders v MI Emirates,03/02/2023,1328438.0
+875,M Jawadullah,Abu Dhabi Knight Riders v Sharjah Warriors,04/02/2023,
+876,S Ismail,Delhi Capitals Women v UP Warriorz Women,07/03/2023,276997.0
+877,S Yashasri,UP Warriorz Women v Delhi Capitals Women,21/03/2023,
+878,Vasu Vats,MI Global A v SACA,04/08/2023,1292515.0
+879,H Saleem,MI Global A v SACA,04/08/2023,11111111114.0
+880,Yadvinder Chahal,MI Global A v SACA,04/08/2023,1325519.0
+881,Z Latif,MI Global B v SACA,04/08/2023,11111111121.0
+882,Akash Madhwal,MI Global B v SACA,04/08/2023,1206039.0
+883,Beuran Hendricks,MI Global B v SACA,04/08/2023,379927.0
+884,B Punnaiah,MI Global B v SACA,04/08/2023,1300712.0
+885,Adrian Neill,MI Global B v Scotland A,09/08/2023,1148466.0
+886,James Harris,Glamorgan v Mumbai Indians,14/08/2023,212739.0
+887,James Harris,Glamorgan v Mumbai Indians,14/08/2023,52078.0
+888,Ben Morris,Glamorgan v Mumbai Indians,14/08/2023,1258581.0
+889,Ruaidhri Smith,Glamorgan v Mumbai Indians,14/08/2023,458897.0
+890,Andy Gorvin,Glamorgan 2nd XI v Mumbai Indians,14/08/2023,737377.0
+891,William Moore,Glamorgan 2nd XI v Mumbai Indians,14/08/2023,1330156.0
+892,LJ  Fletcher,Northern Superchargers v Trent Rockets,09/08/2022,
+893,BTJ Wheal,Southern Brave v London Spirit,12/08/2022,807535.0
+894,M  Fisher,Welsh Fire v Southern Brave,12/08/2023,
+895,AC Jayed,Khulna Tigers v Chattogram Challengers,09/01/2023,
+896,Sunzamul Islam,Fortune Barishal v Chattogram Challengers,13/01/2023,380974.0
+897,Tanvir Islam,Fortune Barishal v Comilla Victorians,14/01/2023,932665.0
+898,Qazi Onik,Fortune Barishal v Comilla Victorians,14/01/2023,864553.0
+899,M Pushpakumara,Dhaka Dominators v Chattogram Challengers,14/01/2023,49868.0
+900,Nazmul Islam,Dhaka Dominators v Sylhet Strikers,16/01/2023,446810.0
+901,Mukidul Islam,Chattogram Challengers v Comilla Victorians,16/01/2023,990165.0
+902,Shafiqul Islam,Khulna Tigers v Comilla Victorians,31/01/2023,932763.0
+903,M Sheikh,Dhaka Dominators v Rangpur Riders,03/02/2023,
+904,A Jones,Sylhet Strikers v Rangpur Riders,04/02/2023,
+905,Nabil Samad,Sylhet Strikers v Rangpur Riders,04/02/2023,56058.0
+906,AA Daniel,Colombo Strikers v Kandy Falcons,06/12/2022,
+907,KWS Lakshan Fernando,Jaffna Kings v Dambulla Aura,11/12/2022,
+908,AM Fernando,Colombo Strikers v Jaffna Kings,12/12/2022,786925.0
+909,OR Thomas,Kandy Falcons v Colombo Strikers,17/12/2022,
+910,PAKP Jayawickrama,Jaffna Kings v Colombo Strikers,19/12/2022,
+911,MVT Fernando,Galle Titans v Dambulla Aura,31/07/2023,465783.0
+912,PVD Chameera,Dambulla Aura v B-Love Kandy,04/08/2023,552152.0
+913,Archie Lenham,Surrey v Sussex,28/05/2023,1260072.0
+914,Jack Brooks,Yorkshire v Nottinghamshire,30/05/2023,10622.0
+915,Harry Podmore,Glamorgan v Middlesex,31/05/2023,514398.0
+916,Wes Agar,Kent v Glamorgan,02/06/2023,959833.0
+917,Thilan Walallawita,Middlesex v Gloucestershire,04/06/2023,905931.0
+918,LS Robinson,Durham v Leicestershire,04/06/2023,1377629.0
+919,Shoaib Bashir,Hampshire v Somerset,07/06/2023,1334872.0
+920,AK Russell,Warwickshire v Northamptonshire,09/06/2023,1154721.0
+921,Matthew Waite,Warwickshire v Worcestershire,16/06/2023,765879.0
+922,Max Harris,Surrey v Middlesex,22/06/2023,1190568.0
+923,A Dale,Gloucestershire v Somerset,23/06/2023,11790.0
+924,E Barnes,Derbyshire v Leicestershire,30/06/2023,1022671.0
+925,MR Quinn,Somerset v Kent,02/07/2023,559065.0
+926,M Imran Khan,,27/01/2022,
+927,M Imran,,27/01/2022,
+928,S Gul,,28/01/2022,
+929,Sohail Khan,,28/01/2022,317252.0
+930,Athar Mahmood,,20/02/2022,1122913.0
+931,Fawad Ahmed,,21/02/2022,240609.0
+932,Ali Majid Shah,,24/02/2022,1278279.0
+933,Izharulhaq Naveed,Quetta Gladiators v Multan Sultans,11/03/2023,1076473.0
+934,E Adil,MI New York v San Francisco Unicorns,15/07/2023,547092
+935,SS Ladda,MI New York v San Francisco Unicorns,15/07/2023,317292
+936,Cameron Gannon,Seattle Orcas v Washington Freedom,15/07/2023,326635.0
+937,Jasdeep Singh,Seattle Orcas v MI New York,31/07/2023,772471.0
+938,KP Meiyappan,MI Emirates v Sharjah Warriors,14/01/2023,1058987.0
+940,T Islam,Rangpur Riders v Chattogram Challengers,23/01/2023,401057
+940,Afif Dhrubo Hossain,Rangpur Riders v Chattogram Challengers,23/01/2023,935995
+941,P Hatzoglou,Essex v Glamorgan,09/06/2023,1191384
+941,Jamie McIlroy,Essex v Glamorgan,09/06/2023,741831
+942,MG Anthony Finan,Derbyshire v Leicestershire,30/06/2023,1023059
+942,E Barnes,Derbyshire v Leicestershire,30/06/2023,1022671

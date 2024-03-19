@@ -1,0 +1,302 @@
+,is_wicket_keeper,is_batsman,is_bowler,born,full_name,name,short_name,cricinfo_id,nvplay_name
+0,-1,1,-1,25-3-1992,Meghann Moira Lanning,MM Lanning,Lanning,329336,MM Lanning
+1,1,1,-1,28-11-1997,Taniya Bhatia,T Bhatia,Bhatia,883423,T Bhatia
+2,-1,1,-1,18-8-1990,Laura Harris,L Harris,Laura Harris,951163,L Harris
+3,-1,1,-1,5-9-2000,Jemimah Ivan Rodrigues,JI Rodrigues,Rodrigues,883405,JI Rodrigues
+4,-1,1,-1,28-1-2004,Shafali Verma,Shafali Verma,Shafali Verma,1182523,Shafali Verma
+5,-1,1,1,11-8-2004,Alice Capsey,A Capsey,Capsey,1187120,A Capsey
+6,-1,1,1,4-1-1990,Marizanne Kapp,M Kapp,Kapp,351836,M Kapp
+7,-1,1,1,12-5-1989,Shikha Subas Pandey,S Pandey,Pandey,442145,S Pandey
+8,-1,-1,1,5-11-1992,Jessica Louise Jonassen,JL Jonassen,Jonassen,374936,JL Jonassen
+9,-1,-1,1,24-3-1999,Minnu Mani,M Mani,Mani,960949,M Mani
+10,-1,-1,1,4-6-1998,Tara G Norris,TG Norris,Norris,872217,TG Norris
+11,-1,-1,1,24-8-1991,Poonam Yadav,Poonam Yadav,Poonam,630972,Poonam Yadav
+12,-1,-1,1,4-10-1997,Arundhati Reddy,A Reddy,Reddy,960867,A Reddy
+13,-1,-1,1,29-9-2004,Titas Ranadeep Sadhu,TR Sadhu,Sadhu,1255407,TR Sadhu
+14,-1,-1,1,21-4-2000,Radha Prakash Yadav,RP Yadav,Yadav,960737,RP Yadav
+15,-1,-1,-1,27-5-1988,Jasia Akhtar,Jasia Akhtar,,961035,Jasia Akhtar
+16,-1,-1,-1,6-2-1996,Aparna Dilipkumar Mondal,AD Mondal,Mondal,960745,AD Mondal
+17,-1,-1,-1,10-9-1996,Vootala Sneha Deepthi,V Sneha Deepthi,,627072,V Sneha Deepthi
+18,-1,1,-1,21-6-1998,Harleen Deol,H Deol,Deol,960845,H Deol
+19,-1,1,-1,29-9-1994,Dayalan Hemalatha,D Hemalatha,Hemalatha,961107,D Hemalatha
+20,-1,1,-1,7-6-1996,Sabbhineni Meghana,S Meghana,Meghana,556529,S Meghana
+21,1,1,-1,3-11-1992,Sushma Verma Devi,S Verma,Verma,597821,S Verma
+22,-1,1,-1,26-4-1999,Laura Wolvaardt,L Wolvaardt,Wolvaardt,922481,L Wolvaardt
+23,1,1,-1,14-1-1994,Bethany Louise Mooney,BL Mooney,Mooney,381258,BL Mooney
+24,-1,1,1,18-2-1994,Sneh Rana,S Rana,Rana,556537,S Rana
+25,-1,1,1,16-7-1998,Sophia Ivy Rose Dunkley,SIR Dunkley,Dunkley,885815,SIR Dunkley
+26,-1,1,1,19-9-2006,Hurley Tanmay Gala,HT Gala,Gala,1289680,HT Gala
+27,-1,1,1,15-4-1997,Ashleigh Katherine Gardner,A Gardner,Gardner,858809,A Gardner
+28,-1,1,1,25-4-1996,Kimberley Jennifer Garth,KJ Garth,Garth,418423,KJ Garth
+29,-1,1,1,12-10-2001,Annabel Sutherland,A Sutherland,Sutherland,1071705,A Sutherland
+30,-1,1,1,21-6-1991,Deandra Jalisa Shakira Dottin,DJS Dottin,Dottin,355349,DJS Dottin
+31,-1,-1,1,18-8-1993,Mansi Joshi,M Joshi,Joshi,960815,M Joshi
+32,-1,-1,1,28-1-1998,Tanuja P Kanwar,TP Kanwar,Kanwar,960847,TP Kanwar
+33,-1,-1,1,17-6-2007,Shabnam Md Shakil,Shabnam MD,Shabnam,1346683,Shabnam MD
+34,-1,-1,1,26-5-1999,Georgia Wareham,G Wareham,Wareham,946057,G Wareham
+35,-1,-1,-1,25-8-1997,Ashwani Kumari,Ashwani Kumari,,1345792,Ashwani Kumari
+36,-1,-1,-1,26-4-1999,Monica Chhelaram Patel,MC Patel,Monica Patel,1213438,MC Patel
+37,-1,-1,-1,1-9-2005,Parunika Sudhir Sisodia,PS Sisodia,Sisodia,1289559,PS Sisodia
+38,-1,1,-1,1-11-2000,Yastika Harish Bhatia,YH Bhatia,Bhatia,960715,YH Bhatia
+39,-1,1,-1,19-3-1998,Hayley Kristen Matthews,HK Matthews,Matthews,474308,HK Matthews
+40,-1,1,1,8-3-1989,Harmanpreet Kaur Bhullar,H Kaur,Kaur,372317,H Kaur
+41,-1,1,1,5-10-1996,Heather Graham,H Graham,Graham,546629,H Graham
+42,-1,1,1,1-1-2000,Amanjot Bhupinder Kaur,AB Kaur,Amanjot,1255411,AB Kaur
+43,-1,1,1,13-10-2000,Amelia Charlotte Kerr,AC Kerr,Amelia Kerr,803971,Amelia Kerr
+45,-1,1,1,25-1-1994,Chloe-Lesleigh  Tryon,CL Tryon,Tryon,453370,CL Tryon
+46,-1,-1,1,8-10-1995,Saika Ishaque,S Ishaque,Ishaque,597815,S Ishaque
+47,-1,-1,1,25-12-2003,Jintimani Nakul Kalita,JN Kalita,Kalita,1255387,JN Kalita
+48,-1,-1,1,25-9-1999,Pooja Vastrakar,P Vastrakar,Vastrakar,883413,P Vastrakar
+49,-1,-1,1,15-5-2002,Isabelle Eleanor Chih Ming Wong,IECM Wong,Wong,1146066,IECM Wong
+50,-1,-1,1,18-7-2007,Sonam Mukesh Yadav,SM Yadav,Yadav,1289956,SM Yadav
+51,-1,-1,-1,30-9-1995,Priyanka Prankrishna Bala,PP Bala,Bala,1255564,PP Bala
+52,-1,-1,-1,5-6-1996,Neelam Bisht,N Bisht,Bisht,961029,N Bisht
+53,-1,-1,-1,18-8-2002,Dhara Vijay Gujjar,DV Gujjar,Gujjar,1255408,DV Gujjar
+54,-1,-1,-1,10-5-1993,Humaira Yusufamir Kazi,HY Kazi,Kazi,961005,HY Kazi
+55,-1,1,-1,18-7-1996,Smriti Shriniwas Mandhana,S Mandhana,Mandhana,597806,S Mandhana
+56,1,1,-1,28-9-2003,Richa Manabendra Ghosh,RM Ghosh,Ghosh,1212830,RM Ghosh
+57,-1,1,-1,19-9-1997,Disha Deepak Kasat,DD Kasat,Kasat,961183,DD Kasat
+58,-1,1,-1,26-12-1990,Heather Clare Knight,HC Knight,Knight,358259,HC Knight
+59,1,1,-1,5-9-1997,Indrani Tarun Roy,IT Roy,Indrani Roy,1255494,IT Roy
+60,-1,1,1,7-8-2002,Kanika S Ahuja,KS Ahuja,Ahuja,1255560,KS Ahuja
+61,-1,1,1,16-3-1991,Sobhana Asha,S Asha,Asha,550687,S Asha
+62,-1,1,1,22-6-1988,Erin Alexandra Burns,EA Burns,Burns,275447,EA Burns
+63,-1,1,1,1-9-1989,Sophie Frances Monique Devine,SFM Devine,Devine,231740,SFM Devine
+64,-1,1,1,31-7-2002,Shreyanka Rajesh Patil,SR Patil,Patil,1289948,SR Patil
+65,-1,1,1,3-11-1990,Ellyse Alexandra Perry,EA Perry,Perry,275487,EA Perry
+66,-1,1,1,14-5-1993,Dane van Niekerk,D van Niekerk,,364413,D van Niekerk
+67,-1,-1,1,20-11-1996,Sahana Shamsunder Pawar,SS Pawar,Sahana Pawar,960931,SS Pawar
+68,-1,-1,1,20-4-1992,Preeti Bose,Preeti Bose,,709843,Preeti Bose
+69,-1,-1,1,2-1-1996,Renuka Singh Thakur,Renuka Singh,Renuka Singh,960853,Renuka Singh
+70,-1,-1,1,15-1-1993,Megan Schutt,M Schutt,Schutt,420314,M Schutt
+71,-1,-1,1,10-7-1991,Komal Ravindra Zanzad,KR Zanzad,Zanzad,961195,KR Zanzad
+72,-1,-1,-1,9-5-1994,Poonam Nanasaheb Khemnar,PN Khemnar,Khemnar,1289979,PN Khemnar
+75,-1,1,-1,12-1-2002,Simran Banu Shaikh,Simran Shaikh,,1255541,Simran Shaikh
+79,-1,1,1,10-5-2006,Parshavi Gaurav Chopra,PG Chopra,Chopra,1346678,PG Chopra
+80,-1,1,1,18-9-1993,Grace Margaret Harris,GM Harris,Harris,381268,GM Harris
+81,-1,1,1,10-11-1995,Tahlia May McGrath,TM McGrath,McGrath,381311,TM McGrath
+82,-1,1,1,26-2-2004,Shweta Sehrawat,S Sehrawat,Sehrawat,1255442,S Sehrawat
+83,-1,1,1,24-8-1997,Deepti Bhagwan Sharma,DB Sharma,Sharma,597811,DB Sharma
+84,-1,1,1,13-8-1997,Devika Purnendu Vaidya,DP Vaidya,Vaidya,709837,DP Vaidya
+85,-1,-1,1,28-8-1997,Kesavarajugari Anjali Sarvani,K Anjali Sarvani,,960673,K Anjali Sarvani
+86,-1,-1,1,2-1-2001,Lauren Katie Bell,LK Bell,Bell,878025,LK Bell
+87,-1,-1,1,6-5-1999,Sophie Ecclestone,S Ecclestone,Ecclestone,878039,S Ecclestone
+88,-1,-1,1,1-6-1991,Rajeshwari Shivanand Gayakwad,RS Gayakwad,Gayakwad,709635,RS Gayakwad
+89,-1,-1,1,5-10-1988,Shabnim Ismail,S Ismail,Ismail,276997,S Ismail
+90,-1,-1,-1,23-6-1996,Shivali Shrikant Shinde,SS Shinde,Shinde,960993,SS Shinde
+91,-1,-1,-1,4-9-2003,Soppadhandi Venugopal Yashasri,SV Yashasri,Yashasri,1255485,SV Yashasri
+92,-1,-1,-1,22-10-1997,Laxmi Kundan Yadav,LK Yadav,Yadav,1289558,LK Yadav
+93,-1,1,-1,31-5-2001,Connor Esterhuizen,C Esterhuizen,,1070997,C Esterhuizen
+94,-1,1,-1,3-7-1985,Colin Alexander Ingram,CA Ingram,Ingram,45705,CA Ingram
+95,-1,1,-1,16-12-1994,Brandon Alexander King,BA King,King,670035,BA King
+96,-1,1,-1,18-8-1991,Kennar Lewis,K Lewis,Lewis,537319,K Lewis
+97,-1,1,1,26-5-1988,Sunil Philip Narine,SP Narine,Narine,230558,SP Narine
+98,-1,1,1,29-6-1997,Kariyawasam Indipalage Charith Asalanka,KIC Asalanka,Asalanka,784367,KIC Asalanka
+99,-1,1,1,6-9-1991,Dhananjaya Maduranga de Silva,DM de Silva,Dhananjaya,465793,DM de Silva
+100,-1,1,1,15-1-2000,Fahad Nawaz,Fahad Nawaz,,1126002,Fahad Nawaz
+101,-1,1,1,11-5-1991,Raymon Anton Reifer,RA Reifer,Reifer,450101,RA Reifer
+102,-1,1,1,29-4-1988,Andre Dwayne Russell,AD Russell,Russell,276298,AD Russell
+103,-1,1,1,3-9-1990,Paul Robert Stirling,PR Stirling,Stirling,303427,PR Stirling
+105,-1,-1,1,13-10-1990,Marchant de Lange,M de Lange,de Lange,393279,M de Lange
+106,-1,-1,1,25-4-1993,Akeal Jerome Hosein,AJ Hosein,Hosein,530812,AJ Hosein
+107,-1,-1,1,3-4-1997,Brandon Dale Glover,BD Glover,Glover,595419,BD Glover
+108,-1,-1,1,13-2-1997,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,CBRLS Kumara,Lahiru Kumara,784375,CBRLS Kumara
+109,-1,-1,1,14-6-2004,Traveen Sashenka Mathew,T Mathew,Mathew,1282477,T Mathew
+110,-1,-1,1,1-3-1993,Matiullah Khan,Matiullah Khan,,1241201,Matiullah Khan
+111,-1,-1,1,15-10-1984,Ravindranath Rampaul,R Rampaul,Rampaul,52912,R Rampaul
+112,-1,-1,1,11-7-1991,Sabir Ali,Sabir Ali,Sabir Ali,1328438,Sabir Ali
+113,-1,-1,1,25-7-1992,Zawar Farid,Zawar Farid,,1196500,Zawar Farid
+114,-1,1,-1,11-3-1987,Colin Munro,C Munro,Munro,232359,C Munro
+115,1,1,-1,15-6-1991,Samuel William Billings,SW Billings,Billings,297628,SW Billings
+116,1,1,-1,18-11-1989,Lokuge Dinesh Chandimal,LD Chandimal,Chandimal,300628,LD Chandimal
+117,-1,1,-1,3-1-1989,Alexander Daniel Hales,AD Hales,Hales,249866,AD Hales
+118,-1,1,-1,25-9-1987,Adam Lyth,A Lyth,Lyth,251721,A Lyth
+119,-1,1,-1,7-10-1988,Rohan Mustafa,Rohan Mustafa,Mustafa,307808,Rohan Mustafa
+120,-1,1,-1,15-8-1998,Sherfane Eviston Rutherford,SE Rutherford,Rutherford,914541,SE Rutherford
+121,-1,1,1,9-3-2004,Ali Aamer Naseer,Ali Naseer,Ali Naseer,1212829,Ali Naseer
+122,-1,1,1,12-3-1995,Thomas Kevin Curran,TK Curran,Tom Curran,550235,TK Curran
+123,-1,1,1,29-7-1997,Pinnaduwage Wanindu Hasaranga de Silva,PWH de Silva,Hasaranga,784379,PWH de Silva
+124,-1,1,1,5-10-1988,Benny Alexander Cameron Howell,BAC Howell,Howell,211748,BAC Howell
+125,-1,1,1,5-1-2003,Ronak Sudesh Panoly,RS Panoly,Panoly,1161037,RS Panoly
+126,-1,-1,1,19-1-1998,Angus Alexander Patrick Atkinson,AAP Atkinson,Atkinson,1039481,AAP Atkinson
+127,-1,-1,1,19-8-1989,Sheldon Shane Cottrell,SS Cottrell,Cottrell,495551,SS Cottrell
+128,-1,-1,1,22-4-1993,Jacob Benedict Lintott,JB Lintott,Lintott,463668,JB Lintott
+129,-1,-1,1,12-8-1992,Tymal Solomon Mills,TS Mills,Mills,459257,TS Mills
+130,-1,-1,1,18-12-2002,Matheesha Pathirana,M Pathirana,Pathirana,1194795,M Pathirana
+131,-1,-1,1,-1,Shiraz Ahmed,Shiraz Ahmed,,1206625,Shiraz Ahmed
+132,-1,-1,1,1-2-1998,Ruben Trumpelmann,R Trumpelmann,Trumpelmann,698317,R Trumpelmann
+133,-1,-1,1,29-7-1996,Mark Robert James Watt,MRJ Watt,Watt,659081,MRJ Watt
+134,-1,1,-1,23-7-1993,Rovman Powell,R Powell,Powell,820351,R Powell
+135,-1,1,-1,18-2-1995,Chirag Suri,Chirag Suri,,534734,Chirag Suri
+136,1,1,-1,23-6-1993,Dickwella Patabendige Dilantha Niroshan Dickwella,N Dickwella,Dickwella,429754,N Dickwella
+137,-1,1,-1,23-3-1998,Hazratullah Zazai,Hazratullah Zazai,,793457,Hazratullah Zazai
+138,-1,1,-1,12-7-1997,Daniel William Lawrence,DW Lawrence,Lawrence,641423,DW Lawrence
+139,-1,1,-1,21-2-1993,Henry George Munsey,HG Munsey,Munsey,671805,HG Munsey
+140,-1,1,-1,24-10-1991,Pramod Bhanuka Bandara Rajapaksa,PBB Rajapaksa,Rajapaksa,342619,PBB Rajapaksa
+141,-1,1,-1,30-12-1990,Joseph Edward Root,JE Root,Root,303669,JE Root
+142,-1,1,-1,11-11-1985,Robin Venu Uthappa,RV Uthappa,Uthappa,35582,RV Uthappa
+143,-1,1,1,7-5-1995,Fabian Anthony Allen,FA Allen,Allen,670013,FA Allen
+144,-1,1,1,4-5-1985,Ravinder Singh Bopara,RS Bopara,Bopara,10582,RS Bopara
+145,-1,1,1,29-5-1996,Chamika Karunaratne,C Karunaratne,,623695,C Karunaratne
+146,-1,1,1,17-11-1982,Yusuf Khan Pathan,YK Pathan,Pathan,32498,YK Pathan
+147,-1,1,1,9-9-1991,Madagamagamage Dasun Shanaka,MD Shanaka,Shanaka,437316,MD Shanaka
+149,-1,1,1,17-2-1988,Isuru Udana Tillakaratna,I Udana,Udana,328026,I Udana
+151,-1,-1,1,19-2-2004,Jash Giyanani,J Giyanani,Giyanani,1294146,J Giyanani
+152,-1,-1,1,10-3-1990,Hazrat Luqman,Hazrat Luqman,,1241269,Hazrat Luqman
+153,-1,-1,1,13-11-1992,Frederick Jack Klaassen,FJ Klaassen,Klaassen,1104703,FJ Klaassen
+154,-1,-1,1,28-3-2001,Mujeeb Ur Rahman,Mujeeb Ur Rahman,Mujeeb,974109,Mujeeb Ur Rahman
+155,-1,-1,-1,21-11-2001,Oliver Jack White,OJ White,White,1193529,OJ White
+156,-1,1,-1,14-3-1991,James Michael Vince,JM Vince,Vince,296597,JM Vince
+157,1,1,-1,11-11-1998,Tom Banton,T Banton,Banton,877051,T Banton
+158,-1,1,-1,26-12-1996,Shimron Odilon Hetmyer,SO Hetmyer,Hetmyer,670025,SO Hetmyer
+159,-1,1,-1,10-4-1990,Christopher Austin Lynn,CA Lynn,Lynn,326637,CA Lynn
+160,-1,1,-1,2-1-1998,Oliver John Douglas Pope,OJ Pope,Pope,887207,OJ Pope
+161,-1,1,-1,19-4-1988,Chundangapoyil Puthiyapurayil Rizwan,CP Rizwan,Rizwan,474760,CP Rizwan
+162,1,1,-1,16-6-2001,Ashwanth  Chidambaram Valthapa,AC Valthapa,Valthapa,1199669,AC Valthapa
+163,-1,1,1,15-11-2005,Aayan Afzal Khan,Aayan Afzal Khan,,1241265,Aayan Afzal Khan
+164,-1,1,1,18-7-1988,Carlos Ricardo Brathwaite,CR Brathwaite,Brathwaite,457249,CR Brathwaite
+165,-1,1,1,1-3-1990,Liam Andrew Dawson,LA Dawson,Dawson,211855,LA Dawson
+166,-1,1,1,6-2-1998,Dominic Conneil Drakes,DC Drakes,Drakes,906749,DC Drakes
+167,-1,1,1,11-4-1995,Merwe Gerhard Erasmus,MG Erasmus,Erasmus,519070,MG Erasmus
+168,-1,1,1,13-8-2004,Rehan Ahmed,Rehan Ahmed,Rehan,1263691,Rehan Ahmed
+169,-1,1,1,18-5-1985,David Wiese,D Wiese,Wiese,221140,D Wiese
+170,-1,1,1,10-4-1994,Jamie Overton,J Overton,Overton,510530,J Overton
+171,-1,-1,1,2-12-1987,Richard James Gleeson,RJ Gleeson,Gleeson,473191,RJ Gleeson
+172,-1,-1,1,7-5-1994,Thomas George Helm,TG Helm,Helm,512907,TG Helm
+173,-1,-1,1,4-10-1988,Christopher James Jordan,CJ Jordan,Jordan,288992,CJ Jordan
+175,-1,-1,1,22-7-2001,Sanchit Mohan Sharma,SM Sharma,Sharma,1199670,SM Sharma
+176,1,1,-1,11-6-2002,Vriitya Aravind,V Aravind,Aravind,1178586,V Aravind
+177,-1,1,-1,15-4-1992,Basil Hameed,Basil Hameed,,1209110,Basil Hameed
+178,-1,1,-1,28-11-1987,Andre David Stephon Fletcher,ADS Fletcher,Fletcher,51862,ADS Fletcher
+179,-1,1,-1,12-2-1994,Muhammad Waseem,Muhammad Waseem,,1241277,Muhammad Waseem
+180,-1,1,-1,28-2-1993,Najibullah Zadran,Najibullah Zadran,Zadran,524049,Najibullah Zadran
+182,-1,1,-1,26-10-2001,William Conrad Francis Smeed,WCF Smeed,Smeed,1099224,WCF Smeed
+183,1,1,-1,10-9-1996,Lorcan John Tucker,LJ Tucker,Tucker,928057,LJ Tucker
+184,-1,1,1,12-5-1987,Kieron Adrian Pollard,KA Pollard,Pollard,230559,KA Pollard
+185,-1,1,1,7-10-1983,Dwayne John Bravo,DJ Bravo,Dwayne Bravo,51439,DJ Bravo
+186,-1,1,1,15-11-1999,Bas de Leede,BFW de Leede,de Leede,1036191,BFW de Leede
+187,-1,1,1,2-6-2000,Thomas Alexander Lammonby,TA Lammonby,Lammonby,902907,TA Lammonby
+188,-1,1,1,8-7-2001,Daniel Richard Mousley,DR Mousley,Mousley,1172968,DR Mousley
+189,-1,1,1,10-4-1994,Craig Overton,C Overton,Overton,464626,C Overton
+191,-1,1,1,9-10-1996,Jordan Aaron Thompson,JA Thompson,Thompson,766809,JA Thompson
+193,-1,-1,1,5-6-2003,McKenny Clarke,M Clarke,Clarke,1275937,M Clarke
+194,-1,-1,1,22-9-2000,Fazalhaq Farooqi,Fazalhaq Farooqi,,974175,Fazalhaq Farooqi
+196,-1,-1,1,28-8-1996,Bradley Thomas James Wheal,BTJ Wheal,Wheal,807535,BTJ Wheal
+197,-1,-1,1,20-12-1998,Zahir Khan  Pakteen,Zahir Khan,Zahir Khan,712219,Zahir Khan
+198,-1,-1,1,25-5-1989,Zahoor Khan,Zahoor Khan,Zahoor,384525,Zahoor Khan
+199,1,1,-1,29-4-1999,Christopher Gavin Benjamin,CG Benjamin,Benjamin,1149157,CG Benjamin
+200,-1,1,-1,16-3-1986,Joseph Liam Denly,JL Denly,Denly,12454,JL Denly
+201,-1,1,-1,7-4-1993,Mark Deyal,M Deyal,Deyal,848623,M Deyal
+202,1,1,-1,19-8-1994,Tom Kohler-Cadmore,T Kohler-Cadmore,,470633,T Kohler-Cadmore
+203,-1,1,-1,27-12-1991,Evin Lewis,E Lewis,Lewis,431901,E Lewis
+204,-1,1,-1,3-9-1987,Dawid Johannes Malan,DJ Malan,Malan,236489,DJ Malan
+205,1,1,-1,28-11-2001,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Gurbaz,974087,Rahmanullah Gurbaz
+206,-1,1,-1,10-1-2003,Alishan Sharafu,A Sharafu,Sharafu,1161038,A Sharafu
+207,-1,1,1,18-6-1987,Moeen Munir Ali,MM Ali,Moeen Ali,8917,MM Ali
+208,-1,1,1,1-1-1985,Mohammad Nabi,Mohammad Nabi,M Nabi,25913,Mohammad Nabi
+209,-1,1,1,16-8-1989,Marcus Peter Stoinis,MP Stoinis,Stoinis,325012,MP Stoinis
+210,-1,1,1,28-5-1994,Paul Ian Walter,PI Walter,Walter,909225,PI Walter
+211,-1,1,1,2-3-1989,Christopher Roger Woakes,CR Woakes,Woakes,247235,CR Woakes
+212,-1,1,-1,26-3-1993,Unmukt Bharat Thakur Chand,UBT Chand,Chand,446499,UBT Chand
+213,-1,1,-1,30-9-1986,Martin James Guptill,MJ Guptill,Guptill,226492,MJ Guptill
+214,-1,1,-1,21-5-1994,Nitish Roenick Kumar,NR Kumar,Kumar,348129,NR Kumar
+215,1,-1,-1,4-11-1989,Jaskaran Singh Malhotra,JS Malhotra,Malhotra,430105,JS Malhotra
+216,-1,1,-1,9-10-1989,Rilee Roscoe Rossouw,RR Rossouw,Rossouw,318845,RR Rossouw
+217,-1,1,-1,21-7-1990,Jason Jonathan Roy,JJ Roy,Roy,298438,JJ Roy
+218,-1,1,-1,3-7-1998,Saif Badar,Saif Badar,Saif Badar,922967,Saif Badar
+219,-1,1,-1,3-10-1987,Gajanand Singh,G Singh,Singh,230551,G Singh
+221,-1,1,1,4-2-1993,Corné Adrian Dry,CA Dry,Dry,429927,CA Dry
+223,-1,1,1,5-8-1988,Shadley Claude van Schalkwyk,SC van Schalkwyk,,334621,SC van Schalkwyk
+224,-1,1,1,18-9-1999,Bhaskar Yadram,B Yadram,Yadram,1078699,B Yadram
+226,-1,-1,1,23-2-2003,Ali Sheikh,Ali Sheikh,Ali Sheikh,1193309,Ali Sheikh
+227,-1,-1,1,13-6-1991,Lachlan Hammond Ferguson,LH Ferguson,Ferguson,493773,LH Ferguson
+228,-1,-1,1,16-12-1995,Spencer Henry Johnson,SH Johnson,Johnson,1123718,SH Johnson
+229,-1,-1,1,31-3-1992,Adam Zampa,A Zampa,Zampa,379504,A Zampa
+235,1,1,-1,30-7-1991,Heinrich Klaasen,H Klaasen,Klaasen,436757,H Klaasen
+236,-1,1,-1,16-3-1996,Timothy Hays David,TH David,David,892749,TH David
+237,-1,1,-1,16-3-1991,Hammad Azam,Hammad Azam,Hammad,384518,Hammad Azam
+238,1,1,-1,1-5-1993,Monank Dilipbhai Patel,MD Patel,Patel,1159641,MD Patel
+240,-1,1,-1,24-12-1994,Shayan Jahangir,Shayan Jahangir,Shayan,647771,Shayan Jahangir
+241,1,1,-1,14-8-2000,Tristan Stubbs,T Stubbs,Stubbs,595978,T Stubbs
+242,-1,1,-1,9-11-1993,Steven Ryan Taylor,SR Taylor,Taylor,348133,SR Taylor
+243,1,-1,-1,21-2-2001,Saideep Ganesh,S Ganesh,Ganesh,1345498,S Ganesh
+245,-1,1,1,29-4-2003,Dewald Brevis,D Brevis,Brevis,1070665,D Brevis
+246,-1,1,1,20-9-1998,Rashid Khan Arman,Rashid Khan,Rashid Khan,793463,Rashid Khan
+248,-1,-1,1,20-4-1990,Jason Paul Behrendorff,JP Behrendorff,Behrendorff,272477,JP Behrendorff
+250,-1,-1,1,15-3-1993,Ehsan Adil,Ehsan Adil,Ehsan Adil,547092,Ehsan Adil
+251,-1,-1,1,10-2-1993,Jasdeep Singh,Jasdeep Singh,Jasdeep,772471,Jasdeep Singh
+252,-1,-1,1,2-3-1991,Nosthusha Pradeep Kenjige,NP Kenjige,Kenjige,1041679,NP Kenjige
+253,-1,-1,1,10-7-1986,Sarabjit Ladda,S Ladda,Ladda,317292,S Ladda
+254,-1,-1,1,25-5-1995,Kagiso Rabada,K Rabada,Rabada,550215,K Rabada
+255,-1,-1,1,2-10-2001,Mohammad Waqar Salamkheil,Waqar Salamkheil,Waqar,1108490,Waqar Salamkheil
+256,-1,-1,1,26-1-1997,Kyle Phillip,K Phillip,Phillip,1150684,K Phillip
+259,-1,-1,1,12-12-1986,Andrew James Tye,AJ Tye,Tye,459508,AJ Tye
+263,-1,1,-1,17-11-1986,Aaron James Finch,AJ Finch,Finch,5334,AJ Finch
+264,-1,1,-1,22-4-1999,Finnley Hugh Allen,FH Allen,Allen,959759,FH Allen
+265,-1,1,-1,18-9-2000,Mackenzie Walter Harvey,MW Harvey,Harvey,1076382,MW Harvey
+266,1,-1,-1,16-5-1993,Smit Kamleshbhai Patel,SK Patel,Patel,532853,SK Patel
+267,1,1,-1,26-12-1987,Matthew Scott Wade,MS Wade,Wade,230193,MS Wade
+268,-1,1,-1,22-5-1991,David John White,DJ White,White,322812,DJ White
+269,-1,1,1,13-12-1990,Corey James Anderson,CJ Anderson,Anderson,277662,CJ Anderson
+270,-1,1,1,25-8-1994,Chaitanya Bishnoi,C Bishnoi,Bishnoi,628217,C Bishnoi
+271,-1,1,1,2-6-2003,Sanjay Prasad Krishnamurthi,SP Krishnamurthi,,1277627,SP Krishnamurthi
+272,-1,1,1,4-10-1998,Shadab Khan,Shadab Khan,Shadab,922943,Shadab Khan
+274,-1,1,1,25-5-1992,Tajinder Singh Dhillon,Tajinder Singh,,1079860,Tajinder Singh
+275,-1,-1,1,23-6-1993,Malmeege Amila Aponso,MA Aponso,Aponso,429748,MA Aponso
+276,-1,-1,1,5-12-1999,Brody L Couch,BL Couch,Couch,1219972,BL Couch
+277,-1,-1,1,7-11-1993,Haris Rauf,Haris Rauf,Haris Rauf,1161606,Haris Rauf
+278,-1,-1,1,30-3-1993,Carmi le Roux,C le Roux,le Roux,440894,C le Roux
+279,-1,-1,1,29-3-1996,Lungisani True-man Ngidi,L Ngidi,Ngidi,542023,L Ngidi
+280,-1,-1,1,6-4-1985,Liam Edward Plunkett,LE Plunkett,Plunkett,19264,LE Plunkett
+288,-1,1,-1,19-10-1994,Aaron Jones,Aaron Jones,,957645,Aaron Jones
+292,-1,1,-1,12-10-1995,Nauman Anwar,Nauman Anwar,Nauman,788879,Nauman Anwar
+293,-1,1,1,7-9-1992,Harmeet Singh,Harmeet Singh,,422847,Harmeet Singh
+294,-1,1,1,18-12-1988,Syed Imad Wasim,Imad Wasim,Imad Wasim,227758,Imad Wasim
+295,-1,1,1,12-9-1991,Gampalage Shehan Naveendra De Fonseka Gunawarna Jayasuriya,GSNFG Jayasuriya,Jayasuriya,422965,GSNFG Jayasuriya
+296,-1,1,1,20-4-1988,Nisarg Ketankumar Patel,NK Patel,Patel,233258,NK Patel
+297,-1,1,1,23-2-1990,Angelo Kanishka Perera,AK Perera,Angelo Perera,300629,AK Perera
+298,-1,1,1,29-3-1989,Dwaine Pretorius,D Pretorius,Pretorius,327830,D Pretorius
+299,-1,1,1,26-3-1994,Shubham Subhash Ranjane,SS Ranjane,Ranjane,554701,SS Ranjane
+301,-1,1,1,1-4-2005,Matthew Warren Tromp,MW Tromp,Tromp,1339100,MW Tromp
+304,-1,-1,1,30-7-1989,Wayne Dillon Parnell,WD Parnell,Parnell,265564,WD Parnell
+305,-1,-1,1,-1,Phani Simhadri,P Simhadri,Simhadri,1386667,P Simhadri
+307,-1,-1,1,23-4-1992,Hayden Rashidi Walsh,HR Walsh,Walsh,443263,HR Walsh
+308,-1,-1,1,22-7-1989,Trent Alexander Boult,TA Boult,Boult,277912,TA Boult
+314,-1,1,-1,13-7-1984,Francois du Plessis,F du Plessis,du Plessis,44828,F du Plessis
+315,-1,1,-1,28-6-1991,Cody Chetty,C Chetty,Chetty,322815,C Chetty
+316,1,1,-1,8-7-1991,Devon Philip Conway,DP Conway,Conway,379140,DP Conway
+317,1,1,-1,28-5-1994,Bamunugama Koralalage Eshan Lahiru Milantha,BKEL Milantha,Milantha,699483,BKEL Milantha
+318,-1,1,-1,10-6-1989,David Andrew Miller,DA Miller,Miller,321777,DA Miller
+319,-1,1,-1,9-4-2004,Saiteja Reddy Mukkamalla,SR Mukkamalla,Mukkamalla,1193310,SR Mukkamalla
+320,-1,1,-1,12-12-1995,Sami Aslam,Sami Aslam,Sami Aslam,547079,Sami Aslam
+321,-1,1,1,7-10-1983,Dwayne John Bravo,DJ Bravo,Dwayne Bravo,51439,DJ Bravo
+322,-1,1,1,15-2-1991,Milind Kumar,Milind Kumar,Milind,451947,Milind Kumar
+323,-1,1,1,15-4-1996,Mohammad Mohsin,Mohammad Mohsin,,935881,Mohammad Mohsin
+324,-1,1,1,27-10-1992,Daniel Richard Sams,DR Sams,Sams,826901,DR Sams
+325,-1,1,1,5-2-1992,Mitchell Josef Santner,MJ Santner,Santner,502714,MJ Santner
+326,-1,1,1,30-10-1992,Cameron Aaron Henry Stevenson,CAH Stevenson,Stevenson,953793,CAH Stevenson
+327,-1,1,1,18-6-1996,Zia Mohammad Shahzad,Zia Shahzad,,1160390,Zia Shahzad
+328,-1,-1,1,2-10-2000,Gerald Coetzee,G Coetzee,Coetzee,596010,G Coetzee
+329,-1,-1,1,27-3-1979,Mohammad Imran Tahir,Imran Tahir,Tahir,40618,Imran Tahir
+330,-1,-1,1,4-1-1993,Calvin Peter Savage,CP Savage,Savage,450881,CP Savage
+331,-1,-1,1,24-7-1985,Juan Theron,J Theron,Theron,223642,J Theron
+332,-1,-1,1,11-12-1994,Zia-ul-Haq,Zia-ul-Haq,Zia-ul-Haq,290739,Zia-ul-Haq
+337,1,1,-1,17-12-1992,Quinton de Kock,Q de Kock,de Kock,379143,Q de Kock
+339,-1,1,-1,28-4-2000,Bodugum Akhilesh Reddy,B Akhilesh Reddy,,1252355,B Akhilesh Reddy
+340,1,-1,-1,24-11-1993,Andries Gustav Stephanus Gous,AGS Gous,Gous,485379,AGS Gous
+341,-1,1,-1,23-10-1996,Sujith N Gowda,SN Gowda,Gowda,1155264,SN Gowda
+342,-1,1,-1,20-12-1992,Mukhtar Ahmed,Mukhtar Ahmed,Mukhtar,556916,Mukhtar Ahmed
+343,1,1,-1,1-6-1997,Joshua Ryan Philippe,JR Philippe,Philippe,1124282,JR Philippe
+344,1,1,-1,6-12-1996,Glenn Dominic Phillips,GD Phillips,Phillips,823509,GD Phillips
+345,-1,1,-1,27-12-1990,Saad Ali,Saad Ali,Saad Ali,448249,Saad Ali
+346,-1,1,1,10-11-1994,Justin Greef Dill,JG Dill,Dill,594293,JG Dill
+347,-1,1,1,1-2-1987,Moises Constantino Henriques,MC Henriques,Henriques,5961,MC Henriques
+348,-1,1,1,1-5-2000,Marco Jansen,M Jansen,Jansen,696401,M Jansen
+349,-1,1,1,12-12-1989,Abraham Jacobus Pienaar,AJ Pienaar,Pienaar,328160,AJ Pienaar
+351,-1,-1,1,23-6-1994,Benjamin James Dwarshuis,BJ Dwarshuis,Dwarshuis,679567,BJ Dwarshuis
+353,-1,-1,1,16-10-1991,Saurabh Naresh Netravalkar,SN Netravalkar,Netravalkar,398513,SN Netravalkar
+354,-1,-1,1,16-11-1993,Anrich Arno Nortje,A Nortje,Nortje,481979,A Nortje
+355,-1,-1,1,6-3-1990,Dane Leeroy Piedt,DL Piedt,Piedt,379926,DL Piedt
+356,-1,-1,1,26-11-2001,Tanveer Sangha,T Sangha,T Sangha,1170471,T Sangha
+357,-1,-1,1,13-8-1988,Usman Rafiq,Usman Rafiq,,772469,Usman Rafiq
+361,1,1,-1,2-10-1995,Nicholas Pooran,N Pooran,Pooran,604302,N Pooran

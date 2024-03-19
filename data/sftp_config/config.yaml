@@ -1,0 +1,32 @@
+source:
+  sports mechanics:
+    IPL:
+      available: False
+      remote path: mi2022
+      folder: IPL2024
+      season: 2024
+      squad path: IPL2024SQUAD
+
+    SA20:
+      available: True
+      remote path: mi2022
+      folder: SAT202024
+      season: 2024
+      squad path: SAT202024SQUAD
+
+    ILT20:
+      available: True
+      remote path: mi2022
+      folder: ILT202024
+      season: 2024
+      squad path: ILT202024SQUAD
+
+#  nv_play:
+#    WPL:
+#      remote path: mi2022
+#      folder: WPL2024
+#      season: 2024
+#    MLC:
+#      remote path: mi2022
+#      folder: MLC2024
+#      season: 2024

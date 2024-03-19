@@ -1,0 +1,104 @@
+trigger:
+  - master
+
+jobs:
+  - job: DockerLogin
+    displayName: Docker Login
+
+    pool:
+      name: 'AICOE-BUILD-Agent'
+      #name: 'agent140'
+      #demands:
+      #- agent.Computername -equals NVMBD2BPM190V04
+      #- agent.Computername -equals NVMBD2BPM190V02
+
+    workspace:
+      clean: all
+
+    variables:
+      - group: 'Build Configuration Group - CricketDataService - Dev'
+
+    steps:
+      #- bash: docker --version
+      - bash: docker pull jioaicr.azurecr.io/jioai-sports-micip/python:3.9
+
+      - script: make docker-login
+        displayName: 'Docker Login'
+        env:
+          DOCKER_REPO: $(DOCKER_REPO)
+          DOCKER_USERNAME: $(DOCKER_USERNAME)
+          DOCKER_PROJECT_PATH: $(DOCKER_PROJECT_PATH)
+          DOCKER_PASSWORD: $(DOCKER_PASSWORD)
+
+      - script: make package
+        displayName: 'Package artifacts'
+        env:
+          http_proxy: $(HTTP_PROXY)
+          https_proxy: $(HTTPS_PROXY)
+          no_proxy: $(NO_PROXY)
+          SFTP_SM_PASSWORD: $(SFTP_SM_PASSWORD)
+          SMARTABASE_PASSWORD: $(SMARTABASE_PASSWORD)
+          DB_PASSWORD: $(DB_PASSWORD)
+          DOCKERFILE_PATH: $(DOCKERFILE_PATH)
+
+      - script: make publish
+        displayName: 'Publish Docker Artifacts'
+        env:
+          http_proxy: $(HTTP_PROXY)
+          https_proxy: $(HTTPS_PROXY)
+          no_proxy: $(NO_PROXY)
+          DOCKER_REPO: $(DOCKER_REPO)
+          DOCKER_USERNAME: $(DOCKER_USERNAME)
+          DOCKER_PROJECT_PATH: $(DOCKER_PROJECT_PATH)
+          DOCKER_PASSWORD: $(DOCKER_PASSWORD)
+          DB_HOST: $(DB_HOST)
+          DB_PORT: $(DB_PORT)
+          DB_NAME: $(DB_NAME)
+          DB_PASSWORD: $(DB_PASSWORD)
+          DB_USER: $(DB_USER)
+          SFTP_SM_HOST: $(SFTP_SM_HOST)
+          SFTP_SM_USERNAME: $(SFTP_SM_USERNAME)
+          SFTP_SM_PASSWORD: $(SFTP_SM_PASSWORD)
+          SFTP_SM_PORT: $(SFTP_SM_PORT)
+          IMAGE_STORE_URL: $(IMAGE_STORE_URL)
+          BASE_URL: $(BASE_URL)
+          TOKEN: $(TOKEN)
+          APP_HOST: $(APP_HOST)
+          APP_PORT: $(APP_PORT)
+          AUTH_SECRET_KEY_1: $(AUTH_SECRET_KEY_1)
+          AUTH_SECRET_KEY_2: $(AUTH_SECRET_KEY_2)
+          USER_QUERY_DIR_NAME: $(USER_QUERY_DIR_NAME)
+          STORAGE_ACCOUNT_NAME: $(STORAGE_ACCOUNT_NAME)
+          STORAGE_ACCOUNT_KEY: $(STORAGE_ACCOUNT_KEY)
+          CONTAINER_NAME: $(CONTAINER_NAME)
+          CNS_ENDPOINT: $(CNS_ENDPOINT)
+          CNS_URL: $(CNS_URL)
+          KNIGHT_WATCH_ENDPOINT: $(KNIGHT_WATCH_ENDPOINT)
+          KNIGHT_WATCH_TENANT_AUTH: $(KNIGHT_WATCH_TENANT_AUTH)
+          KNIGHT_WATCH_URL: $(KNIGHT_WATCH_URL)
+          WELLNESS_CAMPAIGN_BUSINESS: $(WELLNESS_CAMPAIGN_BUSINESS)
+          GPS_CAMPAIGN_BUSINESS: $(GPS_CAMPAIGN_BUSINESS)
+          CAMPAIGN_ENCRYPTION_SECRET_KEY: $(CAMPAIGN_ENCRYPTION_SECRET_KEY)
+          CAMPAIGN_AUTH_ID: $(CAMPAIGN_AUTH_ID)
+          GPS_CAMPAIGN_TEMPLATE: $(GPS_CAMPAIGN_TEMPLATE)
+          WELLNESS_CAMPAIGN_TEMPLATE: $(WELLNESS_CAMPAIGN_TEMPLATE)
+          GPS_CAMPAIGN_CODE: $(GPS_CAMPAIGN_CODE)
+          WELLNESS_CAMPAIGN_CODE: $(WELLNESS_CAMPAIGN_CODE)
+          WHATSAPP_ENDPOINT: $(WHATSAPP_ENDPOINT)
+          APP_BASE_URL: $(APP_BASE_URL)
+          FIELDING_ANALYSIS_DIR_NAME: $(FIELDING_ANALYSIS_DIR_NAME)
+          UMS_BASE_URL: $(UMS_BASE_URL)
+          SMARTABASE_USER: $(SMARTABASE_USER)
+          SMARTABASE_PASSWORD: $(SMARTABASE_PASSWORD)
+          SMARTABASE_APP: $(SMARTABASE_APP)
+          SMARTABASE_URL: $(SMARTABASE_URL)
+          FILE_SHARE_PATH: $(FILE_SHARE_PATH)
+          INGESTION_ENABLED: $(INGESTION_ENABLED)
+          BUILD_ENV: $(BUILD_ENV)
+          SMTP_PASSWORD: $(SMTP_PASSWORD)
+          SMTP_EMAIL: $(SMTP_EMAIL)
+          SMTP_SERVER_IP: $(SMTP_SERVER_IP)
+          SMTP_PORT: $(SMTP_PORT)
+          SFTP_INGESTION_ENABLED: $(SFTP_INGESTION_ENABLED)
+          WPL_TOKEN: $(WPL_TOKEN)
+          ALLOWED_HOSTS: $(ALLOWED_HOSTS)

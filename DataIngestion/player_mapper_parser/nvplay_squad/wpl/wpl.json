@@ -1,0 +1,2136 @@
+[
+    {
+        "venue": "March 14 2023 : MI-W vs GG-W",
+        "match_name": "Mumbai Indians Women v Gujarat Giants Women",
+        "match_date": "14/03/2023",
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255408",
+                "player_name": "Dhara Gujjar"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ],
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "885815",
+                "player_name": "Sophia Dunkley"
+            },
+            {
+                "cricinfo_id": "556529",
+                "player_name": "Sabbhineni Meghana"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "1071705",
+                "player_name": "Annabel Sutherland"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "597821",
+                "player_name": "Sushma Verma"
+            },
+            {
+                "cricinfo_id": "418423",
+                "player_name": "Kim Garth"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            },
+            {
+                "cricinfo_id": "960815",
+                "player_name": "Mansi Joshi"
+            }
+        ]
+    },
+    {
+        "venue": "March 18 2023 : GG-W vs RCB-W",
+        "match_name": "Royal Challengers Bangalore Women v Gujarat Giants Women",
+        "match_date": "18/03/2023",
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "885815",
+                "player_name": "Sophia Dunkley"
+            },
+            {
+                "cricinfo_id": "922481",
+                "player_name": "Laura Wolvaardt"
+            },
+            {
+                "cricinfo_id": "556529",
+                "player_name": "Sabbhineni Meghana"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "1345792",
+                "player_name": "Ashwani Kumari"
+            },
+            {
+                "cricinfo_id": "597821",
+                "player_name": "Sushma Verma"
+            },
+            {
+                "cricinfo_id": "418423",
+                "player_name": "Kim Garth"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            }
+        ],
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1255560",
+                "player_name": "Kanika Ahuja"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "1289948",
+                "player_name": "Shreyanka Patil"
+            },
+            {
+                "cricinfo_id": "961183",
+                "player_name": "Disha Kasat"
+            },
+            {
+                "cricinfo_id": "550687",
+                "player_name": "Sobhana Asha"
+            },
+            {
+                "cricinfo_id": "420314",
+                "player_name": "Megan Schutt"
+            },
+            {
+                "cricinfo_id": "709843",
+                "player_name": "Preeti Bose"
+            }
+        ]
+    },
+    {
+        "venue": "March 15 2023 : UPW-W vs RCB-W",
+        "match_name": "UP Warriorz Women v Royal Challengers Bangalore Women",
+        "match_date": "15/03/2023",
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "709837",
+                "player_name": "Devika Vaidya"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "381268",
+                "player_name": "Grace Harris"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "1255442",
+                "player_name": "Shweta Sehrawat"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            }
+        ],
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1255560",
+                "player_name": "Kanika Ahuja"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "1289948",
+                "player_name": "Shreyanka Patil"
+            },
+            {
+                "cricinfo_id": "420314",
+                "player_name": "Megan Schutt"
+            },
+            {
+                "cricinfo_id": "550687",
+                "player_name": "Sobhana Asha"
+            },
+            {
+                "cricinfo_id": "960853",
+                "player_name": "Renuka Singh"
+            },
+            {
+                "cricinfo_id": "961183",
+                "player_name": "Disha Kasat"
+            }
+        ]
+    },
+    {
+        "venue": "March 04 2023 : MI-W vs GG-W",
+        "match_name": "Mumbai Indians Women v Gujarat Giants Women",
+        "match_date": "04/03/2023",
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "883413",
+                "player_name": "Pooja Vastrakar"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ],
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "556529",
+                "player_name": "Sabbhineni Meghana"
+            },
+            {
+                "cricinfo_id": "381258",
+                "player_name": "Beth Mooney"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "1071705",
+                "player_name": "Annabel Sutherland"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "946057",
+                "player_name": "Georgia Wareham"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            },
+            {
+                "cricinfo_id": "960815",
+                "player_name": "Mansi Joshi"
+            },
+            {
+                "cricinfo_id": "1213438",
+                "player_name": "Monica Patel"
+            }
+        ]
+    },
+    {
+        "venue": "March 06 2023 : RCB-W vs MI-W",
+        "match_name": "Royal Challengers Bangalore Women v Mumbai Indians Women",
+        "match_date": "06/03/2023",
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "961183",
+                "player_name": "Disha Kasat"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "1255560",
+                "player_name": "Kanika Ahuja"
+            },
+            {
+                "cricinfo_id": "1289948",
+                "player_name": "Shreyanka Patil"
+            },
+            {
+                "cricinfo_id": "420314",
+                "player_name": "Megan Schutt"
+            },
+            {
+                "cricinfo_id": "960853",
+                "player_name": "Renuka Singh"
+            },
+            {
+                "cricinfo_id": "709843",
+                "player_name": "Preeti Bose"
+            }
+        ],
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "883413",
+                "player_name": "Pooja Vastrakar"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ]
+    },
+    {
+        "venue": "March 08 2023 : GG-W vs RCB-W",
+        "match_name": "Gujarat Giants Women v Royal Challengers Bangalore Women",
+        "match_date": "08/03/2023",
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "556529",
+                "player_name": "Sabbhineni Meghana"
+            },
+            {
+                "cricinfo_id": "885815",
+                "player_name": "Sophia Dunkley"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "1071705",
+                "player_name": "Annabel Sutherland"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "418423",
+                "player_name": "Kim Garth"
+            },
+            {
+                "cricinfo_id": "597821",
+                "player_name": "Sushma Verma"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            },
+            {
+                "cricinfo_id": "960815",
+                "player_name": "Mansi Joshi"
+            }
+        ],
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1255560",
+                "player_name": "Kanika Ahuja"
+            },
+            {
+                "cricinfo_id": "1289979",
+                "player_name": "Poonam Khemnar"
+            },
+            {
+                "cricinfo_id": "1289948",
+                "player_name": "Shreyanka Patil"
+            },
+            {
+                "cricinfo_id": "420314",
+                "player_name": "Megan Schutt"
+            },
+            {
+                "cricinfo_id": "960853",
+                "player_name": "Renuka Singh"
+            },
+            {
+                "cricinfo_id": "709843",
+                "player_name": "Preeti Bose"
+            }
+        ]
+    },
+    {
+        "venue": "March 07 2023 : DC-W vs UPW-W",
+        "match_name": "Delhi Capitals Women v UP Warriorz Women",
+        "match_date": "07/03/2023",
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960867",
+                "player_name": "Arundhati Reddy"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "872217",
+                "player_name": "Tara Norris"
+            }
+        ],
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "1255442",
+                "player_name": "Shweta Sehrawat"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "709837",
+                "player_name": "Devika Vaidya"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "276997",
+                "player_name": "Shabnim Ismail"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            }
+        ]
+    },
+    {
+        "venue": "March 20 2023 : MI-W vs DC-W",
+        "match_name": "Mumbai Indians Women v Delhi Capitals Women",
+        "match_date": "20/03/2023",
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "883413",
+                "player_name": "Pooja Vastrakar"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ],
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960867",
+                "player_name": "Arundhati Reddy"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "630972",
+                "player_name": "Poonam Yadav"
+            }
+        ]
+    },
+    {
+        "venue": "March 10 2023 : RCB-W vs UPW-W",
+        "match_name": "Royal Challengers Bangalore Women v UP Warriorz Women",
+        "match_date": "10/03/2023",
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "1255560",
+                "player_name": "Kanika Ahuja"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1289948",
+                "player_name": "Shreyanka Patil"
+            },
+            {
+                "cricinfo_id": "275447",
+                "player_name": "Erin Burns"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "961195",
+                "player_name": "Komal Zanzad"
+            },
+            {
+                "cricinfo_id": "960853",
+                "player_name": "Renuka Singh"
+            },
+            {
+                "cricinfo_id": "960931",
+                "player_name": "Sahana Pawar"
+            }
+        ],
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "709837",
+                "player_name": "Devika Vaidya"
+            },
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "1255442",
+                "player_name": "Shweta Sehrawat"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "381268",
+                "player_name": "Grace Harris"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            }
+        ]
+    },
+    {
+        "venue": "March 24 2023 : MI-W vs UPW-W",
+        "match_name": "Mumbai Indians Women v UP Warriorz Women",
+        "match_date": "24/03/2023",
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "883413",
+                "player_name": "Pooja Vastrakar"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ],
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "1255442",
+                "player_name": "Shweta Sehrawat"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381268",
+                "player_name": "Grace Harris"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            },
+            {
+                "cricinfo_id": "1346678",
+                "player_name": "Parshavi Chopra"
+            }
+        ]
+    },
+    {
+        "venue": "March 20 2023 : GG-W vs UPW-W",
+        "match_name": "Gujarat Giants Women v UP Warriorz Women",
+        "match_date": "20/03/2023",
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "885815",
+                "player_name": "Sophia Dunkley"
+            },
+            {
+                "cricinfo_id": "922481",
+                "player_name": "Laura Wolvaardt"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "597821",
+                "player_name": "Sushma Verma"
+            },
+            {
+                "cricinfo_id": "1345792",
+                "player_name": "Ashwani Kumari"
+            },
+            {
+                "cricinfo_id": "418423",
+                "player_name": "Kim Garth"
+            },
+            {
+                "cricinfo_id": "1213438",
+                "player_name": "Monica Patel"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            }
+        ],
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "709837",
+                "player_name": "Devika Vaidya"
+            },
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "381268",
+                "player_name": "Grace Harris"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "1346678",
+                "player_name": "Parshavi Chopra"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            }
+        ]
+    },
+    {
+        "venue": "March 16 2023 : GG-W vs DC-W",
+        "match_name": "Delhi Capitals Women v Gujarat Giants Women",
+        "match_date": "16/03/2023",
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "885815",
+                "player_name": "Sophia Dunkley"
+            },
+            {
+                "cricinfo_id": "922481",
+                "player_name": "Laura Wolvaardt"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "1345792",
+                "player_name": "Ashwani Kumari"
+            },
+            {
+                "cricinfo_id": "597821",
+                "player_name": "Sushma Verma"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            },
+            {
+                "cricinfo_id": "418423",
+                "player_name": "Kim Garth"
+            },
+            {
+                "cricinfo_id": "960815",
+                "player_name": "Mansi Joshi"
+            }
+        ],
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960867",
+                "player_name": "Arundhati Reddy"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "630972",
+                "player_name": "Poonam Yadav"
+            }
+        ]
+    },
+    {
+        "venue": "March 13 2023 : RCB-W vs DC-W",
+        "match_name": "Royal Challengers Bangalore Women v Delhi Capitals Women",
+        "match_date": "13/03/2023",
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "1289948",
+                "player_name": "Shreyanka Patil"
+            },
+            {
+                "cricinfo_id": "961183",
+                "player_name": "Disha Kasat"
+            },
+            {
+                "cricinfo_id": "420314",
+                "player_name": "Megan Schutt"
+            },
+            {
+                "cricinfo_id": "550687",
+                "player_name": "Sobhana Asha"
+            },
+            {
+                "cricinfo_id": "960853",
+                "player_name": "Renuka Singh"
+            },
+            {
+                "cricinfo_id": "709843",
+                "player_name": "Preeti Bose"
+            }
+        ],
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960867",
+                "player_name": "Arundhati Reddy"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "872217",
+                "player_name": "Tara Norris"
+            }
+        ]
+    },
+    {
+        "venue": "March 26 2023 : DC-W vs MI-W",
+        "match_name": "Delhi Capitals Women v Mumbai Indians Women",
+        "match_date": "26/03/2023",
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "960867",
+                "player_name": "Arundhati Reddy"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "960949",
+                "player_name": "Minnu Mani"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            }
+        ],
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "883413",
+                "player_name": "Pooja Vastrakar"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ]
+    },
+    {
+        "venue": "March 09 2023 : DC-W vs MI-W",
+        "match_name": "Delhi Capitals Women v Mumbai Indians Women",
+        "match_date": "09/03/2023",
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960949",
+                "player_name": "Minnu Mani"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "872217",
+                "player_name": "Tara Norris"
+            }
+        ],
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "883413",
+                "player_name": "Pooja Vastrakar"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ]
+    },
+    {
+        "venue": "March 18 2023 : MI-W vs UPW-W",
+        "match_name": "Mumbai Indians Women v UP Warriorz Women",
+        "match_date": "18/03/2023",
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255408",
+                "player_name": "Dhara Gujjar"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ],
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "709837",
+                "player_name": "Devika Vaidya"
+            },
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "381268",
+                "player_name": "Grace Harris"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "1346678",
+                "player_name": "Parshavi Chopra"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            }
+        ]
+    },
+    {
+        "venue": "March 05 2023 : DC-W vs RCB-W",
+        "match_name": "Delhi Capitals Women v Royal Challengers Bangalore Women",
+        "match_date": "05/03/2023",
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960867",
+                "player_name": "Arundhati Reddy"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "872217",
+                "player_name": "Tara Norris"
+            }
+        ],
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "961183",
+                "player_name": "Disha Kasat"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1255560",
+                "player_name": "Kanika Ahuja"
+            },
+            {
+                "cricinfo_id": "550687",
+                "player_name": "Sobhana Asha"
+            },
+            {
+                "cricinfo_id": "420314",
+                "player_name": "Megan Schutt"
+            },
+            {
+                "cricinfo_id": "709843",
+                "player_name": "Preeti Bose"
+            },
+            {
+                "cricinfo_id": "960853",
+                "player_name": "Renuka Singh"
+            }
+        ]
+    },
+    {
+        "venue": "March 05 2023 : GG-W vs UPW-W",
+        "match_name": "Gujarat Giants Women v UP Warriorz Women",
+        "match_date": "05/03/2023",
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "556529",
+                "player_name": "Sabbhineni Meghana"
+            },
+            {
+                "cricinfo_id": "885815",
+                "player_name": "Sophia Dunkley"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "1071705",
+                "player_name": "Annabel Sutherland"
+            },
+            {
+                "cricinfo_id": "597821",
+                "player_name": "Sushma Verma"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            },
+            {
+                "cricinfo_id": "418423",
+                "player_name": "Kim Garth"
+            },
+            {
+                "cricinfo_id": "960815",
+                "player_name": "Mansi Joshi"
+            }
+        ],
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "1255442",
+                "player_name": "Shweta Sehrawat"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "381268",
+                "player_name": "Grace Harris"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "709837",
+                "player_name": "Devika Vaidya"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            }
+        ]
+    },
+    {
+        "venue": "March 21 2023 : UPW-W vs DC-W",
+        "match_name": "UP Warriorz Women v Delhi Capitals Women",
+        "match_date": "21/03/2023",
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "1255442",
+                "player_name": "Shweta Sehrawat"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "1255485",
+                "player_name": "Soppadhandi Yashasri"
+            },
+            {
+                "cricinfo_id": "1346678",
+                "player_name": "Parshavi Chopra"
+            },
+            {
+                "cricinfo_id": "276997",
+                "player_name": "Shabnim Ismail"
+            }
+        ],
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "1187120",
+                "player_name": "Alice Capsey"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "960867",
+                "player_name": "Arundhati Reddy"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "630972",
+                "player_name": "Poonam Yadav"
+            }
+        ]
+    },
+    {
+        "venue": "March 12 2023 : UPW-W vs MI-W",
+        "match_name": "UP Warriorz Women v Mumbai Indians Women",
+        "match_date": "12/03/2023",
+        "UP Warriorz Women": [
+            {
+                "cricinfo_id": "275486",
+                "player_name": "Alyssa Healy"
+            },
+            {
+                "cricinfo_id": "709837",
+                "player_name": "Devika Vaidya"
+            },
+            {
+                "cricinfo_id": "1289983",
+                "player_name": "Kiran Navgire"
+            },
+            {
+                "cricinfo_id": "381311",
+                "player_name": "Tahlia McGrath"
+            },
+            {
+                "cricinfo_id": "1255541",
+                "player_name": "Simran Shaikh"
+            },
+            {
+                "cricinfo_id": "878039",
+                "player_name": "Sophie Ecclestone"
+            },
+            {
+                "cricinfo_id": "597811",
+                "player_name": "Deepti Sharma"
+            },
+            {
+                "cricinfo_id": "1255442",
+                "player_name": "Shweta Sehrawat"
+            },
+            {
+                "cricinfo_id": "276997",
+                "player_name": "Shabnim Ismail"
+            },
+            {
+                "cricinfo_id": "960673",
+                "player_name": "Anjali Sarvani"
+            },
+            {
+                "cricinfo_id": "709635",
+                "player_name": "Rajeshwari Gayakwad"
+            }
+        ],
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "1255408",
+                "player_name": "Dhara Gujjar"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ]
+    },
+    {
+        "venue": "March 11 2023 : GG-W vs DC-W",
+        "match_name": "Gujarat Giants Women v Delhi Capitals Women",
+        "match_date": "11/03/2023",
+        "Gujarat Giants Women": [
+            {
+                "cricinfo_id": "556529",
+                "player_name": "Sabbhineni Meghana"
+            },
+            {
+                "cricinfo_id": "922481",
+                "player_name": "Laura Wolvaardt"
+            },
+            {
+                "cricinfo_id": "960845",
+                "player_name": "Harleen Deol"
+            },
+            {
+                "cricinfo_id": "858809",
+                "player_name": "Ashleigh Gardner"
+            },
+            {
+                "cricinfo_id": "961107",
+                "player_name": "Dayalan Hemalatha"
+            },
+            {
+                "cricinfo_id": "946057",
+                "player_name": "Georgia Wareham"
+            },
+            {
+                "cricinfo_id": "597821",
+                "player_name": "Sushma Verma"
+            },
+            {
+                "cricinfo_id": "418423",
+                "player_name": "Kim Garth"
+            },
+            {
+                "cricinfo_id": "960847",
+                "player_name": "Tanuja Kanwar"
+            },
+            {
+                "cricinfo_id": "556537",
+                "player_name": "Sneh Rana"
+            },
+            {
+                "cricinfo_id": "960815",
+                "player_name": "Mansi Joshi"
+            }
+        ],
+        "Delhi Capitals Women": [
+            {
+                "cricinfo_id": "329336",
+                "player_name": "Meg Lanning"
+            },
+            {
+                "cricinfo_id": "1182523",
+                "player_name": "Shafali Verma"
+            },
+            {
+                "cricinfo_id": "883405",
+                "player_name": "Jemimah Rodrigues"
+            },
+            {
+                "cricinfo_id": "951163",
+                "player_name": "Laura Harris"
+            },
+            {
+                "cricinfo_id": "351836",
+                "player_name": "Marizanne Kapp"
+            },
+            {
+                "cricinfo_id": "374936",
+                "player_name": "Jess Jonassen"
+            },
+            {
+                "cricinfo_id": "883423",
+                "player_name": "Taniya Bhatia"
+            },
+            {
+                "cricinfo_id": "442145",
+                "player_name": "Shikha Pandey"
+            },
+            {
+                "cricinfo_id": "960949",
+                "player_name": "Minnu Mani"
+            },
+            {
+                "cricinfo_id": "960737",
+                "player_name": "Radha Yadav"
+            },
+            {
+                "cricinfo_id": "872217",
+                "player_name": "Tara Norris"
+            }
+        ]
+    },
+    {
+        "venue": "March 21 2023 : RCB-W vs MI-W",
+        "match_name": "Royal Challengers Bangalore Women v Mumbai Indians Women",
+        "match_date": "21/03/2023",
+        "Royal Challengers Bangalore Women": [
+            {
+                "cricinfo_id": "597806",
+                "player_name": "Smriti Mandhana"
+            },
+            {
+                "cricinfo_id": "231740",
+                "player_name": "Sophie Devine"
+            },
+            {
+                "cricinfo_id": "275487",
+                "player_name": "Ellyse Perry"
+            },
+            {
+                "cricinfo_id": "358259",
+                "player_name": "Heather Knight"
+            },
+            {
+                "cricinfo_id": "1255560",
+                "player_name": "Kanika Ahuja"
+            },
+            {
+                "cricinfo_id": "1212830",
+                "player_name": "Richa Ghosh"
+            },
+            {
+                "cricinfo_id": "1289948",
+                "player_name": "Shreyanka Patil"
+            },
+            {
+                "cricinfo_id": "420314",
+                "player_name": "Megan Schutt"
+            },
+            {
+                "cricinfo_id": "961183",
+                "player_name": "Disha Kasat"
+            },
+            {
+                "cricinfo_id": "550687",
+                "player_name": "Sobhana Asha"
+            },
+            {
+                "cricinfo_id": "709843",
+                "player_name": "Preeti Bose"
+            }
+        ],
+        "Mumbai Indians Women": [
+            {
+                "cricinfo_id": "474308",
+                "player_name": "Hayley Matthews"
+            },
+            {
+                "cricinfo_id": "960715",
+                "player_name": "Yastika Bhatia"
+            },
+            {
+                "cricinfo_id": "515905",
+                "player_name": "Nat Sciver-Brunt"
+            },
+            {
+                "cricinfo_id": "372317",
+                "player_name": "Harmanpreet Kaur"
+            },
+            {
+                "cricinfo_id": "803971",
+                "player_name": "Amelia Kerr"
+            },
+            {
+                "cricinfo_id": "883413",
+                "player_name": "Pooja Vastrakar"
+            },
+            {
+                "cricinfo_id": "1146066",
+                "player_name": "Issy Wong"
+            },
+            {
+                "cricinfo_id": "1255411",
+                "player_name": "Amanjot Kaur"
+            },
+            {
+                "cricinfo_id": "961005",
+                "player_name": "Humaira Kazi"
+            },
+            {
+                "cricinfo_id": "1255387",
+                "player_name": "Jintimani Kalita"
+            },
+            {
+                "cricinfo_id": "597815",
+                "player_name": "Saika Ishaque"
+            }
+        ]
+    }
+]

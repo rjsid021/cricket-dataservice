@@ -1,0 +1,60 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: cricketdataservice-bi
+  name: cricketdataservice-bi
+  namespace: sports-qa
+spec:
+  progressDeadlineSeconds: 600
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cricketdataservice-bi
+  strategy:
+    type: Recreate
+    # rollingUpdate:
+    #   maxSurge: 50%
+    #   maxUnavailable: 25%
+    # type: RollingUpdate
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: cricketdataservice-bi
+    spec:
+      containers:
+      - image: jioaicr.azurecr.io/jioaicr/jioai-sports/sportsanalytics/qa/cricketdataservice:qa-latest
+        imagePullPolicy: Always
+        name: cricketdataservice-bi
+        ports:
+        - containerPort: 5003
+        volumeMounts:
+          - name: azurefileshare
+            mountPath: /azurefs
+      imagePullSecrets:
+       - name: registrysecret
+      volumes:
+      - name: azurefileshare
+        persistentVolumeClaim:
+          claimName: azurefs-jioaicricketstorage-data-service-qa
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: cricketdataservice-bi
+  namespace: sports-qa
+  labels:
+    app: cricketdataservice-bi
+spec:
+  ports:
+  - port: 5003
+    targetPort: 5003
+    name: http
+    protocol: TCP
+    nodePort: 32105
+  selector:
+    app: cricketdataservice-bi
+  type: NodePort

@@ -1,0 +1,33 @@
+{
+  "columns_mapping": {
+    "SRC_BALL_NUMBER": "Actual Ball",
+    "SRC_OVER_NUMBER": "Over",
+    "SRC_INNINGS": "Innings",
+    "SRC_BATSMAN": "Batter",
+    "SRC_BOWLER": "Bowler",
+    "SRC_NON_STRIKER": "Non-Striker",
+    "SRC_BALL_RUNS": "Runs",
+    "SRC_EXTRAS": "Extra Runs",
+    "SRC_EXTRA": "Extra",
+    "SRC_OUT_BATSMAN": "Dismissed Batter",
+    "SRC_MATCH_DATE": "Date",
+    "SRC_MATCH_RESULT": "Result",
+    "SRC_WINNING_TEAM": "Winning Team",
+    "SRC_TOSS_TEAM": "Toss Won By",
+    "SRC_TOSS_DECISION": "Toss Decision",
+    "SRC_STADIUM_NAME": "Venue",
+    "SRC_BATTING_TEAM": "Batting Team",
+    "SRC_BOWLING_TEAM": "Bowling Team",
+    "SRC_WICKET_TYPE": "Wicket",
+    "SRC_PITCH_X": "PitchX",
+    "SRC_PITCH_Y": "PitchY",
+    "SRC_MATCH": "Match",
+    "SRC_DATE": "Date",
+    "SRC_TEAM_NAME": "Date",
+    "SRC_TEAM_RUNS": "Team Runs",
+    "SRC_BOWL_LINE": "Line",
+    "SRC_BOWL_LENGTH": "Length",
+    "SRC_BOWL_TYPE": "Delivery",
+    "SRC_SHOT_TYPE": "Shot"
+  }
+}

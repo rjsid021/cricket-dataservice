@@ -1,0 +1,1845 @@
+[
+    {
+        "venue": "July 27 2023 : TSK vs SEA",
+        "match_name": "Seattle Orcas v Texas Super Kings",
+        "match_date": "27/07/2023",
+        "Texas Super Kings": [
+            {
+                "cricinfo_id": "379140",
+                "player_name": "Devon Conway"
+            },
+            {
+                "cricinfo_id": "44828",
+                "player_name": "Faf du Plessis"
+            },
+            {
+                "cricinfo_id": "322815",
+                "player_name": "Cody Chetty"
+            },
+            {
+                "cricinfo_id": "451947",
+                "player_name": "Milind Kumar"
+            },
+            {
+                "cricinfo_id": "321777",
+                "player_name": "David Miller"
+            },
+            {
+                "cricinfo_id": "502714",
+                "player_name": "Mitchell Santner"
+            },
+            {
+                "cricinfo_id": "826901",
+                "player_name": "Daniel Sams"
+            },
+            {
+                "cricinfo_id": "450881",
+                "player_name": "Calvin Savage"
+            },
+            {
+                "cricinfo_id": "935881",
+                "player_name": "Mohammad Mohsin"
+            },
+            {
+                "cricinfo_id": "596010",
+                "player_name": "Gerald Coetzee"
+            },
+            {
+                "cricinfo_id": "223642",
+                "player_name": "Rusty Theron"
+            }
+        ],
+        "Seattle Orcas": [
+            {
+                "cricinfo_id": "379143",
+                "player_name": "Quinton de Kock"
+            },
+            {
+                "cricinfo_id": "788879",
+                "player_name": "Nauman Anwar"
+            },
+            {
+                "cricinfo_id": "422965",
+                "player_name": "Shehan Jayasuriya"
+            },
+            {
+                "cricinfo_id": "436757",
+                "player_name": "Heinrich Klaasen"
+            },
+            {
+                "cricinfo_id": "554701",
+                "player_name": "Shubham Ranjane"
+            },
+            {
+                "cricinfo_id": "327830",
+                "player_name": "Dwaine Pretorius"
+            },
+            {
+                "cricinfo_id": "227758",
+                "player_name": "Imad Wasim"
+            },
+            {
+                "cricinfo_id": "265564",
+                "player_name": "Wayne Parnell"
+            },
+            {
+                "cricinfo_id": "422847",
+                "player_name": "Harmeet Singh"
+            },
+            {
+                "cricinfo_id": "459508",
+                "player_name": "Andrew Tye"
+            },
+            {
+                "cricinfo_id": "326635",
+                "player_name": "Cameron Gannon"
+            }
+        ]
+    },
+    {
+        "venue": "July 17 2023 : TSK vs MI NY",
+        "match_name": "Texas Super Kings v MI New York",
+        "match_date": "17/07/2023",
+        "Texas Super Kings": [
+            {
+                "cricinfo_id": "379140",
+                "player_name": "Devon Conway"
+            },
+            {
+                "cricinfo_id": "44828",
+                "player_name": "Faf du Plessis"
+            },
+            {
+                "cricinfo_id": "322815",
+                "player_name": "Cody Chetty"
+            },
+            {
+                "cricinfo_id": "321777",
+                "player_name": "David Miller"
+            },
+            {
+                "cricinfo_id": "502714",
+                "player_name": "Mitchell Santner"
+            },
+            {
+                "cricinfo_id": "51439",
+                "player_name": "Dwayne Bravo"
+            },
+            {
+                "cricinfo_id": "826901",
+                "player_name": "Daniel Sams"
+            },
+            {
+                "cricinfo_id": "451947",
+                "player_name": "Milind Kumar"
+            },
+            {
+                "cricinfo_id": "935881",
+                "player_name": "Mohammad Mohsin"
+            },
+            {
+                "cricinfo_id": "223642",
+                "player_name": "Rusty Theron"
+            },
+            {
+                "cricinfo_id": "290739",
+                "player_name": "Zia-ul-Haq"
+            }
+        ],
+        "MI New York": [
+            {
+                "cricinfo_id": "647771",
+                "player_name": "Shayan Jahangir"
+            },
+            {
+                "cricinfo_id": "1159641",
+                "player_name": "Monank Patel"
+            },
+            {
+                "cricinfo_id": "348133",
+                "player_name": "Steven Taylor"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "230559",
+                "player_name": "Kieron Pollard"
+            },
+            {
+                "cricinfo_id": "384518",
+                "player_name": "Hammad Azam"
+            },
+            {
+                "cricinfo_id": "793463",
+                "player_name": "Rashid Khan"
+            },
+            {
+                "cricinfo_id": "550215",
+                "player_name": "Kagiso Rabada"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            },
+            {
+                "cricinfo_id": "547092",
+                "player_name": "Ehsan Adil"
+            }
+        ]
+    },
+    {
+        "venue": "July 13 2023 : TSK vs LAKR",
+        "match_name": "Texas Super Kings v Los Angeles Knight Riders",
+        "match_date": "13/07/2023",
+        "Texas Super Kings": [
+            {
+                "cricinfo_id": "379140",
+                "player_name": "Devon Conway"
+            },
+            {
+                "cricinfo_id": "44828",
+                "player_name": "Faf du Plessis"
+            },
+            {
+                "cricinfo_id": "699483",
+                "player_name": "Lahiru Milantha"
+            },
+            {
+                "cricinfo_id": "321777",
+                "player_name": "David Miller"
+            },
+            {
+                "cricinfo_id": "451947",
+                "player_name": "Milind Kumar"
+            },
+            {
+                "cricinfo_id": "502714",
+                "player_name": "Mitchell Santner"
+            },
+            {
+                "cricinfo_id": "51439",
+                "player_name": "Dwayne Bravo"
+            },
+            {
+                "cricinfo_id": "450881",
+                "player_name": "Calvin Savage"
+            },
+            {
+                "cricinfo_id": "596010",
+                "player_name": "Gerald Coetzee"
+            },
+            {
+                "cricinfo_id": "935881",
+                "player_name": "Mohammad Mohsin"
+            },
+            {
+                "cricinfo_id": "223642",
+                "player_name": "Rusty Theron"
+            }
+        ],
+        "Los Angeles Knight Riders": [
+            {
+                "cricinfo_id": "226492",
+                "player_name": "Martin Guptill"
+            },
+            {
+                "cricinfo_id": "446499",
+                "player_name": "Unmukt Chand"
+            },
+            {
+                "cricinfo_id": "318845",
+                "player_name": "Rilee Rossouw"
+            },
+            {
+                "cricinfo_id": "348129",
+                "player_name": "Nitish Kumar"
+            },
+            {
+                "cricinfo_id": "430105",
+                "player_name": "Jaskaran Malhotra"
+            },
+            {
+                "cricinfo_id": "276298",
+                "player_name": "Andre Russell"
+            },
+            {
+                "cricinfo_id": "230558",
+                "player_name": "Sunil Narine"
+            },
+            {
+                "cricinfo_id": "429927",
+                "player_name": "Corné Dry"
+            },
+            {
+                "cricinfo_id": "379504",
+                "player_name": "Adam Zampa"
+            },
+            {
+                "cricinfo_id": "493773",
+                "player_name": "Lockie Ferguson"
+            },
+            {
+                "cricinfo_id": "927119",
+                "player_name": "Ali Khan"
+            }
+        ]
+    },
+    {
+        "venue": "July 25 2023 : MI NY vs SEA",
+        "match_name": "MI New York v Seattle Orcas",
+        "match_date": "25/07/2023",
+        "MI New York": [
+            {
+                "cricinfo_id": "647771",
+                "player_name": "Shayan Jahangir"
+            },
+            {
+                "cricinfo_id": "1159641",
+                "player_name": "Monank Patel"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "384518",
+                "player_name": "Hammad Azam"
+            },
+            {
+                "cricinfo_id": "230559",
+                "player_name": "Kieron Pollard"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "221140",
+                "player_name": "David Wiese"
+            },
+            {
+                "cricinfo_id": "793463",
+                "player_name": "Rashid Khan"
+            },
+            {
+                "cricinfo_id": "1041679",
+                "player_name": "Nosthush Kenjige"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            },
+            {
+                "cricinfo_id": "547092",
+                "player_name": "Ehsan Adil"
+            }
+        ],
+        "Seattle Orcas": [
+            {
+                "cricinfo_id": "379143",
+                "player_name": "Quinton de Kock"
+            },
+            {
+                "cricinfo_id": "788879",
+                "player_name": "Nauman Anwar"
+            },
+            {
+                "cricinfo_id": "422965",
+                "player_name": "Shehan Jayasuriya"
+            },
+            {
+                "cricinfo_id": "436757",
+                "player_name": "Heinrich Klaasen"
+            },
+            {
+                "cricinfo_id": "554701",
+                "player_name": "Shubham Ranjane"
+            },
+            {
+                "cricinfo_id": "437316",
+                "player_name": "Dasun Shanaka"
+            },
+            {
+                "cricinfo_id": "327830",
+                "player_name": "Dwaine Pretorius"
+            },
+            {
+                "cricinfo_id": "227758",
+                "player_name": "Imad Wasim"
+            },
+            {
+                "cricinfo_id": "422847",
+                "player_name": "Harmeet Singh"
+            },
+            {
+                "cricinfo_id": "459508",
+                "player_name": "Andrew Tye"
+            },
+            {
+                "cricinfo_id": "326635",
+                "player_name": "Cameron Gannon"
+            }
+        ]
+    },
+    {
+        "venue": "July 16 2023 : MI NY vs LAKR",
+        "match_name": "Los Angeles Knight Riders v MI New York",
+        "match_date": "16/07/2023",
+        "MI New York": [
+            {
+                "cricinfo_id": "1070665",
+                "player_name": "Dewald Brevis"
+            },
+            {
+                "cricinfo_id": "647771",
+                "player_name": "Shayan Jahangir"
+            },
+            {
+                "cricinfo_id": "1159641",
+                "player_name": "Monank Patel"
+            },
+            {
+                "cricinfo_id": "384518",
+                "player_name": "Hammad Azam"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "230559",
+                "player_name": "Kieron Pollard"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "550215",
+                "player_name": "Kagiso Rabada"
+            },
+            {
+                "cricinfo_id": "1041679",
+                "player_name": "Nosthush Kenjige"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            },
+            {
+                "cricinfo_id": "547092",
+                "player_name": "Ehsan Adil"
+            }
+        ],
+        "Los Angeles Knight Riders": [
+            {
+                "cricinfo_id": "226492",
+                "player_name": "Martin Guptill"
+            },
+            {
+                "cricinfo_id": "446499",
+                "player_name": "Unmukt Chand"
+            },
+            {
+                "cricinfo_id": "318845",
+                "player_name": "Rilee Rossouw"
+            },
+            {
+                "cricinfo_id": "348129",
+                "player_name": "Nitish Kumar"
+            },
+            {
+                "cricinfo_id": "430105",
+                "player_name": "Jaskaran Malhotra"
+            },
+            {
+                "cricinfo_id": "276298",
+                "player_name": "Andre Russell"
+            },
+            {
+                "cricinfo_id": "230558",
+                "player_name": "Sunil Narine"
+            },
+            {
+                "cricinfo_id": "429927",
+                "player_name": "Corné Dry"
+            },
+            {
+                "cricinfo_id": "379504",
+                "player_name": "Adam Zampa"
+            },
+            {
+                "cricinfo_id": "927119",
+                "player_name": "Ali Khan"
+            },
+            {
+                "cricinfo_id": "493773",
+                "player_name": "Lockie Ferguson"
+            }
+        ]
+    },
+    {
+        "venue": "July 14 2023 : WSH vs SEA",
+        "match_name": "Seattle Orcas v Washington Freedom",
+        "match_date": "14/07/2023",
+        "Washington Freedom": [
+            {
+                "cricinfo_id": "605575",
+                "player_name": "Matthew Short"
+            },
+            {
+                "cricinfo_id": "485379",
+                "player_name": "Andries Gous"
+            },
+            {
+                "cricinfo_id": "556916",
+                "player_name": "Mukhtar Ahmed"
+            },
+            {
+                "cricinfo_id": "823509",
+                "player_name": "Glenn Phillips"
+            },
+            {
+                "cricinfo_id": "5961",
+                "player_name": "Moises Henriques"
+            },
+            {
+                "cricinfo_id": "328160",
+                "player_name": "Obus Pienaar"
+            },
+            {
+                "cricinfo_id": "696401",
+                "player_name": "Marco Jansen"
+            },
+            {
+                "cricinfo_id": "530812",
+                "player_name": "Akeal Hosein"
+            },
+            {
+                "cricinfo_id": "379926",
+                "player_name": "Dane Piedt"
+            },
+            {
+                "cricinfo_id": "481979",
+                "player_name": "Anrich Nortje"
+            },
+            {
+                "cricinfo_id": "398513",
+                "player_name": "Saurabh Netravalkar"
+            }
+        ],
+        "Seattle Orcas": [
+            {
+                "cricinfo_id": "379143",
+                "player_name": "Quinton de Kock"
+            },
+            {
+                "cricinfo_id": "788879",
+                "player_name": "Nauman Anwar"
+            },
+            {
+                "cricinfo_id": "422965",
+                "player_name": "Shehan Jayasuriya"
+            },
+            {
+                "cricinfo_id": "436757",
+                "player_name": "Heinrich Klaasen"
+            },
+            {
+                "cricinfo_id": "227758",
+                "player_name": "Imad Wasim"
+            },
+            {
+                "cricinfo_id": "670025",
+                "player_name": "Shimron Hetmyer"
+            },
+            {
+                "cricinfo_id": "554701",
+                "player_name": "Shubham Ranjane"
+            },
+            {
+                "cricinfo_id": "326635",
+                "player_name": "Cameron Gannon"
+            },
+            {
+                "cricinfo_id": "265564",
+                "player_name": "Wayne Parnell"
+            },
+            {
+                "cricinfo_id": "422847",
+                "player_name": "Harmeet Singh"
+            },
+            {
+                "cricinfo_id": "459508",
+                "player_name": "Andrew Tye"
+            }
+        ]
+    },
+    {
+        "venue": "July 28 2023 : TSK vs MI NY",
+        "match_name": "Texas Super Kings v MI New York",
+        "match_date": "28/07/2023",
+        "Texas Super Kings": [
+            {
+                "cricinfo_id": "44828",
+                "player_name": "Faf du Plessis"
+            },
+            {
+                "cricinfo_id": "379140",
+                "player_name": "Devon Conway"
+            },
+            {
+                "cricinfo_id": "502714",
+                "player_name": "Mitchell Santner"
+            },
+            {
+                "cricinfo_id": "322815",
+                "player_name": "Cody Chetty"
+            },
+            {
+                "cricinfo_id": "451947",
+                "player_name": "Milind Kumar"
+            },
+            {
+                "cricinfo_id": "826901",
+                "player_name": "Daniel Sams"
+            },
+            {
+                "cricinfo_id": "321777",
+                "player_name": "David Miller"
+            },
+            {
+                "cricinfo_id": "450881",
+                "player_name": "Calvin Savage"
+            },
+            {
+                "cricinfo_id": "935881",
+                "player_name": "Mohammad Mohsin"
+            },
+            {
+                "cricinfo_id": "596010",
+                "player_name": "Gerald Coetzee"
+            },
+            {
+                "cricinfo_id": "223642",
+                "player_name": "Rusty Theron"
+            }
+        ],
+        "MI New York": [
+            {
+                "cricinfo_id": "647771",
+                "player_name": "Shayan Jahangir"
+            },
+            {
+                "cricinfo_id": "1070762",
+                "player_name": "Slade van Staden"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "1070665",
+                "player_name": "Dewald Brevis"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "221140",
+                "player_name": "David Wiese"
+            },
+            {
+                "cricinfo_id": "348133",
+                "player_name": "Steven Taylor"
+            },
+            {
+                "cricinfo_id": "793463",
+                "player_name": "Rashid Khan"
+            },
+            {
+                "cricinfo_id": "1041679",
+                "player_name": "Nosthush Kenjige"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            },
+            {
+                "cricinfo_id": "547092",
+                "player_name": "Ehsan Adil"
+            }
+        ]
+    },
+    {
+        "venue": "July 21 2023 : TSK vs SEA",
+        "match_name": "Seattle Orcas v Texas Super Kings",
+        "match_date": "21/07/2023",
+        "Texas Super Kings": [
+            {
+                "cricinfo_id": "379140",
+                "player_name": "Devon Conway"
+            },
+            {
+                "cricinfo_id": "44828",
+                "player_name": "Faf du Plessis"
+            },
+            {
+                "cricinfo_id": "322815",
+                "player_name": "Cody Chetty"
+            },
+            {
+                "cricinfo_id": "321777",
+                "player_name": "David Miller"
+            },
+            {
+                "cricinfo_id": "451947",
+                "player_name": "Milind Kumar"
+            },
+            {
+                "cricinfo_id": "502714",
+                "player_name": "Mitchell Santner"
+            },
+            {
+                "cricinfo_id": "51439",
+                "player_name": "Dwayne Bravo"
+            },
+            {
+                "cricinfo_id": "826901",
+                "player_name": "Daniel Sams"
+            },
+            {
+                "cricinfo_id": "935881",
+                "player_name": "Mohammad Mohsin"
+            },
+            {
+                "cricinfo_id": "290739",
+                "player_name": "Zia-ul-Haq"
+            },
+            {
+                "cricinfo_id": "223642",
+                "player_name": "Rusty Theron"
+            }
+        ],
+        "Seattle Orcas": [
+            {
+                "cricinfo_id": "379143",
+                "player_name": "Quinton de Kock"
+            },
+            {
+                "cricinfo_id": "788879",
+                "player_name": "Nauman Anwar"
+            },
+            {
+                "cricinfo_id": "436757",
+                "player_name": "Heinrich Klaasen"
+            },
+            {
+                "cricinfo_id": "437316",
+                "player_name": "Dasun Shanaka"
+            },
+            {
+                "cricinfo_id": "422965",
+                "player_name": "Shehan Jayasuriya"
+            },
+            {
+                "cricinfo_id": "227758",
+                "player_name": "Imad Wasim"
+            },
+            {
+                "cricinfo_id": "554701",
+                "player_name": "Shubham Ranjane"
+            },
+            {
+                "cricinfo_id": "326635",
+                "player_name": "Cameron Gannon"
+            },
+            {
+                "cricinfo_id": "265564",
+                "player_name": "Wayne Parnell"
+            },
+            {
+                "cricinfo_id": "422847",
+                "player_name": "Harmeet Singh"
+            },
+            {
+                "cricinfo_id": "459508",
+                "player_name": "Andrew Tye"
+            }
+        ]
+    },
+    {
+        "venue": "July 20 2023 : LAKR vs WSH",
+        "match_name": "Washington Freedom v Los Angeles Knight Riders",
+        "match_date": "20/07/2023",
+        "Los Angeles Knight Riders": [
+            {
+                "cricinfo_id": "298438",
+                "player_name": "Jason Roy"
+            },
+            {
+                "cricinfo_id": "446499",
+                "player_name": "Unmukt Chand"
+            },
+            {
+                "cricinfo_id": "348129",
+                "player_name": "Nitish Kumar"
+            },
+            {
+                "cricinfo_id": "318845",
+                "player_name": "Rilee Rossouw"
+            },
+            {
+                "cricinfo_id": "430105",
+                "player_name": "Jaskaran Malhotra"
+            },
+            {
+                "cricinfo_id": "276298",
+                "player_name": "Andre Russell"
+            },
+            {
+                "cricinfo_id": "230558",
+                "player_name": "Sunil Narine"
+            },
+            {
+                "cricinfo_id": "429927",
+                "player_name": "Corné Dry"
+            },
+            {
+                "cricinfo_id": "379504",
+                "player_name": "Adam Zampa"
+            },
+            {
+                "cricinfo_id": "927119",
+                "player_name": "Ali Khan"
+            },
+            {
+                "cricinfo_id": "1123718",
+                "player_name": "Spencer Johnson"
+            }
+        ],
+        "Washington Freedom": [
+            {
+                "cricinfo_id": "605575",
+                "player_name": "Matthew Short"
+            },
+            {
+                "cricinfo_id": "485379",
+                "player_name": "Andries Gous"
+            },
+            {
+                "cricinfo_id": "556916",
+                "player_name": "Mukhtar Ahmed"
+            },
+            {
+                "cricinfo_id": "823509",
+                "player_name": "Glenn Phillips"
+            },
+            {
+                "cricinfo_id": "5961",
+                "player_name": "Moises Henriques"
+            },
+            {
+                "cricinfo_id": "328160",
+                "player_name": "Obus Pienaar"
+            },
+            {
+                "cricinfo_id": "696401",
+                "player_name": "Marco Jansen"
+            },
+            {
+                "cricinfo_id": "530812",
+                "player_name": "Akeal Hosein"
+            },
+            {
+                "cricinfo_id": "379926",
+                "player_name": "Dane Piedt"
+            },
+            {
+                "cricinfo_id": "398513",
+                "player_name": "Saurabh Netravalkar"
+            },
+            {
+                "cricinfo_id": "481979",
+                "player_name": "Anrich Nortje"
+            }
+        ]
+    },
+    {
+        "venue": "July 15 2023 : SEA vs SF",
+        "match_name": "San Francisco Unicorns v Seattle Orcas",
+        "match_date": "15/07/2023",
+        "Seattle Orcas": [
+            {
+                "cricinfo_id": "379143",
+                "player_name": "Quinton de Kock"
+            },
+            {
+                "cricinfo_id": "788879",
+                "player_name": "Nauman Anwar"
+            },
+            {
+                "cricinfo_id": "422965",
+                "player_name": "Shehan Jayasuriya"
+            },
+            {
+                "cricinfo_id": "436757",
+                "player_name": "Heinrich Klaasen"
+            },
+            {
+                "cricinfo_id": "670025",
+                "player_name": "Shimron Hetmyer"
+            },
+            {
+                "cricinfo_id": "554701",
+                "player_name": "Shubham Ranjane"
+            },
+            {
+                "cricinfo_id": "227758",
+                "player_name": "Imad Wasim"
+            },
+            {
+                "cricinfo_id": "326635",
+                "player_name": "Cameron Gannon"
+            },
+            {
+                "cricinfo_id": "265564",
+                "player_name": "Wayne Parnell"
+            },
+            {
+                "cricinfo_id": "422847",
+                "player_name": "Harmeet Singh"
+            },
+            {
+                "cricinfo_id": "459508",
+                "player_name": "Andrew Tye"
+            }
+        ],
+        "San Francisco Unicorns": [
+            {
+                "cricinfo_id": "230193",
+                "player_name": "Matthew Wade"
+            },
+            {
+                "cricinfo_id": "959759",
+                "player_name": "Finn Allen"
+            },
+            {
+                "cricinfo_id": "325012",
+                "player_name": "Marcus Stoinis"
+            },
+            {
+                "cricinfo_id": "5334",
+                "player_name": "Aaron Finch"
+            },
+            {
+                "cricinfo_id": "277662",
+                "player_name": "Corey Anderson"
+            },
+            {
+                "cricinfo_id": "922943",
+                "player_name": "Shadab Khan"
+            },
+            {
+                "cricinfo_id": "1079860",
+                "player_name": "Tajinder Singh"
+            },
+            {
+                "cricinfo_id": "628217",
+                "player_name": "Chaitanya Bishnoi"
+            },
+            {
+                "cricinfo_id": "19264",
+                "player_name": "Liam Plunkett"
+            },
+            {
+                "cricinfo_id": "1161606",
+                "player_name": "Haris Rauf"
+            },
+            {
+                "cricinfo_id": "440894",
+                "player_name": "Carmi le Roux"
+            }
+        ]
+    },
+    {
+        "venue": "July 23 2023 : WSH vs MI NY",
+        "match_name": "MI New York v Washington Freedom",
+        "match_date": "23/07/2023",
+        "Washington Freedom": [
+            {
+                "cricinfo_id": "605575",
+                "player_name": "Matthew Short"
+            },
+            {
+                "cricinfo_id": "485379",
+                "player_name": "Andries Gous"
+            },
+            {
+                "cricinfo_id": "556916",
+                "player_name": "Mukhtar Ahmed"
+            },
+            {
+                "cricinfo_id": "823509",
+                "player_name": "Glenn Phillips"
+            },
+            {
+                "cricinfo_id": "5961",
+                "player_name": "Moises Henriques"
+            },
+            {
+                "cricinfo_id": "328160",
+                "player_name": "Obus Pienaar"
+            },
+            {
+                "cricinfo_id": "530812",
+                "player_name": "Akeal Hosein"
+            },
+            {
+                "cricinfo_id": "696401",
+                "player_name": "Marco Jansen"
+            },
+            {
+                "cricinfo_id": "379926",
+                "player_name": "Dane Piedt"
+            },
+            {
+                "cricinfo_id": "398513",
+                "player_name": "Saurabh Netravalkar"
+            },
+            {
+                "cricinfo_id": "481979",
+                "player_name": "Anrich Nortje"
+            }
+        ],
+        "MI New York": [
+            {
+                "cricinfo_id": "647771",
+                "player_name": "Shayan Jahangir"
+            },
+            {
+                "cricinfo_id": "1159641",
+                "player_name": "Monank Patel"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "230559",
+                "player_name": "Kieron Pollard"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "384518",
+                "player_name": "Hammad Azam"
+            },
+            {
+                "cricinfo_id": "221140",
+                "player_name": "David Wiese"
+            },
+            {
+                "cricinfo_id": "793463",
+                "player_name": "Rashid Khan"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            },
+            {
+                "cricinfo_id": "547092",
+                "player_name": "Ehsan Adil"
+            },
+            {
+                "cricinfo_id": "1041679",
+                "player_name": "Nosthush Kenjige"
+            }
+        ]
+    },
+    {
+        "venue": "July 22 2023 : WSH vs SF",
+        "match_name": "Washington Freedom v San Francisco Unicorns",
+        "match_date": "22/07/2023",
+        "Washington Freedom": [
+            {
+                "cricinfo_id": "605575",
+                "player_name": "Matthew Short"
+            },
+            {
+                "cricinfo_id": "485379",
+                "player_name": "Andries Gous"
+            },
+            {
+                "cricinfo_id": "556916",
+                "player_name": "Mukhtar Ahmed"
+            },
+            {
+                "cricinfo_id": "823509",
+                "player_name": "Glenn Phillips"
+            },
+            {
+                "cricinfo_id": "5961",
+                "player_name": "Moises Henriques"
+            },
+            {
+                "cricinfo_id": "328160",
+                "player_name": "Obus Pienaar"
+            },
+            {
+                "cricinfo_id": "530812",
+                "player_name": "Akeal Hosein"
+            },
+            {
+                "cricinfo_id": "696401",
+                "player_name": "Marco Jansen"
+            },
+            {
+                "cricinfo_id": "379926",
+                "player_name": "Dane Piedt"
+            },
+            {
+                "cricinfo_id": "398513",
+                "player_name": "Saurabh Netravalkar"
+            },
+            {
+                "cricinfo_id": "481979",
+                "player_name": "Anrich Nortje"
+            }
+        ],
+        "San Francisco Unicorns": [
+            {
+                "cricinfo_id": "959759",
+                "player_name": "Finn Allen"
+            },
+            {
+                "cricinfo_id": "230193",
+                "player_name": "Matthew Wade"
+            },
+            {
+                "cricinfo_id": "325012",
+                "player_name": "Marcus Stoinis"
+            },
+            {
+                "cricinfo_id": "922943",
+                "player_name": "Shadab Khan"
+            },
+            {
+                "cricinfo_id": "277662",
+                "player_name": "Corey Anderson"
+            },
+            {
+                "cricinfo_id": "5334",
+                "player_name": "Aaron Finch"
+            },
+            {
+                "cricinfo_id": "1079860",
+                "player_name": "Tajinder Singh"
+            },
+            {
+                "cricinfo_id": "628217",
+                "player_name": "Chaitanya Bishnoi"
+            },
+            {
+                "cricinfo_id": "19264",
+                "player_name": "Liam Plunkett"
+            },
+            {
+                "cricinfo_id": "1161606",
+                "player_name": "Haris Rauf"
+            },
+            {
+                "cricinfo_id": "440894",
+                "player_name": "Carmi le Roux"
+            }
+        ]
+    },
+    {
+        "venue": "July 23 2023 : SEA vs LAKR",
+        "match_name": "Los Angeles Knight Riders v Seattle Orcas",
+        "match_date": "23/07/2023",
+        "Seattle Orcas": [
+            {
+                "cricinfo_id": "379143",
+                "player_name": "Quinton de Kock"
+            },
+            {
+                "cricinfo_id": "788879",
+                "player_name": "Nauman Anwar"
+            },
+            {
+                "cricinfo_id": "422965",
+                "player_name": "Shehan Jayasuriya"
+            },
+            {
+                "cricinfo_id": "436757",
+                "player_name": "Heinrich Klaasen"
+            },
+            {
+                "cricinfo_id": "554701",
+                "player_name": "Shubham Ranjane"
+            },
+            {
+                "cricinfo_id": "437316",
+                "player_name": "Dasun Shanaka"
+            },
+            {
+                "cricinfo_id": "227758",
+                "player_name": "Imad Wasim"
+            },
+            {
+                "cricinfo_id": "459508",
+                "player_name": "Andrew Tye"
+            },
+            {
+                "cricinfo_id": "326635",
+                "player_name": "Cameron Gannon"
+            },
+            {
+                "cricinfo_id": "265564",
+                "player_name": "Wayne Parnell"
+            },
+            {
+                "cricinfo_id": "422847",
+                "player_name": "Harmeet Singh"
+            }
+        ],
+        "Los Angeles Knight Riders": [
+            {
+                "cricinfo_id": "298438",
+                "player_name": "Jason Roy"
+            },
+            {
+                "cricinfo_id": "430105",
+                "player_name": "Jaskaran Malhotra"
+            },
+            {
+                "cricinfo_id": "230551",
+                "player_name": "Gajanand Singh"
+            },
+            {
+                "cricinfo_id": "318845",
+                "player_name": "Rilee Rossouw"
+            },
+            {
+                "cricinfo_id": "922967",
+                "player_name": "Saif Badar"
+            },
+            {
+                "cricinfo_id": "276298",
+                "player_name": "Andre Russell"
+            },
+            {
+                "cricinfo_id": "230558",
+                "player_name": "Sunil Narine"
+            },
+            {
+                "cricinfo_id": "334621",
+                "player_name": "Shadley van Schalkwyk"
+            },
+            {
+                "cricinfo_id": "379504",
+                "player_name": "Adam Zampa"
+            },
+            {
+                "cricinfo_id": "1123718",
+                "player_name": "Spencer Johnson"
+            },
+            {
+                "cricinfo_id": "927119",
+                "player_name": "Ali Khan"
+            }
+        ]
+    },
+    {
+        "venue": "July 24 2023 : SF vs TSK",
+        "match_name": "San Francisco Unicorns v Texas Super Kings",
+        "match_date": "24/07/2023",
+        "San Francisco Unicorns": [
+            {
+                "cricinfo_id": "959759",
+                "player_name": "Finn Allen"
+            },
+            {
+                "cricinfo_id": "230193",
+                "player_name": "Matthew Wade"
+            },
+            {
+                "cricinfo_id": "325012",
+                "player_name": "Marcus Stoinis"
+            },
+            {
+                "cricinfo_id": "922943",
+                "player_name": "Shadab Khan"
+            },
+            {
+                "cricinfo_id": "277662",
+                "player_name": "Corey Anderson"
+            },
+            {
+                "cricinfo_id": "628217",
+                "player_name": "Chaitanya Bishnoi"
+            },
+            {
+                "cricinfo_id": "5334",
+                "player_name": "Aaron Finch"
+            },
+            {
+                "cricinfo_id": "1079860",
+                "player_name": "Tajinder Singh"
+            },
+            {
+                "cricinfo_id": "19264",
+                "player_name": "Liam Plunkett"
+            },
+            {
+                "cricinfo_id": "1161606",
+                "player_name": "Haris Rauf"
+            },
+            {
+                "cricinfo_id": "440894",
+                "player_name": "Carmi le Roux"
+            }
+        ],
+        "Texas Super Kings": [
+            {
+                "cricinfo_id": "44828",
+                "player_name": "Faf du Plessis"
+            },
+            {
+                "cricinfo_id": "379140",
+                "player_name": "Devon Conway"
+            },
+            {
+                "cricinfo_id": "322815",
+                "player_name": "Cody Chetty"
+            },
+            {
+                "cricinfo_id": "451947",
+                "player_name": "Milind Kumar"
+            },
+            {
+                "cricinfo_id": "321777",
+                "player_name": "David Miller"
+            },
+            {
+                "cricinfo_id": "502714",
+                "player_name": "Mitchell Santner"
+            },
+            {
+                "cricinfo_id": "826901",
+                "player_name": "Daniel Sams"
+            },
+            {
+                "cricinfo_id": "450881",
+                "player_name": "Calvin Savage"
+            },
+            {
+                "cricinfo_id": "596010",
+                "player_name": "Gerald Coetzee"
+            },
+            {
+                "cricinfo_id": "935881",
+                "player_name": "Mohammad Mohsin"
+            },
+            {
+                "cricinfo_id": "223642",
+                "player_name": "Rusty Theron"
+            }
+        ]
+    },
+    {
+        "venue": "July 30 2023 : SEA vs MI NY",
+        "match_name": "Seattle Orcas v MI New York",
+        "match_date": "30/07/2023",
+        "Seattle Orcas": [
+            {
+                "cricinfo_id": "379143",
+                "player_name": "Quinton de Kock"
+            },
+            {
+                "cricinfo_id": "788879",
+                "player_name": "Nauman Anwar"
+            },
+            {
+                "cricinfo_id": "422965",
+                "player_name": "Shehan Jayasuriya"
+            },
+            {
+                "cricinfo_id": "436757",
+                "player_name": "Heinrich Klaasen"
+            },
+            {
+                "cricinfo_id": "554701",
+                "player_name": "Shubham Ranjane"
+            },
+            {
+                "cricinfo_id": "227758",
+                "player_name": "Imad Wasim"
+            },
+            {
+                "cricinfo_id": "327830",
+                "player_name": "Dwaine Pretorius"
+            },
+            {
+                "cricinfo_id": "459508",
+                "player_name": "Andrew Tye"
+            },
+            {
+                "cricinfo_id": "265564",
+                "player_name": "Wayne Parnell"
+            },
+            {
+                "cricinfo_id": "422847",
+                "player_name": "Harmeet Singh"
+            },
+            {
+                "cricinfo_id": "326635",
+                "player_name": "Cameron Gannon"
+            }
+        ],
+        "MI New York": [
+            {
+                "cricinfo_id": "348133",
+                "player_name": "Steven Taylor"
+            },
+            {
+                "cricinfo_id": "647771",
+                "player_name": "Shayan Jahangir"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "1070665",
+                "player_name": "Dewald Brevis"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "384518",
+                "player_name": "Hammad Azam"
+            },
+            {
+                "cricinfo_id": "221140",
+                "player_name": "David Wiese"
+            },
+            {
+                "cricinfo_id": "793463",
+                "player_name": "Rashid Khan"
+            },
+            {
+                "cricinfo_id": "1041679",
+                "player_name": "Nosthush Kenjige"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            },
+            {
+                "cricinfo_id": "772471",
+                "player_name": "Jessy Singh"
+            }
+        ]
+    },
+    {
+        "venue": "July 27 2023 : MI NY vs WSH",
+        "match_name": "Washington Freedom v MI New York",
+        "match_date": "27/07/2023",
+        "MI New York": [
+            {
+                "cricinfo_id": "647771",
+                "player_name": "Shayan Jahangir"
+            },
+            {
+                "cricinfo_id": "1159641",
+                "player_name": "Monank Patel"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "1070665",
+                "player_name": "Dewald Brevis"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "221140",
+                "player_name": "David Wiese"
+            },
+            {
+                "cricinfo_id": "348133",
+                "player_name": "Steven Taylor"
+            },
+            {
+                "cricinfo_id": "793463",
+                "player_name": "Rashid Khan"
+            },
+            {
+                "cricinfo_id": "1041679",
+                "player_name": "Nosthush Kenjige"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            },
+            {
+                "cricinfo_id": "547092",
+                "player_name": "Ehsan Adil"
+            }
+        ],
+        "Washington Freedom": [
+            {
+                "cricinfo_id": "605575",
+                "player_name": "Matthew Short"
+            },
+            {
+                "cricinfo_id": "485379",
+                "player_name": "Andries Gous"
+            },
+            {
+                "cricinfo_id": "556916",
+                "player_name": "Mukhtar Ahmed"
+            },
+            {
+                "cricinfo_id": "823509",
+                "player_name": "Glenn Phillips"
+            },
+            {
+                "cricinfo_id": "5961",
+                "player_name": "Moises Henriques"
+            },
+            {
+                "cricinfo_id": "328160",
+                "player_name": "Obus Pienaar"
+            },
+            {
+                "cricinfo_id": "530812",
+                "player_name": "Akeal Hosein"
+            },
+            {
+                "cricinfo_id": "696401",
+                "player_name": "Marco Jansen"
+            },
+            {
+                "cricinfo_id": "594293",
+                "player_name": "Justin Dill"
+            },
+            {
+                "cricinfo_id": "481979",
+                "player_name": "Anrich Nortje"
+            },
+            {
+                "cricinfo_id": "398513",
+                "player_name": "Saurabh Netravalkar"
+            }
+        ]
+    },
+    {
+        "venue": "July 14 2023 : SF vs MI NY",
+        "match_name": "MI New York v San Francisco Unicorns",
+        "match_date": "14/07/2023",
+        "San Francisco Unicorns": [
+            {
+                "cricinfo_id": "959759",
+                "player_name": "Finn Allen"
+            },
+            {
+                "cricinfo_id": "230193",
+                "player_name": "Matthew Wade"
+            },
+            {
+                "cricinfo_id": "325012",
+                "player_name": "Marcus Stoinis"
+            },
+            {
+                "cricinfo_id": "5334",
+                "player_name": "Aaron Finch"
+            },
+            {
+                "cricinfo_id": "277662",
+                "player_name": "Corey Anderson"
+            },
+            {
+                "cricinfo_id": "922943",
+                "player_name": "Shadab Khan"
+            },
+            {
+                "cricinfo_id": "1079860",
+                "player_name": "Tajinder Singh"
+            },
+            {
+                "cricinfo_id": "628217",
+                "player_name": "Chaitanya Bishnoi"
+            },
+            {
+                "cricinfo_id": "440894",
+                "player_name": "Carmi le Roux"
+            },
+            {
+                "cricinfo_id": "1161606",
+                "player_name": "Haris Rauf"
+            },
+            {
+                "cricinfo_id": "19264",
+                "player_name": "Liam Plunkett"
+            }
+        ],
+        "MI New York": [
+            {
+                "cricinfo_id": "1070665",
+                "player_name": "Dewald Brevis"
+            },
+            {
+                "cricinfo_id": "348133",
+                "player_name": "Steven Taylor"
+            },
+            {
+                "cricinfo_id": "1159641",
+                "player_name": "Monank Patel"
+            },
+            {
+                "cricinfo_id": "604302",
+                "player_name": "Nicholas Pooran"
+            },
+            {
+                "cricinfo_id": "230559",
+                "player_name": "Kieron Pollard"
+            },
+            {
+                "cricinfo_id": "892749",
+                "player_name": "Tim David"
+            },
+            {
+                "cricinfo_id": "384518",
+                "player_name": "Hammad Azam"
+            },
+            {
+                "cricinfo_id": "317292",
+                "player_name": "Sarabjit Ladda"
+            },
+            {
+                "cricinfo_id": "547092",
+                "player_name": "Ehsan Adil"
+            },
+            {
+                "cricinfo_id": "550215",
+                "player_name": "Kagiso Rabada"
+            },
+            {
+                "cricinfo_id": "277912",
+                "player_name": "Trent Boult"
+            }
+        ]
+    },
+    {
+        "venue": "July 18 2023 : SF vs LAKR",
+        "match_name": "Los Angeles Knight Riders v San Francisco Unicorns",
+        "match_date": "18/07/2023",
+        "San Francisco Unicorns": [
+            {
+                "cricinfo_id": "230193",
+                "player_name": "Matthew Wade"
+            },
+            {
+                "cricinfo_id": "959759",
+                "player_name": "Finn Allen"
+            },
+            {
+                "cricinfo_id": "325012",
+                "player_name": "Marcus Stoinis"
+            },
+            {
+                "cricinfo_id": "922943",
+                "player_name": "Shadab Khan"
+            },
+            {
+                "cricinfo_id": "277662",
+                "player_name": "Corey Anderson"
+            },
+            {
+                "cricinfo_id": "5334",
+                "player_name": "Aaron Finch"
+            },
+            {
+                "cricinfo_id": "1079860",
+                "player_name": "Tajinder Singh"
+            },
+            {
+                "cricinfo_id": "628217",
+                "player_name": "Chaitanya Bishnoi"
+            },
+            {
+                "cricinfo_id": "440894",
+                "player_name": "Carmi le Roux"
+            },
+            {
+                "cricinfo_id": "1161606",
+                "player_name": "Haris Rauf"
+            },
+            {
+                "cricinfo_id": "19264",
+                "player_name": "Liam Plunkett"
+            }
+        ],
+        "Los Angeles Knight Riders": [
+            {
+                "cricinfo_id": "298438",
+                "player_name": "Jason Roy"
+            },
+            {
+                "cricinfo_id": "446499",
+                "player_name": "Unmukt Chand"
+            },
+            {
+                "cricinfo_id": "348129",
+                "player_name": "Nitish Kumar"
+            },
+            {
+                "cricinfo_id": "318845",
+                "player_name": "Rilee Rossouw"
+            },
+            {
+                "cricinfo_id": "430105",
+                "player_name": "Jaskaran Malhotra"
+            },
+            {
+                "cricinfo_id": "276298",
+                "player_name": "Andre Russell"
+            },
+            {
+                "cricinfo_id": "230558",
+                "player_name": "Sunil Narine"
+            },
+            {
+                "cricinfo_id": "429927",
+                "player_name": "Corné Dry"
+            },
+            {
+                "cricinfo_id": "379504",
+                "player_name": "Adam Zampa"
+            },
+            {
+                "cricinfo_id": "927119",
+                "player_name": "Ali Khan"
+            },
+            {
+                "cricinfo_id": "1123718",
+                "player_name": "Spencer Johnson"
+            }
+        ]
+    },
+    {
+        "venue": "July 16 2023 : WSH vs TSK",
+        "match_name": "Texas Super Kings v Washington Freedom",
+        "match_date": "16/07/2023",
+        "Washington Freedom": [
+            {
+                "cricinfo_id": "605575",
+                "player_name": "Matthew Short"
+            },
+            {
+                "cricinfo_id": "485379",
+                "player_name": "Andries Gous"
+            },
+            {
+                "cricinfo_id": "556916",
+                "player_name": "Mukhtar Ahmed"
+            },
+            {
+                "cricinfo_id": "823509",
+                "player_name": "Glenn Phillips"
+            },
+            {
+                "cricinfo_id": "5961",
+                "player_name": "Moises Henriques"
+            },
+            {
+                "cricinfo_id": "328160",
+                "player_name": "Obus Pienaar"
+            },
+            {
+                "cricinfo_id": "696401",
+                "player_name": "Marco Jansen"
+            },
+            {
+                "cricinfo_id": "530812",
+                "player_name": "Akeal Hosein"
+            },
+            {
+                "cricinfo_id": "379926",
+                "player_name": "Dane Piedt"
+            },
+            {
+                "cricinfo_id": "398513",
+                "player_name": "Saurabh Netravalkar"
+            },
+            {
+                "cricinfo_id": "481979",
+                "player_name": "Anrich Nortje"
+            }
+        ],
+        "Texas Super Kings": [
+            {
+                "cricinfo_id": "44828",
+                "player_name": "Faf du Plessis"
+            },
+            {
+                "cricinfo_id": "379140",
+                "player_name": "Devon Conway"
+            },
+            {
+                "cricinfo_id": "699483",
+                "player_name": "Lahiru Milantha"
+            },
+            {
+                "cricinfo_id": "321777",
+                "player_name": "David Miller"
+            },
+            {
+                "cricinfo_id": "451947",
+                "player_name": "Milind Kumar"
+            },
+            {
+                "cricinfo_id": "502714",
+                "player_name": "Mitchell Santner"
+            },
+            {
+                "cricinfo_id": "51439",
+                "player_name": "Dwayne Bravo"
+            },
+            {
+                "cricinfo_id": "450881",
+                "player_name": "Calvin Savage"
+            },
+            {
+                "cricinfo_id": "596010",
+                "player_name": "Gerald Coetzee"
+            },
+            {
+                "cricinfo_id": "935881",
+                "player_name": "Mohammad Mohsin"
+            },
+            {
+                "cricinfo_id": "223642",
+                "player_name": "Rusty Theron"
+            }
+        ]
+    }
+]

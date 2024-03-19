@@ -1,0 +1,15 @@
+id,team_name,record_date,player_name,bat_load,bowl_load,field_load,run_load,match_load,x_train_load,strength_load,rehab_load,total_snc_load,total_trn_load,total_load,bowling_match_balls,bat_match_load,bowl_match_load,field_match_load
+8901,MI Women,"Friday, Feb 09, 2024",Yastika Bhatia,0,0,0,0,1560,0,0,0,0,0,1560,1,120,0,1440
+8919,MI Women,"Sunday, Feb 11, 2024",Priyanka Bala,140,0,240,0,0,0,540,0,540,920,920,0,0,0,0
+8903,MI Women,"Friday, Feb 09, 2024",Amanjot Kaur,0,0,0,0,180,0,0,0,0,0,180,0,60,120,0
+8923,MI Women,"Monday, Feb 12, 2024",Fatima Jaffer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8921,MI Women,"Sunday, Feb 11, 2024",Sajeevan Sajana,175,30,100,0,0,0,300,0,300,605,605,0,0,0,0
+8922,MI Women,"Sunday, Feb 11, 2024",Sathyamoorthy Keerthana,0,0,0,0,280,0,0,0,0,0,280,0,40,240,0
+8920,MI Women,"Sunday, Feb 11, 2024",Humaira Kazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8900,MI Women,"Friday, Feb 09, 2024",Sathyamoorthy Keerthana,0,0,0,0,80,0,0,0,0,0,80,24,0,80,0
+8916,MI Women,"Sunday, Feb 11, 2024",Fatima Jaffer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8915,MI Women,"Saturday, Feb 10, 2024",Saika Ishaque,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8904,MI Women,"Saturday, Feb 10, 2024",Yastika Bhatia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8918,MI Women,"Sunday, Feb 11, 2024",Yastika Bhatia,120,0,180,0,0,0,0,0,0,300,300,0,0,0,0
+8902,MI Women,"Friday, Feb 09, 2024",Sajeevan Sajana,150,10,0,0,0,0,0,0,0,160,160,0,0,0,0
+8917,MI Women,"Saturday, Feb 10, 2024",Priyanka Bala,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

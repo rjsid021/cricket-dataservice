@@ -1,0 +1,5 @@
+0 */3 * * * . /usr/app/wellness_run.sh  >> /var/log/schedule_gps_cron.log 2>&1
+
+30 23 * * * . /usr/app/run.sh  >> /var/log/schedule_cron.log 2>&1
+
+* * * * * . /usr/app/calendar_run.sh  >> /var/log/calendar_reminder.log 2>&1

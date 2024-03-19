@@ -1,0 +1,1 @@
+[//]: # (This directory contains config used by sftp servers to download data.)
